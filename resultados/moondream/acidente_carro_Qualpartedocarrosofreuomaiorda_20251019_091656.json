@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "acidente_carro.jpeg",
+    "question_original_pt": "Qual parte do carro sofreu o maior dano no acidente?",
+    "timestamp_sent_utc": "2025-10-19T09:16:56.144343",
+    "date": "2025-10-19",
+    "pergunta_translated_en": "Which part of the car suffered the most damage in the accident?",
+    "response_original_en": "Moondream não inicializado",
+    "response_translated_pt": "Moondream não inicializado",
+    "latency_seconds": 0.40342235565185547
+}
