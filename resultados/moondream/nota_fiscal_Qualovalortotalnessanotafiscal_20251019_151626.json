@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Qual o valor total nessa nota fiscal?",
+    "timestamp_sent_utc": "2025-10-19T15:16:26.045260",
+    "date": "2025-10-19",
+    "pergunta_translated_en": "What is the total value on this invoice?",
+    "response_original_en": "Moondream não inicializado",
+    "response_translated_pt": "Moondream não inicializado",
+    "latency_seconds": 0.4406545162200928
+}
