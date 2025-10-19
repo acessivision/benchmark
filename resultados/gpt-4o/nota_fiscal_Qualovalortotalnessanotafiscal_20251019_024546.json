@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Qual o valor total nessa nota fiscal?",
+    "timestamp_sent_utc": "2025-10-19T02:45:45.668318",
+    "date": "2025-10-19",
+    "response": "Erro ao chamar a API: Error code: 401 - {'error': {'message': \"You didn't provide an API key. You need to provide your API key in an Authorization header using Bearer auth (i.e. Authorization: Bearer YOUR_KEY), or as the password field (with blank username) if you're accessing the API from your browser and are prompted for a username and password. You can obtain an API key from https://platform.openai.com/account/api-keys.\", 'type': 'invalid_request_error', 'param': None, 'code': None}}",
+    "latency_seconds": 0.10714459419250488
+}
