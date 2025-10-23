@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000096.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-23T06:28:53.552279",
+    "date": "2025-10-23",
+    "response": "Erro ao chamar a API: \n  No API_KEY or ADC found. Please either:\n    - Set the `GOOGLE_API_KEY` environment variable.\n    - Manually pass the key with `genai.configure(api_key=my_api_key)`.\n    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.",
+    "latency_seconds": 0.002725362777709961
+}
