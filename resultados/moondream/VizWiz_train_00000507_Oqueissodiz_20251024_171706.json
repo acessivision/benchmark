@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-24T17:17:05.440553",
+    "date": "2025-10-24",
+    "pergunta_translated_en": "What does this say?",
+    "response_original_en": "Moondream não inicializado",
+    "response_translated_pt": "Moondream não inicializado",
+    "latency_seconds": 0.3611578941345215
+}
