@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000509.jpg",
+    "question_original_pt": "De que cor é essa calça?",
+    "timestamp_sent_utc": "2025-10-24T09:20:37.975379",
+    "date": "2025-10-24",
+    "pergunta_translated_en": "What color are these pants?",
+    "response_original_en": "Moondream não inicializado",
+    "response_translated_pt": "Moondream não inicializado",
+    "latency_seconds": 0.7746965885162354
+}
