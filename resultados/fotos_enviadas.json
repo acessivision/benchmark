@@ -67,5 +67,12 @@
         "data/imagens/VizWiz_train_00000152.jpg",
         "data/imagens/calendario.jpeg",
         "data/imagens/VizWiz_train_00000033.jpg"
+    ],
+    "2025-10-26": [
+        "data/imagens/VizWiz_train_00000309.jpg",
+        "data/imagens/VizWiz_train_00000474.jpg",
+        "data/imagens/VizWiz_train_00000313.jpg",
+        "data/imagens/direcao_placas_hospital.jpeg",
+        "data/imagens/VizWiz_train_00001097.jpg"
     ]
 }
