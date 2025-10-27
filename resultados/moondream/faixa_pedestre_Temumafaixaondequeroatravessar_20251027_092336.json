@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "faixa_pedestre.jpg",
+    "question_original_pt": "Tem uma faixa onde quero atravessar?",
+    "timestamp_sent_utc": "2025-10-27T09:23:35.513009",
+    "date": "2025-10-27",
+    "pergunta_translated_en": "Is there a lane I want to cross?",
+    "response_original_en": "Moondream não inicializado",
+    "response_translated_pt": "Moondream não inicializado",
+    "latency_seconds": 0.5664472579956055
+}
