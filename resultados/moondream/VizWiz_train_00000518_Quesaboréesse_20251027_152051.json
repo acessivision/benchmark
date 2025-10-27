@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-10-27T15:20:50.226739",
+    "date": "2025-10-27",
+    "pergunta_translated_en": "What flavor is that?",
+    "response_original_en": "Moondream não inicializado",
+    "response_translated_pt": "Moondream não inicializado",
+    "latency_seconds": 1.0468730926513672
+}
