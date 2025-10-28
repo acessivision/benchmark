@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001198.jpg",
+    "question_original_pt": "Tem uma TV em cima dessa cômoda?",
+    "timestamp_sent_utc": "2025-10-28T15:26:11.684286",
+    "date": "2025-10-28",
+    "response": "Sim, há uma TV (televisão) em cima dessa cômoda.\n\nHá também outros equipamentos eletrônicos (como um DVD player ou receptor) e o que parece ser um espelho grande atrás da TV.",
+    "latency_seconds": 4.2157769203186035
+}

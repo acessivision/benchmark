@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000443.jpg",
+    "question_original_pt": "Qual é a cor desses óculos?",
+    "timestamp_sent_utc": "2025-10-28T15:24:59.327332",
+    "date": "2025-10-28",
+    "response": "A armação é azul escuro e as lentes são escuras (fumê/acinzentadas).",
+    "latency_seconds": 7.822892189025879
+}

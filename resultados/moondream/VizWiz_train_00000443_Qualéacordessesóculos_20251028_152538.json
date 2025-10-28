@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000443.jpg",
+    "question_original_pt": "Qual é a cor desses óculos?",
+    "timestamp_sent_utc": "2025-10-28T15:24:59.327332",
+    "date": "2025-10-28",
+    "pergunta_translated_en": "What color are these glasses?",
+    "response_original_en": "The glasses are blue.",
+    "response_translated_pt": "Os óculos são azuis.",
+    "latency_seconds": 6.270511627197266
+}
