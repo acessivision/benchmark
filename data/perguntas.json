@@ -341,5 +341,101 @@
     "pergunta": [
       "Tem uma TV em cima dessa cômoda?"
     ]
+  },
+  {
+    "arquivo_imagem": "gescom_nota_fiscal.jpg",
+    "pergunta": [
+      "Qual foi o valor pago?"
+    ]
+  },
+  {
+    "arquivo_imagem": "tabela_precos.png",
+    "pergunta": [
+      "Leia essa tabela inteira para mim"
+    ]
+  },
+  {
+    "arquivo_imagem": "tabela_climatica.png",
+    "pergunta": [
+      "Qual a previsão do tempo para quinta-feira?"
+    ]
+  },
+  {
+    "arquivo_imagem": "cardapio_burguers.jpg",
+    "pergunta": [
+      "Leia esse cardápio inteiro para mim"
+    ]
+  },
+  {
+    "arquivo_imagem": "cardapio_ofidevo.jpg",
+    "pergunta": [
+      "Leia esse cardápio inteiro para mim"
+    ]
+  },
+  {
+    "arquivo_imagem": "cardapio_soban.jpg",
+    "pergunta": [
+      "Leia esse cardápio inteiro para mim"
+    ]
+  },
+  {
+    "arquivo_imagem": "cupom_fiscal_eletronico.jpg",
+    "pergunta": [
+      "Qual o valor total?"
+    ]
+  },
+  {
+    "arquivo_imagem": "cupom_fiscal.jpg",
+    "pergunta": [
+      "Qual o valor total?"
+    ]
+  },
+  {
+    "arquivo_imagem": "encontra_molho_tomate.jpeg",
+    "pergunta": [
+      "Consegue encontrar o molho de tomate pra mim?"
+    ]
+  },
+  {
+    "arquivo_imagem": "encontra_cha_de_camomila_maracuja.jpeg",
+    "pergunta": [
+      "Encontra o chá de camomila com maracujá pra mim"
+    ]
+  },
+  {
+    "arquivo_imagem": "cha_groselha_e_cha_limao.jpeg",
+    "pergunta": [
+      "Qual desses é o chá de limão?"
+    ]
+  },
+  {
+    "arquivo_imagem": "pomada.jpeg",
+    "pergunta": [
+      "Que remédio é esse?"
+    ]
+  },
+  {
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "pergunta": [
+      "Que remédio é esse?"
+    ]
+  },
+  {
+    "arquivo_imagem": "buscopan.jpeg",
+    "pergunta": [
+      "Que caixa é essa?"
+    ]
+  },
+  {
+    "arquivo_imagem": "sulfadiazina_de_prata.jpeg",
+    "pergunta": [
+      "Que remédio é esse?"
+    ]
+  },
+  {
+    "arquivo_imagem": "bula.jpeg",
+    "pergunta": [
+      "Consegue ler essa bula?"
+    ]
   }
 ]
