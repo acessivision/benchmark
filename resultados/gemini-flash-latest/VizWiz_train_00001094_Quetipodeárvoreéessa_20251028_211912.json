@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "question_original_pt": "Que tipo de árvore é essa?",
+    "timestamp_sent_utc": "2025-10-28T21:18:24.317968",
+    "date": "2025-10-28",
+    "response": "Essa árvore é conhecida como **Pau-Verde** ou **Paloverde**.\n\nO nome científico geralmente é do gênero **_Parkinsonia_**.\n\n### Características que confirmam a identificação:\n\n1.  **Flores Amarelas Vibrantes:** O aspecto mais marcante são as abundantes flores amarelas intensas, que florescem fortemente na primavera.\n2.  **Galhos Verdes:** A característica mais distintiva do Paloverde (que significa \"pau verde\" em espanhol) é o tronco e os galhos que permanecem verdes e realizam fotossíntese. Isso é uma adaptação a climas áridos, permitindo que a árvore continue a produzir alimento mesmo quando perde suas folhas minúsculas (o que ela faz para economizar água).\n3.  **Folhagem Escassa/Pequena:** As folhas são bipinadas (pequenas e plumosas) e frequentemente caem, deixando os galhos verdes expostos.\n\nEsta árvore é extremamente comum em paisagismo em regiões desérticas ou semiáridas, como o Sudoeste dos Estados Unidos (Arizona, Califórnia) e o México. A espécie mais comum em paisagismo pode ser a **_Parkinsonia aculeata_** (Pau-Verde Mexicano) ou o popular híbrido sem espinhos **'Desert Museum'**.",
+    "latency_seconds": 6.664388418197632
+}

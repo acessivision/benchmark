@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000510.jpg",
+    "question_original_pt": "De que cor é a minha jaqueta?",
+    "timestamp_sent_utc": "2025-10-28T21:19:41.235032",
+    "date": "2025-10-28",
+    "response": "Parece ser em tons de roxo/azulado — um tom violeta / azul‑escuro. A dobra e a iluminação da foto podem alterar as cores; se quiser certeza, mande uma foto da jaqueta estendida sob luz natural.",
+    "latency_seconds": 5.613142967224121
+}

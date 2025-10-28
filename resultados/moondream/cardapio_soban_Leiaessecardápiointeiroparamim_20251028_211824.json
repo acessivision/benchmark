@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "cardapio_soban.jpg",
+    "question_original_pt": "Leia esse cardápio inteiro para mim",
+    "timestamp_sent_utc": "2025-10-28T21:17:18.238128",
+    "date": "2025-10-28",
+    "pergunta_translated_en": "Read this entire menu to me",
+    "response_original_en": "Vegetarian/Vegano:\n150. BiBimBap\n151. DolGoChung\n152. DuBu Steak\n153. ChiBoKumBap\n154. CheeBatat\n155. BanChan Extra\n206. Porção de Arroz\n202. Macarrão de Batata Doce\n155. KimChi Tigué\n156. DenJang Tigué\n157. ReMul SunDuBu\n158. TchaJangmyeong\n159. TchamPong\n200. Porção de Arroz\n201. BanChan Extra\n12. Macarrão de Batata Doce\n\nExtra:\n5. BanChan Extra\n12. Macarrão de Batata Doce",
+    "response_translated_pt": "Vegetariano/Vegano:\n150. BiBimBap\n151. Drogaria Alvorada\n152. Bife DuBu\n153. ChiBoKumBap\n154. CheeBatat\n155. Banco de Portugal\n206. Porção de Arroz\n202. Macarrão de Batata Doce\n155. KimChi Tigué\n156. Casa de Carnes\n157. ReMul SunDuBu\n158. TchaJangmyeong\n159. TchamPong\n200. Porção de Arroz\n201. Banco de Portugal\n12. Macarrão de Batata Doce\n\nExtra:\n5. BanChan Extra\n12. Macarrão de Batata Doce",
+    "latency_seconds": 6.377805471420288
+}
