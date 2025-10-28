@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "question_original_pt": "Que tipo de árvore é essa?",
+    "timestamp_sent_utc": "2025-10-28T09:20:49.664079",
+    "date": "2025-10-28",
+    "response": "Erro ao chamar a API: \n  No API_KEY or ADC found. Please either:\n    - Set the `GOOGLE_API_KEY` environment variable.\n    - Manually pass the key with `genai.configure(api_key=my_api_key)`.\n    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.",
+    "latency_seconds": 0.00635218620300293
+}
