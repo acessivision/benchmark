@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "question_original_pt": "Que tipo de árvore é essa?",
+    "timestamp_sent_utc": "2025-10-28T15:23:37.718432",
+    "date": "2025-10-28",
+    "response": "Essa árvore é um **Palo Verde** (ou \"Pau-Verde\" em tradução literal).\n\nO Palo Verde é facilmente reconhecido por suas flores amarelas vibrantes que florescem profusamente na primavera, e por seus galhos e troncos frequentemente verdes ou verde-azulados, que realizam fotossíntese (uma adaptação a climas áridos).\n\nA espécie mais comum que apresenta essa intensa cor amarela e flores grandes é provavelmente a:\n\n*   **Nome Científico:** ***Parkinsonia aculeata***\n*   **Nome Comum em Português:** **Palo Verde** ou, às vezes, **Acácia-de-Jerusalém** (embora este último nome seja menos preciso).\n\nÉ uma árvore muito popular em regiões desérticas e semiáridas, como o Sudoeste dos Estados Unidos (Arizona, Califórnia) e o México, devido à sua tolerância à seca.",
+    "latency_seconds": 6.324712514877319
+}

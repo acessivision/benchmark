@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000510.jpg",
+    "question_original_pt": "De que cor é a minha jaqueta?",
+    "timestamp_sent_utc": "2025-10-28T15:25:38.996931",
+    "date": "2025-10-28",
+    "pergunta_translated_en": "What color is my jacket?",
+    "response_original_en": "The jacket is blue.",
+    "response_translated_pt": "A jaqueta é azul.",
+    "latency_seconds": 3.35666561126709
+}
