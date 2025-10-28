@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "question_original_pt": "Que tipo de árvore é essa?",
+    "timestamp_sent_utc": "2025-10-28T06:29:51.125437",
+    "date": "2025-10-28",
+    "pergunta_translated_en": "What kind of tree is this?",
+    "response_original_en": "Moondream não inicializado",
+    "response_translated_pt": "Moondream não inicializado",
+    "latency_seconds": 0.5026960372924805
+}

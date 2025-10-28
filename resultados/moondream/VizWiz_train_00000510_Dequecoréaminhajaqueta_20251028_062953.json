@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000510.jpg",
+    "question_original_pt": "De que cor é a minha jaqueta?",
+    "timestamp_sent_utc": "2025-10-28T06:29:52.653272",
+    "date": "2025-10-28",
+    "pergunta_translated_en": "What color is my jacket?",
+    "response_original_en": "Moondream não inicializado",
+    "response_translated_pt": "Moondream não inicializado",
+    "latency_seconds": 0.5537254810333252
+}
