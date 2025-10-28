@@ -1,7 +1,8 @@
-google-generativeai
-openai
-requests
-Pillow
-google-cloud-translate
+google-generativeai>=0.6.0
+openai>=1.50.0
+requests>=2.31.0
+Pillow>=10.0.0
+google-cloud-translate>=3.15.0
 moondream
-python-dotenv
+python-dotenv>=1.0.0
+packaging>=24.0
