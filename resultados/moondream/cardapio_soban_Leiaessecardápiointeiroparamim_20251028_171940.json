@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "cardapio_soban.jpg",
+    "question_original_pt": "Leia esse cardápio inteiro para mim",
+    "timestamp_sent_utc": "2025-10-28T17:18:14.699314",
+    "date": "2025-10-28",
+    "pergunta_translated_en": "Read this entire menu to me",
+    "response_original_en": "Vegetarian/Vegano:\n150. BiBimBap\n151. DolGoChung\n152. DuBu Steak\n153. ChiBoKumBap\n154. CheatBatat\n155. BanChan\n202. Macarrão de Batata Doce\n\nExtra:\n5. BanChan Extra\n12. Macarrão de Batata Doce\n\nSoban:\nVegetarian/Vegano:\n155. KimChi TiGu\n165. DenJang TiGu\n17. ReMul SunDuB\n18. TchaJangmyeon\n19. BanChan Extra\n\nVegetarian/Vegano:\n150. BiBimBap\n151. DolGoChung\n152. DuBu Steak\n153. ChiBoKumBap\n154. CheatBatat\n155. BanChan\n\nExtra:\n5. BanChan Extra\n12. Macarrão de Batata Doce",
+    "response_translated_pt": "Vegetariano/Vegano:\n150. BiBimBap\n151. Drogaria Alvorada\n152. Bife DuBu\n153. ChiBoKumBap\n154. CheatBatat\n155. Banco de Portugal\n202. Macarrão de Batata Doce\n\nExtras:\n5. BanChan Extra\n12. Macarrão de Batata Doce\n\nSoban:\nVegetariano/Vegano:\n155. Agro\n165. Casa de Carnes\n17. ReMul SunDuB\n18. TchaJangmyeon\n19. BanChanExtra\n\nVegetariano/Vegano:\n150. BiBimBap\n151. Drogaria Alvorada\n152. Bife DuBu\n153. ChiBoKumBap\n154. CheatBatat\n155. Banco de Portugal\n\nExtras:\n5. BanChan Extra\n12. Macarrão de Batata Doce",
+    "latency_seconds": 6.777364492416382
+}
