@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001198.jpg",
+    "question_original_pt": "Tem uma TV em cima dessa cômoda?",
+    "timestamp_sent_utc": "2025-10-28T21:20:04.930740",
+    "date": "2025-10-28",
+    "response": "Sim, há uma TV em cima dessa cômoda.\n\nÉ uma TV de tela plana, de cor prateada/cinza claro, que está ligada e exibindo alguma imagem. Ao lado dela, parece haver um segundo monitor menor ou talvez um console de DVD/media player.",
+    "latency_seconds": 1.2307331562042236
+}

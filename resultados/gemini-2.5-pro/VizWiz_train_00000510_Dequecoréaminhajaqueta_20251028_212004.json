@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000510.jpg",
+    "question_original_pt": "De que cor é a minha jaqueta?",
+    "timestamp_sent_utc": "2025-10-28T21:19:41.235032",
+    "date": "2025-10-28",
+    "response": "Com base na imagem, a sua jaqueta é **azul**.\n\nÉ um tom de azul vibrante e brilhante, que poderia ser descrito como **azul royal** ou **azul cobalto**. Devido ao brilho do tecido e à iluminação, algumas partes parecem ter um reflexo levemente roxo.",
+    "latency_seconds": 6.433015584945679
+}
