@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001198.jpg",
+    "question_original_pt": "Tem uma TV em cima dessa cômoda?",
+    "timestamp_sent_utc": "2025-10-28T03:09:48.942980",
+    "date": "2025-10-28",
+    "pergunta_translated_en": "Is there a TV on top of that dresser?",
+    "response_original_en": "Moondream não inicializado",
+    "response_translated_pt": "Moondream não inicializado",
+    "latency_seconds": 1.0369739532470703
+}

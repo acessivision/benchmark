@@ -81,5 +81,12 @@
         "data/imagens/faixa_pedestre.jpg",
         "data/imagens/VizWiz_train_00000518.jpg",
         "data/imagens/VizWiz_train_00000370.jpg"
+    ],
+    "2025-10-28": [
+        "data/imagens/cardapio_soban.jpg",
+        "data/imagens/VizWiz_train_00001094.jpg",
+        "data/imagens/VizWiz_train_00000443.jpg",
+        "data/imagens/VizWiz_train_00000510.jpg",
+        "data/imagens/VizWiz_train_00001198.jpg"
     ]
 }
