@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "question_original_pt": "Que tipo de árvore é essa?",
+    "timestamp_sent_utc": "2025-10-28T17:19:40.331047",
+    "date": "2025-10-28",
+    "response": "A árvore retratada na imagem é muito provavelmente uma **Pau-Verde** (ou Palo Verde, em espanhol), pertencente ao gênero *Parkinsonia*.\n\nDada a intensidade das flores amarelas e a estrutura da folhagem e galhos, a espécie mais comum que se assemelha a esta é:\n\n### **Pau-Verde Mexicano** (*Parkinsonia aculeata*)\n\n**Características que levam a essa identificação:**\n\n1.  **Flores:** As flores são de um amarelo vibrante e intenso, agrupadas em cachos. Elas possuem cinco pétalas, sendo geralmente uma delas (a pétala superior) marcada com um toque de laranja ou vermelho na base, o que é visível nas imagens.\n2.  **Galhos/Caule:** Uma das características mais notáveis do Pau-Verde é o tronco e os galhos de cor **verde**, o que lhe confere o nome (\"pau verde\" em português/espanhol). Esta casca verde é fotossintética, uma adaptação que permite à árvore continuar produzindo alimento mesmo em períodos de seca, quando ela pode perder suas pequenas folhas.\n3.  **Folhagem:** As folhas são pequenas, compostas (bipinadas) e de aparência delicada e plumosa. Muitas vezes, a árvore é vista com poucas folhas, destacando-se os galhos verdes e as flores.\n\nO Pau-Verde Mexicano é muito popular em regiões áridas e semiáridas (como o sudoeste dos EUA e o norte do México), sendo valorizado por sua resistência à seca e sua espetacular floração na primavera e início do verão.",
+    "latency_seconds": 8.870542287826538
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "question_original_pt": "Que tipo de árvore é essa?",
+    "timestamp_sent_utc": "2025-10-28T17:19:40.331047",
+    "date": "2025-10-28",
+    "response": "Com base nas características da imagem, esta é uma árvore do gênero *Parkinsonia*, comumente conhecida como **Palo Verde**.\n\nAs principais características que levam a essa identificação são:\n\n*   **Flores Amarelas:** Possui cachos de flores amarelas vibrantes, que são muito distintivas.\n*   **Galhos e Tronco Verdes:** O nome \"Palo Verde\" significa \"pau verde\" em espanhol. A casca dos galhos e do tronco é verde e capaz de realizar fotossíntese, uma adaptação que permite à árvore prosperar em climas áridos, mesmo quando perde suas folhas.\n*   **Folhagem Delicada:** As folhas são pequenas e com uma aparência de pena (bipinadas), o que ajuda a conservar água.\n\nUma das espécies mais comuns com essa aparência é a ***Parkinsonia aculeata***, também conhecida em português como **Espinho-de-jerusalém** ou **Palo-verde-mexicano**. É uma árvore ornamental muito popular em regiões quentes e secas.",
+    "latency_seconds": 21.86726403236389
+}
