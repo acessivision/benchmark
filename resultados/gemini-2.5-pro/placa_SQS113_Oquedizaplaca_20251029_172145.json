@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "placa_SQS113.jpeg",
+    "question_original_pt": "O que diz a placa?",
+    "timestamp_sent_utc": "2025-10-29T17:20:34.450605",
+    "date": "2025-10-29",
+    "response": "Com certeza! Analisando a imagem, a placa é um mapa informativo de localização em Brasília. Aqui está o que ela diz, em detalhes:\n\nA placa é um guia da **SQS 113 (Superquadra Sul 113)**.\n\nEla está dividida em três partes principais:\n\n**1. Título:**\n*   **SQS 113 Superquadra Sul**\n*   **South Superblock** (a tradução em inglês)\n\n**2. Mapa Detalhado da Superquadra:**\n*   Mostra a disposição dos blocos residenciais, identificados pelas letras: **A, B, C, D, E, F, G, H, J, K**.\n*   Indica pontos de interesse dentro da quadra:\n    *   **Centro de Ensino Fundamental**\n    *   **Quadra de Esportes**\n    *   **Jornaleiro**\n*   Mostra as vias ao redor, como o **Eixo W Sul**, a **SQS 313** e o **Comércio Local Sul (CLS) 113**.\n*   O mais importante: há um marcador vermelho que diz **\"Você está aqui\"**, indicando a sua localização exata no momento da foto, que é na entrada da quadra, próximo ao Bloco A e ao comércio local.\n\n**3. Mapa Geral e Legenda:**\n*   Na parte inferior, há um **mapa do Plano Piloto de Brasília**, mostrando onde a SQS 113 (destacada em vermelho) se localiza dentro da Asa Sul.\n*   Há também uma pequena legenda com ícones para:\n    *   **Metrô**\n    *   **Ônibus**\n    *   **Passagem Subterrânea**\n\nEm resumo, a placa serve para orientar moradores e visitantes, mostrando a organização interna da SQS 113 e sua localização no contexto da cidade de Brasília.",
+    "latency_seconds": 20.563939571380615
+}

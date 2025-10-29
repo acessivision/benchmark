@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "placa_SQS113.jpeg",
+    "question_original_pt": "O que diz a placa?",
+    "timestamp_sent_utc": "2025-10-29T17:20:34.450605",
+    "date": "2025-10-29",
+    "response": "A placa diz:\n\n\"SQS 113\n\nSuperquadra Sul\nSouth Superblock\n\nQuadra de Esportes\nQuadra de Esportes\nSouth Court\nCentro de Ensino Fundamental\nElementary and Middle School\nJornalero Newsstand\n\nVocê está aqui\nYou are here\" \n\nAlém disso, ela apresenta um mapa com uma planta da área, incluindo diferentes blocos e locais de interesse.",
+    "latency_seconds": 5.6971893310546875
+}
