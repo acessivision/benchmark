@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000634.jpg",
+    "question_original_pt": "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?",
+    "timestamp_sent_utc": "2025-10-29T21:17:36.905415",
+    "date": "2025-10-29",
+    "response": "Olá! A imagem que você enviou mostra um teste de segurança chamado **CAPTCHA**. Ele é usado para verificar se quem está criando a conta é uma pessoa e não um robô.\n\nOs caracteres na imagem estão muito distorcidos e a qualidade da foto é baixa, o que torna a leitura extremamente difícil. Minha melhor tentativa de decifrar o que está escrito no código distorcido é algo como **ercYLO** ou **ercYLD**, mas é quase impossível ter certeza.\n\nNo entanto, há algo muito importante que você precisa saber:\n\n**Este código de autorização não é mais válido.**\n\nOs códigos CAPTCHA são temporários e mudam toda vez que você atualiza a página. A foto que você tirou é de uma tentativa de registro antiga. Para criar sua conta, você precisa:\n\n1.  Voltar ao site de cadastro.\n2.  Olhar o **novo** código CAPTCHA que está aparecendo na sua tela agora.\n3.  Digitar os caracteres desse novo código.\n\nSe o código atual estiver muito difícil de ler, procure por um botão para gerar um novo (geralmente um ícone de atualização 🔄) ou uma opção de \"Áudio\" para que o sistema leia os caracteres para você.",
+    "latency_seconds": 17.721230506896973
+}

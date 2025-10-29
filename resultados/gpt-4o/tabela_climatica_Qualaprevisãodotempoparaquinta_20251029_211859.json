@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "tabela_climatica.png",
+    "question_original_pt": "Qual a previsão do tempo para quinta-feira?",
+    "timestamp_sent_utc": "2025-10-29T21:18:30.536813",
+    "date": "2025-10-29",
+    "response": "Na quinta-feira, a previsão do tempo indica sol e nuvens, com temperatura mínima de 27°C e máxima de 32°C.",
+    "latency_seconds": 2.001403331756592
+}

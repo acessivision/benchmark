@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "cupom_fiscal.jpg",
+    "question_original_pt": "Qual o valor total?",
+    "timestamp_sent_utc": "2025-10-29T21:18:59.975161",
+    "date": "2025-10-29",
+    "response": "De acordo com o cupom fiscal na imagem, o **valor total** da compra é de **R$ 14,00**.\n\nO cupom mostra:\n*   **Subtotal:** R$ 15,56\n*   **Desconto:** R$ 1,56\n*   **TOTAL:** **R$ 14,00**",
+    "latency_seconds": 7.061537504196167
+}
