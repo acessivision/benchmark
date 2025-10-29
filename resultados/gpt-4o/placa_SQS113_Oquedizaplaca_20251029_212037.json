@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "placa_SQS113.jpeg",
+    "question_original_pt": "O que diz a placa?",
+    "timestamp_sent_utc": "2025-10-29T21:19:34.172799",
+    "date": "2025-10-29",
+    "response": "A placa diz:\n\n\"SQS 113  \nSuperquadra Sul  \nSouth Superblock\" \n\nE apresenta um mapa da superquadra com os blocos identificados por letras de A a K. Há também a indicação de locais como \"Centro de Ensino Fundamental\" (Elementary and Middle School) e \"Quadra de Esportes\" (Sports Court). Além disso, mostra a localização atual com um aviso: \"Você está aqui\" (You are here). Na parte inferior, há um mapa de Brasília.",
+    "latency_seconds": 7.015883922576904
+}

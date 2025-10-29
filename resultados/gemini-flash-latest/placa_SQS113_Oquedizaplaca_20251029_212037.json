@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "placa_SQS113.jpeg",
+    "question_original_pt": "O que diz a placa?",
+    "timestamp_sent_utc": "2025-10-29T21:19:34.172799",
+    "date": "2025-10-29",
+    "response": "A placa é um **painel informativo (diretório)** que detalha a organização da **Superquadra Sul 113 (SQS 113)**, em Brasília, e a sua localização dentro do Plano Piloto.\n\nAqui está o que a placa diz/mostra, em resumo:\n\n### 1. Título e Identificação\n\n*   **SQS 113**\n*   **Superquadra Sul** (South Superblock)\n\n### 2. Mapa Local (SQS 113)\n\nEste mapa detalha a disposição interna da quadra:\n\n*   **Blocos Residenciais:** Identifica os blocos por letras (A, B, C, D, E, F, G, H, J, K).\n*   **Equipamentos Públicos/Comunitários:**\n    *   **Centro de Ensino Fundamental** (Elementary and Middle School) – Localizado na área do Bloco K.\n    *   **Quadra de Esportes** (Sports Court).\n    *   **Jornaleiro** (Newsstand).\n*   **Vias Circunvizinhas:** Menciona o Eixo W Sul, a Via W1 Sul (SQS 313) e o Comércio Local Sul (CLS 113).\n*   **Localização Atual:** Há um indicador vermelho com a frase **\"Você está aqui\"** (You are here).\n\n### 3. Informações de Acesso e Serviços\n\nAbaixo do mapa local, há uma legenda indicando serviços e meios de transporte próximos:\n\n*   **Metrô** (próximo à Estação 112/113 Sul).\n*   **Ônibus** (Bus Stop).\n*   **Passagem Subterrânea** (Underground Passage).\n\n### 4. Mapa Geral (Plano Piloto)\n\nNa parte inferior, a placa exibe um mapa mais amplo de Brasília, mostrando:\n\n*   A localização da SQS 113 (destacada em azul) dentro da **Asa Sul**.\n*   O contexto urbano do Plano Piloto (Asa Norte, Eixo Monumental, Lago Paranoá, etc.).",
+    "latency_seconds": 8.213019132614136
+}

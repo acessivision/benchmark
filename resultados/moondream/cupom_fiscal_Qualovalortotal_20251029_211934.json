@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "cupom_fiscal.jpg",
+    "question_original_pt": "Qual o valor total?",
+    "timestamp_sent_utc": "2025-10-29T21:18:59.975161",
+    "date": "2025-10-29",
+    "pergunta_translated_en": "What is the total value?",
+    "response_original_en": "15,00",
+    "response_translated_pt": "15,00",
+    "latency_seconds": 3.421748161315918
+}

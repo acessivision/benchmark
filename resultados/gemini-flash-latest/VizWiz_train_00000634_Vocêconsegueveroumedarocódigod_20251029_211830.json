@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000634.jpg",
+    "question_original_pt": "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?",
+    "timestamp_sent_utc": "2025-10-29T21:17:36.905415",
+    "date": "2025-10-29",
+    "response": "Com base na imagem, o que você precisa inserir no campo de texto para a verificação (CAPTCHA) é a combinação do texto \"Guenter\" e o código distorcido ao lado.\n\nO texto distorcido parece ser **E8TLB**.\n\nPortanto, o código de autorização completo que você deve inserir é:\n\n**Guenter E8TLB**",
+    "latency_seconds": 1.8284666538238525
+}
