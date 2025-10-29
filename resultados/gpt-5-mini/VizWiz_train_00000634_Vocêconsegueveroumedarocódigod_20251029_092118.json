@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000634.jpg",
+    "question_original_pt": "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?",
+    "timestamp_sent_utc": "2025-10-29T09:20:07.663458",
+    "date": "2025-10-29",
+    "response": "Erro ao chamar a API: Error code: 400 - {'error': {'message': 'Could not finish the message because max_tokens or model output limit was reached. Please try again with higher max_tokens.', 'type': 'invalid_request_error', 'param': None, 'code': None}}",
+    "latency_seconds": 7.859292268753052
+}
