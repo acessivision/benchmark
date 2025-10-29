@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "tabela_climatica.png",
+    "question_original_pt": "Qual a previsão do tempo para quinta-feira?",
+    "timestamp_sent_utc": "2025-10-29T15:23:08.389740",
+    "date": "2025-10-29",
+    "pergunta_translated_en": "What is the weather forecast for Thursday?",
+    "response_original_en": "The weather forecast for Thursday is cloudy with temperatures ranging from 27°F to 32°F throughout the day.",
+    "response_translated_pt": "A previsão do tempo para quinta-feira é nublada com temperaturas variando de 27°F a 32°F ao longo do dia.",
+    "latency_seconds": 3.770617723464966
+}
