@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "placa_SQS113.jpeg",
+    "question_original_pt": "O que diz a placa?",
+    "timestamp_sent_utc": "2025-10-29T06:33:03.683496",
+    "date": "2025-10-29",
+    "response": "A placa diz:\n\n\"SQS 113  \nSuperquadra Sul  \nSouth Superblock\"\n\nAlém disso, ela contém um mapa da área, identificando diferentes blocos e locais próximos, bem como um mapa mais amplo da região ao redor.",
+    "latency_seconds": 3.261808395385742
+}
