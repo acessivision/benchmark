@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "placa_SQS113.jpeg",
+    "question_original_pt": "O que diz a placa?",
+    "timestamp_sent_utc": "2025-10-29T09:22:35.882306",
+    "date": "2025-10-29",
+    "pergunta_translated_en": "What does the sign say?",
+    "response_original_en": "SQS 113 Superquadra Sul South Superblock",
+    "response_translated_pt": "SQS 113 Superquadra Sul Superquadra Sul",
+    "latency_seconds": 2.1538002490997314
+}

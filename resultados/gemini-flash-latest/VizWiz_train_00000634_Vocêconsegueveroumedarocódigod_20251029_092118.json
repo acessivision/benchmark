@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000634.jpg",
+    "question_original_pt": "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?",
+    "timestamp_sent_utc": "2025-10-29T09:20:07.663458",
+    "date": "2025-10-29",
+    "response": "Com base na imagem que você forneceu, o sistema está pedindo que você insira os caracteres que vê em dois campos de texto diferentes (isso é um CAPTCHA, ou código de verificação de segurança, e não um código de autorização).\n\nOs caracteres que aparecem na tela são:\n\n1.  **A palavra clara:**\n    *   **Guenter.** (Note que há um ponto final, mas geralmente os sistemas só exigem a palavra: **Guenter**)\n\n2.  **O código distorcido (CAPTCHA):**\n    *   A leitura mais provável para o código distorcido é: **ERTO** (Devido à alta distorção, pode haver variações, mas **ERTO** ou **ERTLD** são as mais prováveis.)\n\nVocê deve digitar **Guenter** no primeiro campo e **ERTO** (ou a variação que funcionar) no segundo.",
+    "latency_seconds": 5.374699592590332
+}

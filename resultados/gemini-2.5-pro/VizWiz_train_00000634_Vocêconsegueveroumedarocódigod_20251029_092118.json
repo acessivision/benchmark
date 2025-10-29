@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000634.jpg",
+    "question_original_pt": "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?",
+    "timestamp_sent_utc": "2025-10-29T09:20:07.663458",
+    "date": "2025-10-29",
+    "response": "Olá!\n\nCom base na imagem que você enviou, o código de autorização (conhecido como CAPTCHA) que precisa ser digitado parece ser:\n\n**erotylo**\n\nEsses códigos são feitos para serem um pouco difíceis de ler, para garantir que é uma pessoa e não um robô criando a conta. Se por acaso esse código não funcionar, você pode clicar para gerar um novo ou usar a opção \"Audio\" para ouvi-lo.",
+    "latency_seconds": 13.32884931564331
+}
