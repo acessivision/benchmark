@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "placa_SQS113.jpeg",
+    "question_original_pt": "O que diz a placa?",
+    "timestamp_sent_utc": "2025-10-29T02:46:46.679174",
+    "date": "2025-10-29",
+    "response": "A placa é um **mapa informativo e direcional** referente a uma das superquadras residenciais de Brasília.\n\nEla diz, principalmente:\n\n### 1. Identificação Principal\n*   **SQS 113**\n*   **Superquadra Sul** (South Superblock)\n\n### 2. Mapa Local (SQS 113)\nO mapa detalha a disposição dos blocos residenciais e das instalações centrais da quadra, indicando as vias e os serviços próximos:\n\n*   **Blocos Residenciais:** Identificados pelas letras A, B, C, D, E, F, G, H, J, K.\n*   **Instalações e Serviços:**\n    *   **Quadra de Esportes** (Sports Court)\n    *   **Centro de Ensino Fundamental** (Elementary and Middle School)\n    *   **Jornaleiro** (Newsstand)\n*   **Vias e Entornos:**\n    *   **Eixo W Sul**\n    *   **Entrequadra Sul EDS 112/113**\n    *   **Comércio Local Sul CLS 113**\n    *   **Via W1 Sul / SQS 313**\n*   **Localização do Usuário:**\n    *   A indicação vermelha mostra **\"Você está aqui / You are here\"**.\n\n### 3. Símbolos de Orientação\nA placa também inclui a legenda para modais de transporte e acesso:\n*   Metrô (Metro)\n*   Ônibus (Bus Stop)\n*   Passagem Subterrânea (Underground Passage)\n\n### 4. Mapa Geral de Brasília (Plano Piloto)\nNa parte inferior, há um mapa mais amplo mostrando a localização da SQS 113 (destacada em azul) dentro do **Plano Piloto** de Brasília, indicando o Lago Paranoá e os diversos setores da cidade (Asa Sul, Asa Norte, Setor Militar Urbano, etc.).",
+    "latency_seconds": 6.800223112106323
+}

@@ -88,5 +88,12 @@
         "data/imagens/VizWiz_train_00000443.jpg",
         "data/imagens/VizWiz_train_00000510.jpg",
         "data/imagens/VizWiz_train_00001198.jpg"
+    ],
+    "2025-10-29": [
+        "data/imagens/VizWiz_train_00000634.jpg",
+        "data/imagens/tabela_climatica.png",
+        "data/imagens/cupom_fiscal.jpg",
+        "data/imagens/placa_SQS113.jpeg",
+        "data/imagens/cha_groselha_e_cha_limao.jpeg"
     ]
 }
