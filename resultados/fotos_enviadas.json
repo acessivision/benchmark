@@ -19,5 +19,53 @@
         "data/imagens/VizWiz_test_00000132.jpg",
         "data/imagens/VizWiz_test_00000219.jpg",
         "data/imagens/VizWiz_test_00000241.jpg"
+    ],
+    "2025-10-19": [
+        "data/imagens/acidente_carro.jpeg",
+        "data/imagens/aneis.jpeg",
+        "data/imagens/faixaviva.jpeg",
+        "data/imagens/nota_fiscal.jpeg"
+    ],
+    "2025-10-24": [
+        "data/imagens/VizWiz_train_00000509.jpg",
+        "data/imagens/VizWiz_train_00000507.jpg",
+        "data/imagens/VizWiz_train_00001100.jpg",
+        "data/imagens/VizWiz_train_00000351.jpg",
+        "data/imagens/VizWiz_train_00000551.jpg"
+    ],
+    "2025-10-25": [
+        "data/imagens/VizWiz_train_00000335.jpg",
+        "data/imagens/VizWiz_train_00000466.jpg",
+        "data/imagens/VizWiz_train_00000152.jpg",
+        "data/imagens/calendario.jpeg",
+        "data/imagens/VizWiz_train_00000033.jpg"
+    ],
+    "2025-10-26": [
+        "data/imagens/VizWiz_train_00000309.jpg",
+        "data/imagens/VizWiz_train_00000474.jpg",
+        "data/imagens/VizWiz_train_00000313.jpg",
+        "data/imagens/direcao_placas_hospital.jpeg",
+        "data/imagens/VizWiz_train_00001097.jpg"
+    ],
+    "2025-10-27": [
+        "data/imagens/VizWiz_train_00000312.jpg",
+        "data/imagens/VizWiz_train_00000179.jpg",
+        "data/imagens/faixa_pedestre.jpg",
+        "data/imagens/VizWiz_train_00000518.jpg",
+        "data/imagens/VizWiz_train_00000370.jpg"
+    ],
+    "2025-10-28": [
+        "data/imagens/cardapio_soban.jpg",
+        "data/imagens/VizWiz_train_00001094.jpg",
+        "data/imagens/VizWiz_train_00000443.jpg",
+        "data/imagens/VizWiz_train_00000510.jpg",
+        "data/imagens/VizWiz_train_00001198.jpg"
+    ],
+    "2025-10-29": [
+        "data/imagens/VizWiz_train_00000634.jpg",
+        "data/imagens/tabela_climatica.png",
+        "data/imagens/cupom_fiscal.jpg",
+        "data/imagens/placa_SQS113.jpeg",
+        "data/imagens/cha_groselha_e_cha_limao.jpeg"
     ]
 }

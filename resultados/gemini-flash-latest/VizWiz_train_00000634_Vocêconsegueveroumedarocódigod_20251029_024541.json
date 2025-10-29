@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000634.jpg",
+    "question_original_pt": "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?",
+    "timestamp_sent_utc": "2025-10-29T02:44:50.509037",
+    "date": "2025-10-29",
+    "response": "Eu posso ver a tela e ler o desafio de segurança (conhecido como CAPTCHA) que você precisa inserir para criar a conta. Este não é um código de autorização, mas sim uma verificação para provar que você é humano.\n\nO campo exige que você insira o texto visível e o texto distorcido.\n\nAs palavras que você deve inserir são:\n\n1.  **A palavra clara:** **Guenter**\n2.  **A palavra distorcida:** Esta é difícil de ler devido à extrema distorção (comum em CAPTCHAs antigos), mas as combinações mais prováveis são **SRYLO** ou **SRYIQ**.\n\nTente digitar **Guenter SRYLO** ou **Guenter SRYIQ** no campo correspondente.",
+    "latency_seconds": 7.265727281570435
+}
