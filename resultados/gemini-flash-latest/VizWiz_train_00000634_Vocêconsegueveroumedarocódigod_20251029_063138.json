@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000634.jpg",
+    "question_original_pt": "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?",
+    "timestamp_sent_utc": "2025-10-29T06:30:16.322915",
+    "date": "2025-10-29",
+    "response": "Com base na imagem que você forneceu, você precisa inserir os caracteres que aparecem no campo CAPTCHA.\n\nO código de autorização é composto pelas duas palavras que você vê:\n\n1.  A palavra legível (à esquerda): **Guenter.**\n2.  A palavra distorcida (à direita).\n\nA palavra distorcida é mais difícil de ler devido à complexidade do CAPTCHA, mas a interpretação mais provável das letras (geralmente digitadas em caixa alta para CAPTCHAs) é:\n\n**ERGILO** (ou, possivelmente, EROTIO/ERGIYO, se a primeira tentativa falhar).\n\nPortanto, o texto que você deve digitar na ordem é:\n\n**Guenter. ERGILO**\n\n(Lembre-se de verificar se o campo de texto requer um espaço entre as palavras.)",
+    "latency_seconds": 7.514354944229126
+}

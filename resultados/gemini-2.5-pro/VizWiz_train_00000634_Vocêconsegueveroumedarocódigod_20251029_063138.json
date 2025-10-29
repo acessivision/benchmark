@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000634.jpg",
+    "question_original_pt": "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?",
+    "timestamp_sent_utc": "2025-10-29T06:30:16.322915",
+    "date": "2025-10-29",
+    "response": "Olá!\n\nNão consigo te dar um código de autorização para a sua conta, pois o que aparece na imagem é um **CAPTCHA**.\n\nO CAPTCHA é um teste de segurança para provar que você é um ser humano e não um robô. **Esses caracteres são gerados aleatoriamente e mudam toda vez que você atualiza a página.**\n\nO código que está na foto que você enviou já expirou e não funcionará mais.\n\n**O que você precisa fazer é:**\n\n1.  Olhe para a tela do seu computador **agora**.\n2.  Digite os novos caracteres que estão aparecendo na sua tela, no campo correspondente.\n3.  Se você não conseguir ler o novo código, procure um botão para \"atualizar\" ou \"gerar um novo código\" (geralmente um ícone com setas circulares 🔄) ou clique na opção \"**Audio**\" para ouvir os caracteres.\n\nVocê precisa inserir o código que está vendo **ao vivo** na sua tela para poder continuar.",
+    "latency_seconds": 12.803627967834473
+}
