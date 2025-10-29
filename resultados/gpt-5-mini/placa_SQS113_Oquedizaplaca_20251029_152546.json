@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "placa_SQS113.jpeg",
+    "question_original_pt": "O que diz a placa?",
+    "timestamp_sent_utc": "2025-10-29T15:24:31.216228",
+    "date": "2025-10-29",
+    "response": "No topo está escrito: \"SQS 113\nSuperquadra Sul\nSouth Superblock\"\n\nA placa mostra um mapa da superquadra com os blocos identificados (A, B, C, D, E, F, G, H, I, J, K), indicações como \"Quadra de Esportes / Sports Court\", \"Centro de Ensino Fundamental / Elementary and Middle School\", nomes de vias (por exemplo Via W3 Sul) e a marcação \"Você está aqui / You are here\". Na parte inferior há um mapa maior da Asa Sul.",
+    "latency_seconds": 12.284076452255249
+}

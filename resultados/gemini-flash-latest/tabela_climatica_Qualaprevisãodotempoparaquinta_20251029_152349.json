@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "tabela_climatica.png",
+    "question_original_pt": "Qual a previsão do tempo para quinta-feira?",
+    "timestamp_sent_utc": "2025-10-29T15:23:08.389740",
+    "date": "2025-10-29",
+    "response": "De acordo com a tabela, a previsão do tempo para **quinta-feira** é a seguinte:\n\n*   **Tempo:** Parcialmente nublado/sol com vento (o símbolo representa sol entre nuvens com indicação de vento).\n*   **Temperatura Mínima:** 27°\n*   **Temperatura Máxima:** 32°",
+    "latency_seconds": 11.036731004714966
+}

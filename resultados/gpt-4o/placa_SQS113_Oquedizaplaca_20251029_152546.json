@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "placa_SQS113.jpeg",
+    "question_original_pt": "O que diz a placa?",
+    "timestamp_sent_utc": "2025-10-29T15:24:31.216228",
+    "date": "2025-10-29",
+    "response": "A placa diz \"SQS 113 Superquadra Sul\" e mostra um mapa do local. Há indicação de blocos com letras, como A, B, C, etc., e algumas orientações como \"Você está aqui\" e \"Centro de Ensino Fundamental\". O mapa oferece uma visão geral da área da superquadra.",
+    "latency_seconds": 7.3238608837127686
+}

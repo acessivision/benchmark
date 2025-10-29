@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "cupom_fiscal.jpg",
+    "question_original_pt": "Qual o valor total?",
+    "timestamp_sent_utc": "2025-10-29T15:23:49.388887",
+    "date": "2025-10-29",
+    "response": "O valor total é R$ 15,00. (O subtotal mostra R$ 15,56, com desconto ficando R$ 15,00.)",
+    "latency_seconds": 8.042385339736938
+}
