@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-30T17:19:36.610906",
+    "date": "2025-10-30",
+    "response": "Com base na análise da imagem, mesmo estando bastante desfocada, esta é uma **refeição congelada**.\n\nÉ possível identificar alguns textos na embalagem que revelam o prato:\n\n*   **Chicken in Peanut Sauce** (Frango com Molho de Amendoim)\n*   **...an Cuisine** (provavelmente \"Asian Cuisine\", ou Culinária Asiática)\n\nPortanto, trata-se de um prato congelado de **frango com molho de amendoim**, que parece incluir macarrão e vegetais, como parte de uma linha de produtos de culinária asiática.",
+    "latency_seconds": 16.74524235725403
+}
