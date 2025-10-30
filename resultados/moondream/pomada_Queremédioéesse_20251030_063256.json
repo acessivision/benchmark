@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "pomada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-10-30T06:31:59.400396",
+    "date": "2025-10-30",
+    "pergunta_translated_en": "What medicine is this?",
+    "response_original_en": "This image shows a small jar labeled \"Vovo Pedro,\" which translates to \"Pedro's Beer\" in Portuguese. The product appears to be a type of beer or beverage, possibly a traditional Brazilian drink, rather than medicine.",
+    "response_translated_pt": "Esta imagem mostra um pequeno pote com o rótulo “Vovo Pedro”, que significa “Cerveja do Pedro” em português. O produto parece ser um tipo de cerveja ou bebida, possivelmente uma bebida tradicional brasileira, e não um remédio.",
+    "latency_seconds": 3.8690950870513916
+}

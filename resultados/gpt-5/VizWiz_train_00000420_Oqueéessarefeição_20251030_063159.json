@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-30T06:30:57.982049",
+    "date": "2025-10-30",
+    "response": "É um prato congelado da Lean Cuisine: frango ao molho de amendoim, com macarrão e legumes (ervilha-torta e cenoura).",
+    "latency_seconds": 17.422856092453003
+}
