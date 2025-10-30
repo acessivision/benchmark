@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000733.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-30T21:17:46.353525",
+    "date": "2025-10-30",
+    "response": "Com base na imagem, isso é uma lata de **gel de barbear**.\n\nEspecificamente, é o **Gillette Series Shave Gel** na versão **Moisturizing Hydratation** (Hidratante). É um produto utilizado para facilitar o barbear, ajudando a proteger a pele e a proporcionar um deslizar mais suave da lâmina.",
+    "latency_seconds": 10.194804906845093
+}

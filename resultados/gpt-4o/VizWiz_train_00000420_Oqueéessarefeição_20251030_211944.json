@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-30T21:18:52.512841",
+    "date": "2025-10-30",
+    "response": "Parece que a imagem mostra uma embalagem de comida congelada da Lean Cuisine. O prato parece ser um tipo de macarrão com frango e legumes. Essas refeições geralmente são rápidas de preparar e servidas como opções de baixa caloria.",
+    "latency_seconds": 8.466006755828857
+}

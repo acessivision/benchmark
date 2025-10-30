@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "pomada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-10-30T21:19:44.651411",
+    "date": "2025-10-30",
+    "response": "Com base na imagem, o remédio é uma **Pomada** chamada **Vovô Pedro**.\n\nA embalagem fornece as seguintes informações adicionais:\n\n*   **Nome:** Pomada Vovô Pedro\n*   **Uso:** Uso Externo\n*   **Distribuição:** Distribuição Gratuita\n*   **Origem:** É um produto de uma **Casa Espiritual em poder da Espírita Maria Nunes** (localizada em BH / MG - Belo Horizonte / Minas Gerais).\n\n**Nota Importante:** Este tipo de pomada é geralmente um produto de medicina popular ou espiritual, distribuído por centros religiosos (como centros espíritas ou de umbanda/candomblé), e não um medicamento farmacêutico convencional registrado para venda em farmácias, a menos que haja um registro específico para fitoterápicos ou cosméticos. A composição exata da pomada (ingredientes ativos) não está visível no rótulo.",
+    "latency_seconds": 3.5372838973999023
+}
