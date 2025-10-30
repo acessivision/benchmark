@@ -67,5 +67,12 @@
         "data/imagens/cupom_fiscal.jpg",
         "data/imagens/placa_SQS113.jpeg",
         "data/imagens/cha_groselha_e_cha_limao.jpeg"
+    ],
+    "2025-10-30": [
+        "data/imagens/VizWiz_train_00000124.jpg",
+        "data/imagens/VizWiz_train_00000733.jpg",
+        "data/imagens/VizWiz_train_00000289.jpg",
+        "data/imagens/VizWiz_train_00000420.jpg",
+        "data/imagens/pomada.jpeg"
     ]
 }

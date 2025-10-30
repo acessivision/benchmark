@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-30T02:44:21.288067",
+    "date": "2025-10-30",
+    "response": "Parece ser uma refeição pronta/embalada de estilo asiático: frango com noodles (macarrão) e legumes (snow peas/ervilha-torta, cenoura), possivelmente em molho de amendoim ou outro molho oriental. Não consigo ler todo o rótulo porque a foto está ao contrário e um pouco desfocada — quer que eu tente girar/recortar a imagem para ver o texto?",
+    "latency_seconds": 8.015896320343018
+}

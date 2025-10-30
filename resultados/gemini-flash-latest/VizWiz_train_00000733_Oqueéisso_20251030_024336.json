@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000733.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-30T02:42:46.960077",
+    "date": "2025-10-30",
+    "response": "O objeto na imagem é uma lata de **gel de barbear** (shave gel) da marca **Gillette**, linha **Series**.\n\nÉ especificamente a versão **\"Moisturizing Hydration\"** (Hidratação Hidratante).\n\nÉ um produto de higiene pessoal, usado para preparar a pele e os pelos faciais antes de usar uma lâmina de barbear.",
+    "latency_seconds": 3.6732444763183594
+}

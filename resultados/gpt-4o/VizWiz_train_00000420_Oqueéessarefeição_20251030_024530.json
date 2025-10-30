@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-30T02:44:21.288067",
+    "date": "2025-10-30",
+    "response": "A imagem parece ser de uma embalagem de uma refeição congelada da marca Lean Cuisine. Embora esteja um pouco borrada e de cabeça para baixo, parece que a refeição inclui macarrão e pedaços de frango. Não consigo ler todos os detalhes do sabor ou ingredientes específicos.",
+    "latency_seconds": 4.5967018604278564
+}

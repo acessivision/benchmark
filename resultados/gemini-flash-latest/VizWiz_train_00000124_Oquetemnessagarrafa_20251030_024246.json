@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000124.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-10-30T02:41:50.872244",
+    "date": "2025-10-30",
+    "response": "Com base na imagem, que mostra o rótulo da garrafa, o conteúdo é um **produto para cabelo da marca Pantene**.\n\nEspecificamente, é um produto da linha:\n\n*   **Marca:** Pantene Pro-V\n*   **Tipo:** Classic (Cuidado Clássico)\n*   **Para:** Todos os tipos de cabelo (All Hair Types)\n\nTrata-se, portanto, de um **Shampoo** ou **Condicionador Pantene Pro-V Classic**.",
+    "latency_seconds": 3.7010176181793213
+}
