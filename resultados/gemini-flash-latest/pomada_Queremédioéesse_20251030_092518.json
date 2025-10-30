@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "pomada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-10-30T09:24:11.453452",
+    "date": "2025-10-30",
+    "response": "O remédio (ou produto) que aparece na imagem é a **Pomada Vovô Pedro**.\n\nAs informações visíveis no rótulo são:\n\n*   **Produto:** Pomada Vovô Pedro\n*   **Uso:** Uso Externo\n*   **Observação Importante:** Distribuição Gratuita\n*   **Origem:** Casa Espiritual em poder da Espírita Maria Nunes – BH / MG\n\nÉ um produto popular e de cunho espiritual, distribuído por centros espíritas/religiosos, e não um medicamento farmacêutico padronizado vendido em farmácias. Geralmente, pomadas como esta são utilizadas para aliviar dores musculares, contusões ou problemas de pele, dentro do contexto da fé e da medicina popular.",
+    "latency_seconds": 4.124537229537964
+}

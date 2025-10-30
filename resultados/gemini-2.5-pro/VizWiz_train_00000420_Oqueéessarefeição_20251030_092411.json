@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-30T09:23:19.750383",
+    "date": "2025-10-30",
+    "response": "Com base na imagem, esta parece ser a embalagem de uma refeição pronta congelada.\n\nEmbora a foto esteja um pouco desfocada, é possível ler parte do texto (que está de cabeça para baixo na imagem). A descrição indica que é um prato de **\"Chicken in Peanut Sauce\"**, ou seja, **Frango ao Molho de Amendoim**.\n\nA marca parece ser da linha **\"Asian Cuisine\" (Culinária Asiática)**. A imagem na caixa mostra um prato com macarrão, frango e vegetais, típico desse tipo de refeição.",
+    "latency_seconds": 8.418437004089355
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-30T09:23:19.750383",
+    "date": "2025-10-30",
+    "response": "A imagem mostra uma embalagem de comida congelada da marca Lean Cuisine. Parece ser um prato que inclui frango e algum tipo de vegetais em um molho de amendoim, típico de uma inspiração asiática. Essas refeições são conhecidas por serem porções controladas visando uma alimentação equilibrada.",
+    "latency_seconds": 3.507495403289795
+}

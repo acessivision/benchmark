@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-30T09:23:19.750383",
+    "date": "2025-10-30",
+    "response": "Com base na embalagem da refeição congelada que aparece na imagem (que está de cabeça para baixo), esta refeição é:\n\nUm prato de **Frango ao Molho de Amendoim (Chicken in Peanut Sauce)**.\n\nO texto também indica que faz parte da linha de **Culinária Asiática (Asian Cuisine)**.\n\n**Descrição do prato:** Consiste tipicamente em macarrão tipo *noodles* com tiras de frango e vegetais (como vagem ou pimentão) cobertos por um molho cremoso de amendoim, em estilo tailandês ou asiático.",
+    "latency_seconds": 4.969149351119995
+}

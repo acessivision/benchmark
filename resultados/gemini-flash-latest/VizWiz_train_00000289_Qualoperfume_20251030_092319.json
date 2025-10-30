@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000289.jpg",
+    "question_original_pt": "Qual o perfume?",
+    "timestamp_sent_utc": "2025-10-30T09:22:49.156408",
+    "date": "2025-10-30",
+    "response": "O nome da fragrância (ou \"perfume\", neste contexto, pois é uma barra de cera aromática) é **Welcome Home™**.\n\n**Welcome Home** é uma fragrância muito popular da Scentsy, geralmente descrita como um aroma reconfortante e caseiro, tipicamente composto por:\n\n*   **Canela**\n*   **Especiarias** (como cravo ou noz-moscada)\n*   Muitas vezes com notas de chá ou padaria para dar uma sensação acolhedora.",
+    "latency_seconds": 3.762721300125122
+}
