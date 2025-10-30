@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000733.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-30T21:17:46.353525",
+    "date": "2025-10-30",
+    "response": "Esta é uma lata de **Gel de Barbear** (Shave Gel).\n\nA marca do produto é **Gillette**, da linha **Series**, na variedade **Moisturizing Hydratation** (Hidratante). É um produto utilizado para amaciar a pele e os pelos faciais antes de usar a lâmina de barbear.",
+    "latency_seconds": 2.932525396347046
+}

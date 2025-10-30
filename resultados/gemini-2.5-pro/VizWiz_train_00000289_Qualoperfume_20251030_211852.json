@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000289.jpg",
+    "question_original_pt": "Qual o perfume?",
+    "timestamp_sent_utc": "2025-10-30T21:18:20.680123",
+    "date": "2025-10-30",
+    "response": "Com base na imagem, a fragrância é **Welcome Home**.\n\nEste produto é uma **Scentsy Bar**, que é uma cera perfumada para ser derretida em um difusor (aquecedor de cera), e não um perfume corporal.",
+    "latency_seconds": 8.099889993667603
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000289.jpg",
+    "question_original_pt": "Qual o perfume?",
+    "timestamp_sent_utc": "2025-10-30T21:18:20.680123",
+    "date": "2025-10-30",
+    "response": "A fragrância identificada na embalagem é **Welcome Home™**.\n\nEste é um produto **Scentsy Bar** (cera perfumada), usado em aquecedores elétricos, e não um perfume corporal.\n\n### Descrição do Aroma\n\nO aroma **Welcome Home** da Scentsy é tipicamente descrito como uma fragrância acolhedora e convidativa, que combina:\n\n*   **Canela**\n*   **Açúcar mascavo (Brown Sugar)**\n*   **Especiarias** (como cravo ou noz-moscada)\n\nÉ projetado para evocar o cheiro de doces caseiros ou de uma casa recém-limpa e confortável.",
+    "latency_seconds": 4.236000061035156
+}
