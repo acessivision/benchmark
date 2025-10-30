@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000289.jpg",
+    "question_original_pt": "Qual o perfume?",
+    "timestamp_sent_utc": "2025-10-30T06:30:27.514468",
+    "date": "2025-10-30",
+    "response": "Com base na imagem, o nome da fragrância é **Welcome Home**.\n\nÉ um produto da marca **Scentsy**, especificamente uma barra de cera perfumada (Scentsy Bar) para ser usada em aquecedores de cera.",
+    "latency_seconds": 7.983635663986206
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "pomada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-10-30T06:31:59.400396",
+    "date": "2025-10-30",
+    "response": "Com base nas informações do rótulo na imagem, o produto é a **Pomada Vovô Pedro**.\n\nAqui estão os detalhes que podemos ver:\n\n*   **Tipo:** Pomada\n*   **Nome:** Vovô Pedro\n*   **Uso:** Externo\n*   **Distribuição:** Gratuita\n*   **Origem:** O rótulo menciona \"A ESPIRITUAL em poder da Espirita Maria Nunes - BH / MG\", o que indica que é um produto distribuído por uma instituição ou pessoa ligada ao espiritismo em Belo Horizonte, Minas Gerais.\n\n**Importante:** Este não é um medicamento farmacêutico convencional, e sim um produto de origem religiosa/espiritual. Sua composição e eficácia não são regulamentadas por órgãos de saúde como a ANVISA.",
+    "latency_seconds": 10.171102285385132
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "pomada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-10-30T06:31:59.400396",
+    "date": "2025-10-30",
+    "response": "Com base na imagem, o remédio é uma **Pomada Vovô Pedro**.\n\nAqui estão as informações visíveis no rótulo:\n\n1.  **Nome:** Pomada Vovô Pedro\n2.  **Uso:** Uso Externo\n3.  **Distribuição:** Distribuição Gratuita\n4.  **Origem:** É uma pomada de origem espiritual (religiosa/tradicional), feita em poder da **Espírita Maria Nunes**, em BH / MG (Belo Horizonte, Minas Gerais).\n\n**Nota:** Como se trata de um produto de distribuição gratuita e de origem espiritual, a sua composição específica (os ingredientes ativos) não está detalhada na embalagem e ele geralmente não é um medicamento farmacêutico regulamentado. Pomadas com nomes de entidades espirituais (como \"Vovô Pedro,\" que é uma referência a um Preto Velho, uma entidade da Umbanda e do Candomblé) são tradicionalmente usadas para dores musculares, contusões, ou fins curativos e protetores.",
+    "latency_seconds": 6.368238210678101
+}

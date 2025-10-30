@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-30T06:30:57.982049",
+    "date": "2025-10-30",
+    "response": "A imagem é muito embaçada, mas é possível identificar o produto através do texto legível (que está de cabeça para baixo na embalagem).\n\nÉ uma **refeição embalada congelada** (provavelmente de uma marca como Lean Cuisine, devido ao formato e à palavra \"cuisine\").\n\nA refeição em si é:\n\n**Frango em Molho de Amendoim** (Chicken in Peanut Sauce)\n\nO prato mostrado na imagem parece ser frango e macarrão (noodles) com vegetais (vagem ou pimentão) em um molho cremoso de amendoim, característico da culinária asiática (tailandesa ou indonésia, por exemplo).",
+    "latency_seconds": 6.1687095165252686
+}

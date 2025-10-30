@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-30T06:30:57.982049",
+    "date": "2025-10-30",
+    "response": "Essa imagem mostra uma caixa de comida congelada. Parece ser algum prato com molho de amendoim. Não consigo identificar mais detalhes específicos sobre o prato apenas pela imagem.",
+    "latency_seconds": 4.969189882278442
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000289.jpg",
+    "question_original_pt": "Qual o perfume?",
+    "timestamp_sent_utc": "2025-10-30T06:30:27.514468",
+    "date": "2025-10-30",
+    "response": "Com base na imagem, o nome da fragrância (o \"perfume\" do Scentsy Bar) é:\n\n## **Welcome Home™**\n\nEste produto é uma barra de cera (Scentsy Bar), utilizada para perfumar ambientes através de um aquecedor (warmer), e não um perfume pessoal.\n\n### Descrição da Fragrância (Scentsy Welcome Home)\n\nA fragrância **Welcome Home** é geralmente descrita pela Scentsy como um aroma clássico, quente e reconfortante, que evoca a sensação de entrar em uma casa acolhedora.\n\nAs notas típicas incluem:\n\n*   **Especiarias:** Canela e cravo.\n*   **Doçura:** Açúcar mascavo e notas de chá quente.\n*   **Fundo:** Toques suaves de madeiras ou almíscar para dar profundidade e conforto.\n\nEm resumo, é um aroma especiado e doce, muito popular para criar uma atmosfera convidativa.",
+    "latency_seconds": 4.611114025115967
+}
