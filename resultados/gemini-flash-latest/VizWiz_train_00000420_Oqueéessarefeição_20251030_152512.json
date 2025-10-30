@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-30T15:23:19.632025",
+    "date": "2025-10-30",
+    "response": "Com base na embalagem da refeição mostrada na imagem, trata-se de um prato de inspiração asiática que consiste em:\n\n**Frango em Molho de Amendoim (Chicken in Peanut Sauce).**\n\nA refeição aparenta ser um prato de macarrão (noodles ou massa tipo linguine) misturado com pedaços de frango e vegetais verdes (possivelmente vagem ou ervilha-torta), coberto com um rico molho de amendoim.\n\nA embalagem sugere que é um produto de refeição pronta ou congelada, possivelmente da linha \"Lean Cuisine\" ou similar, focado em pratos de \"Asian Cuisine\" (Cozinha Asiática).",
+    "latency_seconds": 5.873499393463135
+}

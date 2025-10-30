@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000124.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-10-30T15:21:20.407534",
+    "date": "2025-10-30",
+    "response": "A garrafa contém um produto da marca Pantene, especificamente para todos os tipos de cabelo (\"All Hair Types\"). O rótulo indica que é da linha \"Classic\" (Cuidado Clássico).",
+    "latency_seconds": 2.7711994647979736
+}
