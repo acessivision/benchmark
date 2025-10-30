@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000733.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-30T15:22:04.888418",
+    "date": "2025-10-30",
+    "pergunta_translated_en": "What is that?",
+    "response_original_en": "That is a Gillette Series shave gel can, prominently displaying the brand name and product details.",
+    "response_translated_pt": "Essa é uma lata de gel de barbear da série Gillette, exibindo com destaque o nome da marca e os detalhes do produto.",
+    "latency_seconds": 2.56675386428833
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-30T15:23:19.632025",
+    "date": "2025-10-30",
+    "response": "Com base na imagem, mesmo que esteja bem embaçada e de cabeça para baixo, é possível identificar que se trata da embalagem de uma refeição congelada.\n\nLendo o texto na caixa, o prato é:\n\n*   **Chicken in Peanut Sauce** (Frango com Molho de Amendoim)\n\nA marca parece ser **Lean Cuisine**, uma popular marca de refeições congeladas. Portanto, é uma refeição pronta de frango com molho de amendoim, provavelmente contendo macarrão e vegetais, no estilo da culinária asiática.",
+    "latency_seconds": 29.334580421447754
+}
