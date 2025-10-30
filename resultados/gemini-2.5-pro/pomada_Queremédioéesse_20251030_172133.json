@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "pomada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-10-30T17:20:35.377393",
+    "date": "2025-10-30",
+    "response": "Com base na imagem, este é um pote de **Pomada Vovô Pedro**.\n\nAqui estão as informações do rótulo:\n\n*   **Nome:** Pomada Vovô Pedro\n*   **Indicação de uso:** Uso Externo\n*   **Origem:** É descrita como uma \"fórmula espiritual em poder da **Casa Espírita Maria Nunes - BH / MG**\".\n*   **Distribuição:** Gratuita.\n\n**O que isso significa?**\n\nNão se trata de um medicamento farmacêutico convencional, vendido em farmácias e com registro na ANVISA. É um produto de origem religiosa/espiritual, distribuído por um centro espírita em Belo Horizonte, Minas Gerais.\n\nNo espiritismo, é comum o uso de \"remédios\" como este ou a \"água fluidificada\", que são preparados e recebem energias espirituais para auxiliar no tratamento de males do corpo e do espírito, sempre como um complemento, e não um substituto, ao tratamento médico.\n\n**Importante:** Se você tem algum problema de saúde, é fundamental procurar um médico para obter o diagnóstico e o tratamento adequados. Produtos como este podem ser usados como um auxílio complementar de fé, mas não devem substituir a medicina tradicional.",
+    "latency_seconds": 22.63417387008667
+}

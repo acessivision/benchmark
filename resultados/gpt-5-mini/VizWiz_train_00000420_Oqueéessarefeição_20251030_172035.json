@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-30T17:19:36.610906",
+    "date": "2025-10-30",
+    "response": "Pelo que dá para ver na foto, parece uma embalagem de refeição congelada/ready meal do tipo asiático: macarrão (noodles) com pedaços de frango e legumes (vagem/ervilha-torta, cenoura). Na embalagem também aparece algo como “chicken in … sauce” — possivelmente frango em molho de amendoim ou outro molho oriental.\n\nPosso afirmar melhor se você enviar outra foto mais nítida e direita (ou eu posso tentar ler o texto da embalagem se melhorar a imagem). Quer que eu tente identificar o nome exato ou sugerir como preparar/servir?",
+    "latency_seconds": 8.856627225875854
+}
