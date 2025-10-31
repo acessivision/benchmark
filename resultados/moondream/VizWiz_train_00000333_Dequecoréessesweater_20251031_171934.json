@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000333.jpg",
+    "question_original_pt": "De que cor é esse sweater?",
+    "timestamp_sent_utc": "2025-10-31T17:18:48.960270",
+    "date": "2025-10-31",
+    "pergunta_translated_en": "What color is that sweater?",
+    "response_original_en": "The sweater is maroon with gray stripes.",
+    "response_translated_pt": "O suéter é marrom com listras cinza.",
+    "latency_seconds": 3.2548604011535645
+}

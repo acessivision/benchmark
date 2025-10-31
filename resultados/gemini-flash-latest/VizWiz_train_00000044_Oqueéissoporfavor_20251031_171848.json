@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-10-31T17:18:02.543452",
+    "date": "2025-10-31",
+    "response": "Com base na imagem, trata-se de uma embalagem (provavelmente de uma refeição pronta congelada ou para micro-ondas) de **Frango Agridoce (Sweet Sour Chicken)**.\n\nAqui estão os detalhes que podem ser identificados na embalagem:\n\n1.  **Produto Principal:** **Sweet Sour Chicken** (Frango Agridoce).\n2.  **Descrição:** O texto pequeno diz \"Chicken in a sweet & sour sauce with rice and vegetables\" (Frango em um molho agridoce com arroz e vegetais).\n3.  **Marca:** O produto é **da HEINZ**.\n4.  **Gama/Linha:** Faz parte da linha **\"Signature Range\"** e de uma gama superior que visa controle de peso ou refeições mais leves (o nome, que parece ser \"Straighteners\" ou \"Weight Watchers\", está parcialmente cortado).\n5.  **Informação Nutricional:** Há um círculo roxo visível indicando **1.4g FAT** (1.4g de Gordura), sugerindo que é uma opção de baixo teor de gordura.",
+    "latency_seconds": 6.040555477142334
+}

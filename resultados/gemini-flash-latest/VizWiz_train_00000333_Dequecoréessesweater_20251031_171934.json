@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000333.jpg",
+    "question_original_pt": "De que cor é esse sweater?",
+    "timestamp_sent_utc": "2025-10-31T17:18:48.960270",
+    "date": "2025-10-31",
+    "response": "O sweater tem um padrão de listras e é composto por **três cores principais**:\n\n1.  **Borgonha/Vinho (Maroon/Burgundy)**: Uma cor escura e profunda.\n2.  **Rosa Choque/Fúcsia (Hot Pink/Fuchsia)**: Uma cor rosa vibrante e brilhante.\n3.  **Cinza Claro (Light Grey)**: Uma cor neutra, visível nas listras e, possivelmente, na parte inferior da peça.\n\nPortanto, o sweater é **listrado em borgonha/vinho, rosa choque e cinza claro**.",
+    "latency_seconds": 1.505725622177124
+}
