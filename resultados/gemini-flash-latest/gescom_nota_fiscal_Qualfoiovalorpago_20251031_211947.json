@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "gescom_nota_fiscal.jpg",
+    "question_original_pt": "Qual foi o valor pago?",
+    "timestamp_sent_utc": "2025-10-31T21:19:15.737055",
+    "date": "2025-10-31",
+    "response": "Com base no cupom fiscal (NFC-e), o valor total da compra foi de **R$ 23,85**.\n\nO campo **\"VALOR PAGO R$\"** indica que o consumidor entregou **R$ 24,00**.\n\nPortanto, o valor final da compra foi R$ 23,85, e o valor efetivamente pago pelo cliente (dinheiro entregue) foi R$ 24,00 (resultando em um troco de R$ 0,15).",
+    "latency_seconds": 1.2259244918823242
+}

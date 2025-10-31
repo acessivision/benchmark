@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-10-31T21:15:47.159503",
+    "date": "2025-10-31",
+    "response": "Parece ser uma refeição pronta congelada: “Sweet & Sour Chicken” (frango agridoce) com arroz. A embalagem mostra a marca (Heinz / Weight Watchers Signature Range). Quer que eu leia alguma informação da embalagem (calorias, instruções de aquecer etc.)?",
+    "latency_seconds": 9.031084537506104
+}

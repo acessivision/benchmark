@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-10-31T21:15:47.159503",
+    "date": "2025-10-31",
+    "response": "Olá!\n\nEsta é a embalagem de uma refeição pronta (provavelmente congelada ou refrigerada).\n\nEspecificamente, é um prato de **Frango Agridoce (Sweet & Sour Chicken)**.\n\nÉ um produto da marca **Weight Watchers** (conhecida em português como Vigilantes do Peso) em parceria com a **Heinz**. A refeição consiste em frango com molho agridoce, arroz e vegetais.",
+    "latency_seconds": 12.022097110748291
+}

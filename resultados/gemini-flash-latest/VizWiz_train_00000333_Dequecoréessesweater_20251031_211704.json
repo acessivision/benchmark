@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000333.jpg",
+    "question_original_pt": "De que cor é esse sweater?",
+    "timestamp_sent_utc": "2025-10-31T21:16:33.347909",
+    "date": "2025-10-31",
+    "response": "O sweater é **listrado** (ou em riscas) e possui três cores principais:\n\n1.  **Bordô** ou **Vinho** (um tom escuro de vermelho)\n2.  **Rosa forte** ou **Fúcsia** (um tom vibrante de rosa/magenta)\n3.  **Cinza claro** (ou Cinzento)",
+    "latency_seconds": 3.8851542472839355
+}
