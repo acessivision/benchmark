@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000333.jpg",
+    "question_original_pt": "De que cor é esse sweater?",
+    "timestamp_sent_utc": "2025-10-31T06:29:54.466762",
+    "date": "2025-10-31",
+    "response": "O sweater tem listras nas cores vinho, rosa e cinza.",
+    "latency_seconds": 2.3846068382263184
+}

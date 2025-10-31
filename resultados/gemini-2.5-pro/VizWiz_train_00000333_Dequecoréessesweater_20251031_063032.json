@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000333.jpg",
+    "question_original_pt": "De que cor é esse sweater?",
+    "timestamp_sent_utc": "2025-10-31T06:29:54.466762",
+    "date": "2025-10-31",
+    "response": "Com base na imagem, o suéter é listrado e tem várias cores. As cores principais são:\n\n*   **Vinho** ou **bordô** (um tom de vermelho escuro)\n*   **Rosa** (um tom mais vibrante, tipo pink ou magenta)\n*   **Cinza**",
+    "latency_seconds": 15.65915060043335
+}

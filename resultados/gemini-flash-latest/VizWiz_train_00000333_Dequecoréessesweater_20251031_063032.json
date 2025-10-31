@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000333.jpg",
+    "question_original_pt": "De que cor é esse sweater?",
+    "timestamp_sent_utc": "2025-10-31T06:29:54.466762",
+    "date": "2025-10-31",
+    "response": "O sweater é **listrado** e apresenta as seguintes cores principais:\n\n1.  **Bordô / Vinho escuro** (uma cor escura, rica e avermelhada).\n2.  **Fúcsia / Rosa escuro** (uma cor avermelhada mais clara e brilhante).\n3.  **Cinza claro** (ou cinza azulado, especialmente na gola e na parte inferior).",
+    "latency_seconds": 0.9462485313415527
+}

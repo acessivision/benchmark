@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-10-31T06:29:05.019826",
+    "date": "2025-10-31",
+    "response": "Com base na imagem, isso é a **embalagem de uma refeição pronta** (um prato pré-preparado).\n\nA informação principal visível na embalagem é:\n\n1.  **Nome do Prato:** **Sweet Sour Chicken** (Frango Agridoce).\n2.  **Descrição:** \"Chicken in a sweet & sour sauce with rice and vegetables\" (Frango em um molho agridoce com arroz e vegetais).\n3.  **Marca:** É um produto **da HEINZ**, pertencente à linha **\"Signature Range\"**.\n4.  **Marca Secundária (Parcialmente visível):** A primeira palavra no canto superior esquerdo é \"Straight [algo]\", sendo geralmente associada à marca **Weight Watchers** (ou uma linha de refeições de baixa caloria).\n5.  **Informação Nutricional Destacada:** O rótulo roxo indica **\"1.4g FAT\"** (1.4 gramas de gordura) por porção.\n\nPortanto, trata-se de um prato pronto de Frango Agridoce da marca Heinz, focado em refeições com baixo teor de gordura.",
+    "latency_seconds": 6.378386974334717
+}
