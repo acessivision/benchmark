@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-10-31T15:18:50.114167",
+    "date": "2025-10-31",
+    "response": "Com base na imagem fornecida, que mostra a embalagem de um produto alimentício, isso é:\n\nUm prato pronto (ou kit de refeição) de **Frango Agridoce (Sweet and Sour Chicken)**.\n\n### Detalhes Visíveis:\n\n1.  **Marca/Linha:** O produto é da linha **Signature Range** da **HEINZ**, e está associado a uma marca de controle de peso (o texto superior parece ser \"Weight Watchers\" ou similar, embora esteja parcialmente cortado/obscurecido, mas a associação com refeições dietéticas é clara).\n2.  **Prato:** A imagem mostra um prato de **Frango Agridoce** servido sobre arroz, com fatias de vegetais (provavelmente cenoura e pimentão) e um molho vermelho-alaranjado.\n3.  **Descrição:** O texto pequeno confirma: \"Chicken in a sweet & sour sauce with rice and vegetables\" (Frango em um molho agridoce com arroz e vegetais).\n4.  **Informação Nutricional:** Há uma indicação de que o produto é de baixo teor de gordura, com a informação de **\"1.4g FAT\"** (1,4 gramas de gordura) por porção.",
+    "latency_seconds": 5.41369891166687
+}

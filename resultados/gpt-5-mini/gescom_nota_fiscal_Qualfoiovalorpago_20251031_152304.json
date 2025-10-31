@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "gescom_nota_fiscal.jpg",
+    "question_original_pt": "Qual foi o valor pago?",
+    "timestamp_sent_utc": "2025-10-31T15:22:25.577684",
+    "date": "2025-10-31",
+    "response": "Foi pago R$ 24,00. (Total da compra R$ 23,85 — troco R$ 0,15.)",
+    "latency_seconds": 11.144573211669922
+}

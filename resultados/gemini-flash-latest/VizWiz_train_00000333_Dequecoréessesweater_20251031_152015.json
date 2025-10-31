@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000333.jpg",
+    "question_original_pt": "De que cor é esse sweater?",
+    "timestamp_sent_utc": "2025-10-31T15:19:32.984839",
+    "date": "2025-10-31",
+    "response": "Este sweater é listrado e possui três cores principais:\n\n1.  **Borgonha** (ou Vinho, um vermelho muito escuro e profundo).\n2.  **Rosa** (um tom vibrante, próximo ao magenta ou fúcsia).\n3.  **Cinza** (um tom claro, possivelmente cinza mesclado/heather grey).",
+    "latency_seconds": 3.885187864303589
+}

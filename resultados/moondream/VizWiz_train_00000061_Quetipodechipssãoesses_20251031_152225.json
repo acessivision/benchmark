@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000061.jpg",
+    "question_original_pt": "Que tipo de chips são esses?",
+    "timestamp_sent_utc": "2025-10-31T15:22:00.127741",
+    "date": "2025-10-31",
+    "pergunta_translated_en": "What kind of chips are these?",
+    "response_original_en": "These are blue corn tortilla chips from Garden of Eatin.",
+    "response_translated_pt": "Estas são tortilhas de milho azul da Garden of Eatin.",
+    "latency_seconds": 1.5269858837127686
+}
