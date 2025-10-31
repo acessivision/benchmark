@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "gescom_nota_fiscal.jpg",
+    "question_original_pt": "Qual foi o valor pago?",
+    "timestamp_sent_utc": "2025-10-31T09:24:48.755109",
+    "date": "2025-10-31",
+    "response": "De acordo com o cupom fiscal (NFC-e), o valor pago pelo cliente (o dinheiro entregue no caixa) foi de **R$ 24,00**.\n\nDetalhes do cupom:\n\n*   **VALOR TOTAL R$:** 23,85\n*   **VALOR PAGO R$:** 24,00\n*   **TROCO R$:** 0,15",
+    "latency_seconds": 3.3085124492645264
+}

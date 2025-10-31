@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-10-31T09:21:00.536120",
+    "date": "2025-10-31",
+    "response": "Isso é a **embalagem de um produto alimentício pronto**, provavelmente uma refeição pronta congelada ou de micro-ondas.\n\nCom base nas informações visíveis na embalagem:\n\n1.  **Produto:** **Sweet Sour Chicken** (Frango Agridoce).\n2.  **Descrição:** \"Chicken in a sweet & sour sauce with rice and vegetables\" (Frango em um molho agridoce com arroz e vegetais).\n3.  **Marca/Linha:** É um produto da linha **Weight Watchers** (parcialmente visível como \"ight Watchers\") da marca **HEINZ**, pertencente à **Signature Range** (Linha Signature).\n4.  **Informação Nutricional (Parcial):** É possível ver uma etiqueta roxa indicando \"1.4g FAT\" (1,4 gramas de gordura).",
+    "latency_seconds": 4.8622825145721436
+}
