@@ -102,5 +102,12 @@
         "data/imagens/VizWiz_train_00000289.jpg",
         "data/imagens/VizWiz_train_00000420.jpg",
         "data/imagens/pomada.jpeg"
+    ],
+    "2025-10-31": [
+        "data/imagens/VizWiz_train_00000044.jpg",
+        "data/imagens/VizWiz_train_00000333.jpg",
+        "data/imagens/cardapio_ofidevo.jpg",
+        "data/imagens/VizWiz_train_00000061.jpg",
+        "data/imagens/gescom_nota_fiscal.jpg"
     ]
 }

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-10-31T02:40:42.798788",
+    "date": "2025-10-31",
+    "response": "Com base na imagem, trata-se da embalagem de um **prato pronto para consumo** da marca **Heinz**.\n\nO prato em destaque é:\n\n*   **Sweet Sour Chicken (Frango Agridoce)**\n\nA embalagem indica que ele faz parte da **\"Signature Range\"** (Linha Signature) da Heinz. O texto descritivo diz: \"Chicken in a sweet & sour sauce with rice and vegetables\" (Frango em um molho agridoce com arroz e vegetais).\n\nA embalagem também sugere que é uma opção de baixo teor de gordura, mostrando um ícone roxo com **\"1.4g FAT\"** (1,4 gramas de gordura). O texto parcialmente visível no canto superior esquerdo (provavelmente \"Weight Watchers\" ou similar) reforça que esta é uma refeição voltada para dietas ou alimentação mais leve.",
+    "latency_seconds": 6.010901927947998
+}
