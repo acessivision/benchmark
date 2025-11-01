@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "question_original_pt": "Que tipo de vitaminas são essas, por favor?",
+    "timestamp_sent_utc": "2025-11-01T15:18:26.892776",
+    "date": "2025-11-01",
+    "response": "Não consigo identificar as vitaminas específicas na imagem, pois o texto está desfocado. Sugiro verificar os rótulos dos produtos para obter informações detalhadas sobre o tipo de vitaminas ou suplementos que eles contêm.",
+    "latency_seconds": 3.51780104637146
+}

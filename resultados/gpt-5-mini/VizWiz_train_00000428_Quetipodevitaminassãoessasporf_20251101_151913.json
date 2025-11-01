@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "question_original_pt": "Que tipo de vitaminas são essas, por favor?",
+    "timestamp_sent_utc": "2025-11-01T15:18:26.892776",
+    "date": "2025-11-01",
+    "response": "Parece ser um suplemento da marca Nature Made — pela parte do rótulo visível dá para ler algo como “cium” e “nesium”, então provavelmente é um suplemento de cálcio e magnésio. \n\nNão consigo ler o rótulo com nitidez na foto, então não posso confirmar formulação, dosagem nem se contém vitamina D ou outros componentes. Verifique o painel “Supplement Facts”/“Informação Nutricional” no frasco para confirmar os ingredientes e a dose recomendada. \n\nSe quiser, envie uma foto mais nítida da frente do rótulo e do painel de informações e eu ajudo a ler o que está escrito. E, se for tomar ou combinar com outros medicamentos, consulte um médico ou farmacêutico.",
+    "latency_seconds": 8.270718336105347
+}

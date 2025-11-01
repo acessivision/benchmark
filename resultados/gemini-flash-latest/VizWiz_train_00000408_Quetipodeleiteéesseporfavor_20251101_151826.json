@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000408.jpg",
+    "question_original_pt": "Que tipo de leite é esse por favor",
+    "timestamp_sent_utc": "2025-11-01T15:17:49.242462",
+    "date": "2025-11-01",
+    "response": "Com base na imagem, o produto é um tipo de \"leite\" vegetal (não leite de vaca) da marca **Silk**.\n\nEspecificamente, é um \"leite\" com sabor de **Dark Chocolate** (Chocolate Amargo/Escuro) e é feito com \"rich dark cocoa\" (cacau escuro rico).\n\nEmbora a palavra completa para o tipo de bebida vegetal (como amêndoa, soja ou aveia) esteja cortada na parte inferior da imagem, o logotipo e o contexto da marca Silk, juntamente com a visível \"AL\" na parte mais baixa, sugerem fortemente que este é o **Silk Almondmilk (Leite de Amêndoa) Sabor Chocolate Escuro.**\n\n**Resumo:**\n\n*   **Marca:** Silk\n*   **Sabor:** Dark Chocolate (Chocolate Amargo)\n*   **Tipo de Leite (Provável):** Almondmilk (Leite de Amêndoa) - Bebida vegetal.",
+    "latency_seconds": 1.8954660892486572
+}

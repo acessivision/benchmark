@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "question_original_pt": "Que tipo de vitaminas são essas, por favor?",
+    "timestamp_sent_utc": "2025-11-01T15:18:26.892776",
+    "date": "2025-11-01",
+    "response": "Com base na imagem, que está um pouco embaçada, o frasco em primeiro plano (o frasco escuro com a tampa amarela e a etiqueta amarela) não contém vitaminas propriamente ditas, mas sim **minerais essenciais**.\n\nO produto claramente identificado neste rótulo é:\n\n*   **Cálcio (Calcium)**\n*   **Magnésio (Magnesium)**\n\nEstes são minerais essenciais para a saúde óssea, muscular e nervosa. (Suplementos de Cálcio e Magnésio são frequentemente combinados com a Vitamina D, que ajuda na absorção do cálcio, mas os principais componentes listados são os minerais).\n\nTambém há outros suplementos visíveis:\n\n1.  **Frasco Branco no fundo:** Parece ser um suplemento à base de **Óleo** (possivelmente Óleo de Peixe, Krill ou algum outro tipo de ácido graxo ômega).\n2.  **Caixa Azul na lateral:** Parece ser um suplemento para a saúde das articulações, com o nome de **Osteo-Flex** (que tipicamente contém Glucosamina e Condroitina, não sendo vitaminas).",
+    "latency_seconds": 6.963764667510986
+}

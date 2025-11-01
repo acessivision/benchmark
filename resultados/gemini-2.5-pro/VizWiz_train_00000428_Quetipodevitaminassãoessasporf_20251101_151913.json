@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "question_original_pt": "Que tipo de vitaminas são essas, por favor?",
+    "timestamp_sent_utc": "2025-11-01T15:18:26.892776",
+    "date": "2025-11-01",
+    "response": "Com base na imagem, embora esteja um pouco embaçada, é possível identificar os seguintes suplementos:\n\n1.  **Frasco em primeiro plano (rótulo amarelo):** É um suplemento da marca **Nature Made** de **Cálcio e Magnésio** (Calcium Magnesium). Estes são minerais, não exatamente vitaminas, que são importantes para a saúde dos ossos, músculos e nervos.\n\n2.  **Caixa ao lado (azul e laranja):** Parece ser um produto da marca **Osteo Bi-Flex**. Este é um suplemento popular para a saúde das articulações, que geralmente contém glucosamina e condroitina.\n\nPortanto, os produtos visíveis na foto são um suplemento mineral (Cálcio e Magnésio) e um suplemento para as articulações (Osteo Bi-Flex).",
+    "latency_seconds": 13.526631832122803
+}
