@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "question_original_pt": "Que tipo de vitaminas são essas, por favor?",
+    "timestamp_sent_utc": "2025-11-01T17:17:20.247833",
+    "date": "2025-11-01",
+    "response": "Não consigo identificar claramente as vitaminas na imagem fornecida pela qualidade ou posicionamento. No entanto, a embalagem preta e amarela parece ser um suplemento de cálcio e magnésio da Nature Made. Para informações detalhadas, recomendo ler o rótulo da embalagem.",
+    "latency_seconds": 2.6787965297698975
+}

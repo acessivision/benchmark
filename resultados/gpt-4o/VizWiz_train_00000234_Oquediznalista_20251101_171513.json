@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000234.jpg",
+    "question_original_pt": "O que diz na lista?",
+    "timestamp_sent_utc": "2025-11-01T17:14:25.834225",
+    "date": "2025-11-01",
+    "response": "A lista diz:\n\n- Dishes\n- Counter tops\n- Speaker stuff\n- Laundry (in basket under mirror)\n- Poker set (by door)\n- Dog food bag\n- Fix water bowl",
+    "latency_seconds": 4.132697343826294
+}

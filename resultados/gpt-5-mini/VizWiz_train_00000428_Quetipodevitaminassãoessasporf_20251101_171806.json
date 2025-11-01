@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "question_original_pt": "Que tipo de vitaminas são essas, por favor?",
+    "timestamp_sent_utc": "2025-11-01T17:17:20.247833",
+    "date": "2025-11-01",
+    "response": "Parece ser um suplemento de cálcio e magnésio (marca Nature Made). A foto está um pouco borrada, então não consigo ler as doses nem os outros ingredientes.\n\nSe quiser confirmação, envie uma foto mais nítida da frente do rótulo e da tabela “Supplement Facts”/“Informação nutricional”. Também verifique no rótulo: quantidades por dose, número de doses por cápsula/comprimido e data de validade — e consulte um profissional de saúde caso tome outros medicamentos.",
+    "latency_seconds": 7.989437580108643
+}

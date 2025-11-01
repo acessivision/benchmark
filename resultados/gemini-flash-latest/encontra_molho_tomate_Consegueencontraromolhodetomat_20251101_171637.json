@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "encontra_molho_tomate.jpeg",
+    "question_original_pt": "Consegue encontrar o molho de tomate pra mim?",
+    "timestamp_sent_utc": "2025-11-01T17:15:49.405316",
+    "date": "2025-11-01",
+    "response": "Eu examinei a imagem com atenção e **não consegui encontrar** um molho de tomate (molho pronto, extrato ou ketchup) nas prateleiras da porta do seu refrigerador.\n\nOs itens que se parecem com potes de conserva são:\n\n1.  Um pote de **Cerejas** (com o rótulo vermelho e branco) na prateleira de cima.\n2.  Um pacote que parece ser queijo ralado ou algum produto seco (rotulado com \"Bona TRADICIONAL\") na prateleira de baixo.",
+    "latency_seconds": 4.780257940292358
+}

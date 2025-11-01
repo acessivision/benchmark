@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "question_original_pt": "Que tipo de vitaminas são essas, por favor?",
+    "timestamp_sent_utc": "2025-11-01T17:17:20.247833",
+    "date": "2025-11-01",
+    "pergunta_translated_en": "What kind of vitamins are these please?",
+    "response_original_en": "The image shows bottles of calcium and vitamin D supplements. Calcium and vitamin D are essential nutrients that support bone health, immune function, and calcium absorption in the body. Calcium is typically found in dairy products, leafy greens, and fortified foods, while vitamin D is commonly obtained through sun exposure, fatty fish, and fortified foods.",
+    "response_translated_pt": "A imagem mostra frascos de suplementos de cálcio e vitamina D. O cálcio e a vitamina D são nutrientes essenciais que apoiam a saúde óssea, a função imunológica e a absorção de cálcio no corpo. O cálcio é normalmente encontrado em laticínios, folhas verdes e alimentos fortificados, enquanto a vitamina D é comumente obtida através da exposição ao sol, peixes gordurosos e alimentos fortificados.",
+    "latency_seconds": 3.244593381881714
+}
