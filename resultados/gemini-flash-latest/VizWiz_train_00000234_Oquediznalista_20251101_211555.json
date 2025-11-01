@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000234.jpg",
+    "question_original_pt": "O que diz na lista?",
+    "timestamp_sent_utc": "2025-11-01T21:15:15.704347",
+    "date": "2025-11-01",
+    "response": "A lista está escrita em inglês e lista tarefas domésticas ou itens a serem organizados.\n\nAqui está a transcrição do que está escrito:\n\n### **Original (Inglês):**\n\n*   Dishes\n*   Counter tops\n*   Speaker Stuff\n*   Laundry (in basket under mirror)\n*   Poker set (by door)\n*   Dog food bag\n*   Fix water bowl\n\n***\n\n### **Tradução (Português):**\n\n*   Louça (Pratos)\n*   Bancadas/Mesas\n*   Coisas do alto-falante (caixa de som)\n*   Roupa para lavar (na cesta debaixo do espelho)\n*   Jogo de Poker (perto da porta)\n*   Saco de ração de cachorro\n*   Consertar a tigela de água",
+    "latency_seconds": 5.157242059707642
+}

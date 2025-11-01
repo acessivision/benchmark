@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "encontra_molho_tomate.jpeg",
+    "question_original_pt": "Consegue encontrar o molho de tomate pra mim?",
+    "timestamp_sent_utc": "2025-11-01T21:16:25.120307",
+    "date": "2025-11-01",
+    "pergunta_translated_en": "Can you find the tomato sauce for me?",
+    "response_original_en": "No, there is no tomato sauce in the image. The refrigerator contains various items such as eggs, jars, bottles, and containers, but no tomato sauce.",
+    "response_translated_pt": "Não, não há molho de tomate na imagem. A geladeira contém vários itens, como ovos, potes, garrafas e recipientes, mas não contém molho de tomate.",
+    "latency_seconds": 1.760477066040039
+}

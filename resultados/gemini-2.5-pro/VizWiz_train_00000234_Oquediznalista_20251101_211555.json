@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000234.jpg",
+    "question_original_pt": "O que diz na lista?",
+    "timestamp_sent_utc": "2025-11-01T21:15:15.704347",
+    "date": "2025-11-01",
+    "response": "Com certeza! A lista no quadro branco diz o seguinte:\n\n**Texto original em inglês:**\n\n*   Dishes\n*   Counter tops\n*   Speaker stuff\n*   Laundry (in basket under mirror)\n*   Poker set (by door)\n*   Dog food bag\n*   Fix water bowl\n\n---\n\n**Tradução para o português (lista de tarefas):**\n\n*   Lavar a louça\n*   Limpar as bancadas\n*   Coisas do alto-falante\n*   Lavar a roupa (no cesto debaixo do espelho)\n*   Conjunto de pôquer (perto da porta)\n*   Saco de ração do cachorro\n*   Arrumar a tigela de água",
+    "latency_seconds": 9.523123979568481
+}

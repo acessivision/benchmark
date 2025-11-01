@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000408.jpg",
+    "question_original_pt": "Que tipo de leite é esse por favor",
+    "timestamp_sent_utc": "2025-11-01T21:17:06.758558",
+    "date": "2025-11-01",
+    "response": "É leite vegetal da marca Silk — parece ser Silk Almond (leite de amêndoa), versão chocolate (dark chocolate). Não é leite de vaca.  \nSe quiser confirmar, verifique no rótulo frontal onde costuma aparecer a palavra \"Almond\" ou leia a lista de ingredientes (procure \"almonds\").",
+    "latency_seconds": 9.12005066871643
+}

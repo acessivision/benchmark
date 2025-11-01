@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000408.jpg",
+    "question_original_pt": "Que tipo de leite é esse por favor",
+    "timestamp_sent_utc": "2025-11-01T21:17:06.758558",
+    "date": "2025-11-01",
+    "response": "Com base na imagem, este é um **leite de amêndoa** da marca **Silk**, no sabor **Chocolate Amargo (Dark Chocolate)**.\n\nPodemos identificar isso pelos seguintes detalhes na embalagem:\n*   A marca **\"Silk\"** está bem visível.\n*   As palavras **\"DARK CHOCOLATE\"** estão escritas na parte superior.\n*   Abaixo do logo da Silk, embora não totalmente nítido, pode-se ver o início da palavra \"ALMOND\".\n\n**Atenção:** A data impressa na parte de cima da caixa (\"11 12 11\") parece indicar o ano de **2011**. Se essa for a data de validade, o produto está extremamente vencido e não deve ser consumido.",
+    "latency_seconds": 13.080448389053345
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "question_original_pt": "Que tipo de vitaminas são essas, por favor?",
+    "timestamp_sent_utc": "2025-11-01T21:17:53.877475",
+    "date": "2025-11-01",
+    "response": "A imagem mostra três frascos de suplementos:\n\n1. O frasco em primeiro plano parece ser um suplemento de cálcio e magnésio, possivelmente com a marca \"Nature Made\".\n2. O frasco branco no fundo pode ser um suplemento de óleo de peixe, mas a etiqueta não está totalmente visível.\n3. A caixa azul à direita não tem informações legíveis sobre seu conteúdo.\n\nPara obter informações precisas, é melhor consultar diretamente a embalagem ou verificar os detalhes no rótulo.",
+    "latency_seconds": 4.877963542938232
+}
