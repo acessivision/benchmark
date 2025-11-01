@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "question_original_pt": "Que tipo de vitaminas são essas, por favor?",
+    "timestamp_sent_utc": "2025-11-01T09:20:36.503720",
+    "date": "2025-11-01",
+    "response": "A imagem está um pouco desfocada, mas parece ser de frascos de vitaminas ou suplementos. O frasco do primeiro plano parece ser de um suplemento contendo cálcio e magnésio. Não consigo identificar precisamente as outras embalagens devido à qualidade da imagem. Para saber mais detalhes, seria útil verificar as informações no rótulo dos frascos.",
+    "latency_seconds": 4.686603546142578
+}

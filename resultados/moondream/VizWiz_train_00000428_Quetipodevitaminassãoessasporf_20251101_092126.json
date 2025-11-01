@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "question_original_pt": "Que tipo de vitaminas são essas, por favor?",
+    "timestamp_sent_utc": "2025-11-01T09:20:36.503720",
+    "date": "2025-11-01",
+    "pergunta_translated_en": "What kind of vitamins are these please?",
+    "response_original_en": "The image shows bottles of vitamins, specifically calcium and vitamin D supplements. The bottles are labeled \"Pure Made\" and contain these nutrients.",
+    "response_translated_pt": "A imagem mostra frascos de vitaminas, especificamente suplementos de cálcio e vitamina D. Os frascos são rotulados como “Pure Made” e contêm esses nutrientes.",
+    "latency_seconds": 2.855064868927002
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "question_original_pt": "Que tipo de vitaminas são essas, por favor?",
+    "timestamp_sent_utc": "2025-11-01T09:20:36.503720",
+    "date": "2025-11-01",
+    "response": "Com base na imagem, que mostra três produtos diferentes, o suplemento mais claramente identificável (o frasco em primeiro plano com o rótulo amarelo) contém principalmente **minerais**, embora frequentemente sejam vendidos na mesma seção que as vitaminas.\n\nO rótulo do frasco em primeiro plano indica:\n\n1.  **Cálcio (Calcium)**\n2.  **Magnésio (Magnesium)**\n\nA marca parece ser **Nature Made**.\n\n### Outros produtos visíveis:\n\n*   **Frasco branco (no meio):** É difícil ler o rótulo devido ao desfoque, mas a palavra **\"Oil\"** (óleo) é visível. Este pode ser um suplemento de **Óleo de Peixe (Fish Oil)**, **Ômega-3** ou **Vitamina D** em óleo.\n*   **Caixa azul (no canto direito):** Parece ser um suplemento para as articulações, contendo termos como **\"Osteo Flex\"** ou similar (provavelmente Glucosamina e/ou Condroitina).",
+    "latency_seconds": 5.649580478668213
+}

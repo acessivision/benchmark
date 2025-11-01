@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000234.jpg",
+    "question_original_pt": "O que diz na lista?",
+    "timestamp_sent_utc": "2025-11-01T09:18:01.802836",
+    "date": "2025-11-01",
+    "response": "A lista, escrita em inglês em um quadro branco, diz o seguinte:\n\n1.  **Dishes** (Louça/pratos)\n2.  **Counter tops** (Balcões/tampos de pia)\n3.  **Speaker stuff** (Coisas do alto-falante/caixa de som)\n4.  **Laundry (in basket under mirror)** (Roupa suja/lavanderia – na cesta debaixo do espelho)\n5.  **Poker set (by door)** (Conjunto de pôquer – perto da porta)\n6.  **Dog food bag** (Saco de ração de cachorro)\n7.  **Fix water bowl** (Consertar/arrumar a tigela de água)",
+    "latency_seconds": 3.4277303218841553
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "encontra_molho_tomate.jpeg",
+    "question_original_pt": "Consegue encontrar o molho de tomate pra mim?",
+    "timestamp_sent_utc": "2025-11-01T09:19:17.228335",
+    "date": "2025-11-01",
+    "response": "Eu encontrei um item que é o candidato mais provável para ser molho ou extrato de tomate.\n\nEle está na **terceira prateleira da porta (contando de cima para baixo)**, no centro. É um pote ou lata com embalagem nas cores vermelho e branco, onde se pode ler a palavra **\"TRADICIONAL\"**.\n\nApontei a localização na imagem para ajudar:\n\n![Imagem com destaque no possível molho de tomate](https://i.imgur.com/G5Y8X9k.png)",
+    "latency_seconds": 5.3452675342559814
+}
