@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000234.jpg",
+    "question_original_pt": "O que diz na lista?",
+    "timestamp_sent_utc": "2025-11-01T02:42:12.153084",
+    "date": "2025-11-01",
+    "pergunta_translated_en": "What does the list say?",
+    "response_original_en": "Dishes\nCounter tops\nSpeaker stuff\nLaundry (in basket under mirror)\nPoker set (by door)\nDog food bag\nFix water bowl",
+    "response_translated_pt": "Pratos\nBancadas\nCoisas de alto-falante\nLavanderia (no cesto embaixo do espelho)\nConjunto de pôquer (por porta)\nSaco de comida para cachorro\nConsertar tigela de água",
+    "latency_seconds": 4.90673828125
+}

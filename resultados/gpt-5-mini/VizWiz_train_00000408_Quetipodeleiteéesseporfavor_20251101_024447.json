@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000408.jpg",
+    "question_original_pt": "Que tipo de leite é esse por favor",
+    "timestamp_sent_utc": "2025-11-01T02:44:10.926611",
+    "date": "2025-11-01",
+    "response": "Parece ser “Silk” — ou seja, leite vegetal à base de amêndoas (almond milk). Pelo rótulo também dá para ver “Dark Chocolate”, então é leite de amêndoas sabor chocolate escuro. Verifique o rótulo/ingredientes para confirmar.",
+    "latency_seconds": 6.0881507396698
+}

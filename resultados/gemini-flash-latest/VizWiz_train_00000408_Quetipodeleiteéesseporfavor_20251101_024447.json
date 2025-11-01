@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000408.jpg",
+    "question_original_pt": "Que tipo de leite é esse por favor",
+    "timestamp_sent_utc": "2025-11-01T02:44:10.926611",
+    "date": "2025-11-01",
+    "response": "Com base na embalagem visível na imagem, este é um:\n\n**Leite de Amêndoa (Almond Milk)** da marca **Silk**, no sabor **Chocolate Amargo (Dark Chocolate)**.\n\nA marca **Silk** é conhecida por seus produtos à base de plantas (leites não lácteos), e a embalagem indica claramente o sabor \"Dark Chocolate\" (Chocolate Amargo) e a frase \"made with rich dark cocoa\". A parte inferior, embora cortada, exibe o design padrão da linha de Leite de Amêndoa da Silk.",
+    "latency_seconds": 4.429536581039429
+}

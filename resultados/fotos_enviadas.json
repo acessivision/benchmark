@@ -109,5 +109,12 @@
         "data/imagens/cardapio_ofidevo.jpg",
         "data/imagens/VizWiz_train_00000061.jpg",
         "data/imagens/gescom_nota_fiscal.jpg"
+    ],
+    "2025-11-01": [
+        "data/imagens/VizWiz_train_00000234.jpg",
+        "data/imagens/VizWiz_train_00000265.jpg",
+        "data/imagens/encontra_molho_tomate.jpeg",
+        "data/imagens/VizWiz_train_00000408.jpg",
+        "data/imagens/VizWiz_train_00000428.jpg"
     ]
 }

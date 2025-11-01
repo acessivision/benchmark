@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "question_original_pt": "Que tipo de vitaminas são essas, por favor?",
+    "timestamp_sent_utc": "2025-11-01T02:44:47.623573",
+    "date": "2025-11-01",
+    "response": "Com base na imagem, o suplemento mais claramente visível e focado (o frasco escuro com a etiqueta amarela) é um suplemento de **Cálcio e Magnésio** (Calcium Magnesium), provavelmente da marca Nature Made.\n\nÉ importante notar que:\n\n1.  **Cálcio e Magnésio** são **minerais**, e não vitaminas. No entanto, são frequentemente vendidos como suplementos dietéticos e muitas vezes contêm Vitamina D para auxiliar na absorção do cálcio.\n2.  Há outros suplementos visíveis na imagem:\n    *   Uma caixa azul à direita, que parece ser **Osteo-Flex** (um suplemento popular para a saúde das articulações).\n    *   Um frasco branco no fundo, que parece ser um suplemento de **Óleo** (\"Oil\"), possivelmente Óleo de Peixe (Fish Oil) ou algum outro óleo ômega.",
+    "latency_seconds": 4.642841100692749
+}

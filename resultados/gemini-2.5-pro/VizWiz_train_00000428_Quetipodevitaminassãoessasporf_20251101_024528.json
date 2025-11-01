@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "question_original_pt": "Que tipo de vitaminas são essas, por favor?",
+    "timestamp_sent_utc": "2025-11-01T02:44:47.623573",
+    "date": "2025-11-01",
+    "response": "Olá! A imagem está um pouco desfocada, mas é possível identificar alguns dos produtos.\n\nO frasco em primeiro plano, com o rótulo amarelo, é um suplemento de **Cálcio e Magnésio** da marca **Nature Made**.\n\nAo fundo, também se pode ver:\n*   Uma caixa azul e laranja da marca **Osteo Bi-Flex**, que é um suplemento para a saúde das articulações.\n*   Um frasco branco com um rótulo vermelho, mas está muito desfocado para ser identificado com certeza.\n\nPortanto, os produtos visíveis são principalmente suplementos minerais (cálcio e magnésio) e para as articulações.",
+    "latency_seconds": 9.899837493896484
+}
