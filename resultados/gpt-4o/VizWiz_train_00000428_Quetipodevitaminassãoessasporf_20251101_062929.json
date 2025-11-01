@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "question_original_pt": "Que tipo de vitaminas são essas, por favor?",
+    "timestamp_sent_utc": "2025-11-01T06:28:47.665520",
+    "date": "2025-11-01",
+    "response": "Na imagem, parece haver um frasco de suplementos da marca Nature Made, possivelmente contendo cálcio e magnésio, mas a imagem está desfocada para ter certeza. Para identificar exatamente, seria bom verificar o rótulo mais detalhadamente.",
+    "latency_seconds": 4.26486349105835
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000265.jpg",
+    "question_original_pt": "Qual é a data de validade?",
+    "timestamp_sent_utc": "2025-11-01T06:26:54.631965",
+    "date": "2025-11-01",
+    "response": "Não consigo ler a data com certeza — na imagem parece estar escrito \"OCT 18\" (ou seja, 18 de outubro), mas o ano não está legível. Pode tirar outra foto mais aproximada e em foco da área onde está impresso o carimbo (sem reflexo do flash e com a tampa fora do caminho)? Assim eu consigo confirmar.",
+    "latency_seconds": 7.404134511947632
+}

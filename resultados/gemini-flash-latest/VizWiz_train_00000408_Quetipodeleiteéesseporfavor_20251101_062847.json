@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000408.jpg",
+    "question_original_pt": "Que tipo de leite é esse por favor",
+    "timestamp_sent_utc": "2025-11-01T06:28:11.179061",
+    "date": "2025-11-01",
+    "response": "Com base na imagem, o leite é:\n\n1.  **Marca:** **Silk**\n2.  **Tipo de Leite/Bebida:** É uma bebida vegetal (leite não-lácteo). O rótulo mostra a palavra \"Silk\" e, mais abaixo (parcialmente visível), a abreviatura **\"ALMOND\"** (Amêndoa) e a palavra **\"MILK\"** (Leite).\n3.  **Sabor:** **Chocolate Escuro (Dark Chocolate)**\n\nPortanto, trata-se de **Bebida de Amêndoa (Leite de Amêndoa) Sabor Chocolate Escuro da marca Silk.**",
+    "latency_seconds": 1.5950794219970703
+}

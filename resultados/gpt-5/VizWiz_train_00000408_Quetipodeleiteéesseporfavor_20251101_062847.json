@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000408.jpg",
+    "question_original_pt": "Que tipo de leite é esse por favor",
+    "timestamp_sent_utc": "2025-11-01T06:28:11.179061",
+    "date": "2025-11-01",
+    "response": "É um leite vegetal: bebida de amêndoas (almond milk) sabor chocolate amargo da marca Silk. Não é leite de vaca; é sem lactose.",
+    "latency_seconds": 10.602030277252197
+}
