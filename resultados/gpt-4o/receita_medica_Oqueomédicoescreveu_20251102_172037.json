@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-02T17:19:12.659601",
+    "date": "2025-11-02",
+    "response": "Parece que no documento está escrito o seguinte:\n\nPaciente: Henrique Figueiredo\n\nUso Interno\n\n1) Dipirona 500 mg VO - Tomar 01 comp. de 8/8 horas enquanto persistirem os sintomas.\n\n2) Paracetamol gotas VO - Tomar 35 gotas de 8/8 horas em caso de dor ou febre.\n\n(A transcrição pode não estar totalmente exata devido à legibilidade da caligrafia.)",
+    "latency_seconds": 23.300530910491943
+}
