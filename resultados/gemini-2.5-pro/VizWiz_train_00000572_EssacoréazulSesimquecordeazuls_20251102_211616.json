@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "question_original_pt": "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela.",
+    "timestamp_sent_utc": "2025-11-02T21:15:31.992345",
+    "date": "2025-11-02",
+    "response": "Sim, a cor da peça de roupa na imagem é azul.\n\nÉ um tom de azul bem vibrante e claro. Poderia ser descrito como **azul-ciano**, **azul-turquesa claro** ou até mesmo **azul-piscina**, por ser uma cor viva e saturada.",
+    "latency_seconds": 9.90307903289795
+}

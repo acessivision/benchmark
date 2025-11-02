@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "question_original_pt": "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela.",
+    "timestamp_sent_utc": "2025-11-02T21:15:31.992345",
+    "date": "2025-11-02",
+    "response": "Sim, a cor da blusa é claramente **azul**.\n\nÉ um tom muito vibrante e brilhante. A melhor descrição para essa cor é:\n\n*   **Azul Turquesa**\n*   **Azul Piscina** (Pool Blue)\n*   **Ciano Vibrante**\n\nÉ um azul médio-claro, com uma saturação alta e uma leve tendência esverdeada, o que o distingue de um azul puro (como o azul royal). É o tipo de cor que lembra águas tropicais ou piscinas.",
+    "latency_seconds": 4.553256511688232
+}

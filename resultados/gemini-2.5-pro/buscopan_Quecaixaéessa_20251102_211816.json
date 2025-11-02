@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "buscopan.jpeg",
+    "question_original_pt": "Que caixa é essa?",
+    "timestamp_sent_utc": "2025-11-02T21:17:39.186244",
+    "date": "2025-11-02",
+    "response": "Com base na imagem, esta é uma caixa do medicamento **Buscoduo**.\n\nAqui estão os detalhes que aparecem na embalagem:\n\n*   **Nome do medicamento:** Buscoduo\n*   **Princípios ativos:** Butilbrometo de escopolamina (10mg) e Paracetamol (500mg).\n*   **Ação:** É um medicamento com \"dupla ação: analgésica e antiespasmódica\", o que significa que atua aliviando a dor e os espasmos (contrações involuntárias), sendo comumente usado para cólicas e dores na região da barriga.\n*   **Apresentação:** A caixa contém 20 comprimidos revestidos.\n*   **Uso:** É de uso oral e indicado para adultos.\n\nEm resumo, é um analgésico e antiespasmódico usado para aliviar dores e cólicas abdominais.\n\n**Atenção:** Como qualquer medicamento, é importante usá-lo sob orientação médica ou farmacêutica. Não se automedique.",
+    "latency_seconds": 8.656375408172607
+}

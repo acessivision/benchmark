@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-02T21:16:49.419589",
+    "date": "2025-11-02",
+    "response": "Abaixo está a transcrição completa do que o médico escreveu na receita:\n\n---\n\n### Cabeçalho / Identificação\n\n**HOSPITAL REGIONAL MANOEL DE SOUSA SANTOS**\nHRMSS\nAv. Dr. Raimundo Santos, 546 - Centro - (89) \\[...\\]-1192\n64.900-000 BOM JESUS - PI\nCNPJ: 06.\\[...\\] .564/0001- \\[...\\]\n\n---\n\n### Paciente\n\n**Paciente:** Henrique Figueiredo\n\n**Uso Interno**\n\n### Medicamentos\n\n#### 1. Dramin\n\n*   **(1) Dramin 100mg - VO**\n*   **Instrução:** Tomar 01 comp. de 8/8 hrs p/ aliviar os enjoos.\n\n#### 2. Buscopam Composto\n\n*   **(2) Buscopam Composto Gotas - VO**\n*   **Instrução:** Tomar 35 gts de 8/8 hrs em caso de dor ou febre.\n\n---",
+    "latency_seconds": 4.632902383804321
+}
