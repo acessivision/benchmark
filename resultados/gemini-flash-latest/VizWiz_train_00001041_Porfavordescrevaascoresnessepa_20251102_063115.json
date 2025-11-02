@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001041.jpg",
+    "question_original_pt": "Por favor descreva as cores nesse par de meias",
+    "timestamp_sent_utc": "2025-11-02T06:30:34.623734",
+    "date": "2025-11-02",
+    "response": "As meias exibem um design vibrante e contrastante sobre um fundo escuro.\n\n**Cores principais:**\n\n1. **Fundo:** A cor dominante das meias é um **preto sólido ou muito escuro**, servindo como base para o padrão.\n2. **Padrão de quadrados/pixels:** O padrão é composto por pequenos quadrados coloridos, que se assemelham a pixels ou luzes de LED acesas. As cores presentes nesses quadrados incluem:\n    * **Azul:** Vários tons de azul, desde um **azul-claro brilhante/ciano** até um **azul-marinho** mais profundo.\n    * **Amarelo:** Um **amarelo brilhante** ou cor de gema.\n    * **Laranja/Âmbar:** Tons de **laranja vibrante**.\n    * **Vermelho/Borgonha:** Incluindo quadrados de **vermelho-escuro** ou **borgonha** profundo.\n    * **Verde:** Pelo menos um toque de **verde-limão** ou **verde brilhante** pode ser visto em algumas áreas.\n\nO design geral é escuro e moderno, com um toque retro (pixelado), onde as cores dos pixels se destacam intensamente contra o fundo preto.",
+    "latency_seconds": 2.2931323051452637
+}

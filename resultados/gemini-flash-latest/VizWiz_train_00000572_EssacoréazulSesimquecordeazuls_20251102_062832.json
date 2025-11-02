@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "question_original_pt": "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela.",
+    "timestamp_sent_utc": "2025-11-02T06:27:35.899325",
+    "date": "2025-11-02",
+    "response": "Sim, a cor da blusa na imagem é **azul**.\n\nEspecificamente, é um tom de azul muito **vibrante** e **claro** que pende ligeiramente para o verde.\n\nAs melhores descrições para essa cor seriam:\n\n1.  **Azul Turquesa:** Um tom muito comum para descrever essa mistura vívida de azul e verde.\n2.  **Azul Água (Aqua):** Similar ao turquesa, remete à cor da água em piscinas ou praias tropicais.\n3.  **Ciano:** Tecnicamente, a cor mais próxima se for comparada aos modelos de cores de impressão (CMYK), mas Turquesa ou Aqua são termos mais usuais para roupas.",
+    "latency_seconds": 4.2686989307403564
+}

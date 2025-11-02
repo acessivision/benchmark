@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-02T06:29:09.912805",
+    "date": "2025-11-02",
+    "response": "Esta é uma transcrição do que está escrito na receita médica, separada por seções:\n\n### **Informações do Hospital (Cabeçalho)**\n\n*   **HOSPITAL REGIONAL MANOEL DE SOUSA SANTOS**\n*   Av. Dr. Raimundo Santos, 546 - Centro\n*   64.900-000 BOM JESUS - PI\n*   CNPJ: [Número omitido].564/0001-[Dígito omitido]\n\n---\n\n### **Prescrição Médica**\n\n*   **Paciente:** Eurrique Figueiredo (O nome pode ser lido como *Henrique* ou *Eurrique*, sendo *Eurrique* uma leitura mais próxima da caligrafia, embora menos comum.)\n*   **Uso Interno**\n\n**1. Dramin**\n*   **Medicamento:** Dramin 100mg - VO (Via Oral)\n*   **Posologia:** Tomar 01 comp. (comprimido) de 8/8 hrs p/ (para) aliviar os enjôos.\n\n**2. Buscopam Composto**\n*   **Medicamento:** Buscopam Composto gotas - VO (Via Oral)\n*   **Posologia:** Tomar 35 gts (gotas) de 8/8 hrs em caso de dor ou febre.",
+    "latency_seconds": 5.08487606048584
+}

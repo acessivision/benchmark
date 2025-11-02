@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "buscopan.jpeg",
+    "question_original_pt": "Que caixa é essa?",
+    "timestamp_sent_utc": "2025-11-02T06:29:55.549244",
+    "date": "2025-11-02",
+    "response": "A caixa da imagem é de um medicamento chamado **Buscoduo**.\n\nÉ possível ler as seguintes informações na embalagem:\n\n*   **Nome do produto:** Buscoduo\n*   **Composição (substâncias ativas):** Butilbrometo de escopolamina 10mg e paracetamol 500mg.\n*   **Ação:** Dupla ação: Analgésica e Antiespasmódica.\n*   **Indicação principal (parcialmente visível):** Cólica da barriga / Dor moderada.\n*   **Apresentação:** 20 comprimidos revestidos.\n*   **Uso:** Uso adulto / Uso oral.",
+    "latency_seconds": 1.2083745002746582
+}

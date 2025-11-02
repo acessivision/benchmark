@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001041.jpg",
+    "question_original_pt": "Por favor descreva as cores nesse par de meias",
+    "timestamp_sent_utc": "2025-11-02T06:30:34.623734",
+    "date": "2025-11-02",
+    "response": "A meia é de fundo preto com um padrão de pequenos quadradinhos coloridos. As cores dos quadradinhos incluem:\n- azul claro/ciano\n- amarelo\n- verde (tom limão/aguinha)\n- laranja\n- vermelho/bordô\n- um tom turquesa/verde-azulado\n\nO cós/parte superior também é preto.",
+    "latency_seconds": 4.951390743255615
+}
