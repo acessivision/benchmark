@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "question_original_pt": "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela.",
+    "timestamp_sent_utc": "2025-11-02T09:16:49.317754",
+    "date": "2025-11-02",
+    "response": "Sim, a cor da blusa na imagem é **azul**.\n\nÉ um tom de azul muito **vibrante**, **claro** e **brilhante**, que tem uma leve inclinação para o verde.\n\nAs melhores descrições para essa cor são:\n\n1.  **Azul Turquesa**\n2.  **Azul Ciano** (um azul elétrico e saturado)\n3.  **Azul Água** ou **Aquamarine** (referindo-se a um azul que lembra a cor da água tropical).",
+    "latency_seconds": 4.277637481689453
+}

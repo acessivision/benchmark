@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001041.jpg",
+    "question_original_pt": "Por favor descreva as cores nesse par de meias",
+    "timestamp_sent_utc": "2025-11-02T09:19:48.656983",
+    "date": "2025-11-02",
+    "response": "Com base na imagem, as cores presentes neste par de meias são as seguintes:\n\n**Cor de Fundo:**\n\n*   **Preto Sólido e Profundo:** O tecido principal das meias é de cor preta escura, servindo como base para o padrão.\n\n**Padrão (Quadrados Tipo Pixel):**\n\nO padrão é composto por pequenos quadrados dispersos que se assemelham a pixels ou blocos de videogame, em uma variedade de cores vivas que contrastam com o fundo preto:\n\n1.  **Azul Brilhante/Ciano:** Um azul claro e vibrante.\n2.  **Amarelo Vivo:** Um amarelo claro e intenso (semelhante ao amarelo limão).\n3.  **Laranja:** Um tom vibrante de laranja.\n4.  **Vermelho Escuro/Bordô:** Um vermelho profundo e rico, puxando para o vinho ou bordô.\n5.  **Verde Limão/Esmeralda:** Um tom de verde brilhante e destacado.\n\nEm resumo, as meias têm uma **base preta** com um padrão multicolorido em estilo pixelizado, usando principalmente tons de **azul, amarelo, laranja, vermelho escuro e verde.**",
+    "latency_seconds": 6.011220932006836
+}

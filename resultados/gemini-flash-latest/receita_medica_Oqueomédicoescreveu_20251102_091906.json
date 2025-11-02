@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-02T09:18:11.003335",
+    "date": "2025-11-02",
+    "response": "Este é um documento oficial de um hospital, e a caligrafia, embora em letra cursiva, é bastante legível.\n\n**Informações do Cabeçalho (Hospital):**\n*   **HOSPITAL REGIONAL MANOEL DE SOUSA SANTOS**\n*   Av. Dr. Raimundo Santos, 546 - Centro\n*   64.900-000 BOM JESUS - PI\n*   CNPJ: 06.XXX.564/0001-XX (Número parcialmente coberto)\n\n**Paciente:**\n*   **Paciente:** Luverique Siquirido (ou Figueredo)\n*   **Uso:** Uso Interno\n\n---\n\n**Prescrição Médica:**\n\n**① Dromin 300mg - VO** (Via Oral)\n*   **Instrução:** Tomar 01 comp. de 8/8 hrs p/ aliviar os enjôos.\n\n**② Buscopam Composto gotas - VO** (Via Oral)\n*   **Instrução:** Tomar 35 gts (gotas) de 8/8 hrs em caso de dor ou febre.",
+    "latency_seconds": 5.264090299606323
+}

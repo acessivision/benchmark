@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001041.jpg",
+    "question_original_pt": "Por favor descreva as cores nesse par de meias",
+    "timestamp_sent_utc": "2025-11-02T09:19:48.656983",
+    "date": "2025-11-02",
+    "response": "Claro! Com base na imagem, posso descrever as cores e o padrão das meias da seguinte forma:\n\nA cor de base da meia é **preta**.\n\nSobre o fundo preto, há um padrão composto por pequenos quadrados coloridos, que se assemelham a pixels, criando um design geométrico e vibrante.\n\nAs cores presentes nos quadrados são:\n*   **Azul** (um tom vivo, próximo do ciano)\n*   **Amarelo**\n*   **Verde limão**\n*   **Vermelho escuro** (ou bordô)\n*   **Laranja**\n\nEm resumo, é uma meia preta com um padrão colorido e divertido que lembra o estilo dos videogames antigos (pixel art).",
+    "latency_seconds": 14.009849071502686
+}

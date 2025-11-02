@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "question_original_pt": "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela.",
+    "timestamp_sent_utc": "2025-11-02T09:16:49.317754",
+    "date": "2025-11-02",
+    "response": "Sim — é azul, mais precisamente um azul esverdeado vívido. Descrição:\n\n- Tom: azul-turquesa / ciano, mais perto de “aqua” ou “azul piscina” do que de azul-marinho.  \n- Intensidade: médio a forte, bastante saturado e brilhante.  \n- Subtom: ligeiro tom esverdeado (por isso parece turquesa/teal).\n\nObservação: a câmera, a iluminação e a tela onde você vê a foto podem alterar um pouco a cor. Aproximação de cor em hexadecimal (estimada): cerca de #00B7C9 — apenas referência, não exata. Se quiser uma correspondência precisa, fotografe em luz natural e use um conta-gotas/color picker.",
+    "latency_seconds": 10.007172346115112
+}

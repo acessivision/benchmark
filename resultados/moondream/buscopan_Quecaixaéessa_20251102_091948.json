@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "buscopan.jpeg",
+    "question_original_pt": "Que caixa é essa?",
+    "timestamp_sent_utc": "2025-11-02T09:19:06.527728",
+    "date": "2025-11-02",
+    "pergunta_translated_en": "What box is this?",
+    "response_original_en": "This is a box of Buscoduo, an antispasmodic medication containing escobamina 10mg, paracetamol 500mg.",
+    "response_translated_pt": "Esta é uma caixa de Buscoduo, um medicamento antiespasmódico que contém escobamina 10mg, paracetamol 500mg.",
+    "latency_seconds": 4.524776458740234
+}
