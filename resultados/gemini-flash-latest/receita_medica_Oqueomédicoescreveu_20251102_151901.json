@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-02T15:18:03.882065",
+    "date": "2025-11-02",
+    "response": "A transcrição da receita médica é a seguinte:\n\n***\n\n### **Dados do Hospital (Cabeçalho)**\n\n*   **Hospital:** HOSPITAL REGIONAL MANOEL DE SOUSA SANTOS\n*   **Sigla:** HRMSS\n*   **Endereço:** Av. Dr. Raimundo Santos, 546 - Centro\n*   **Localidade:** BOM JESUS - PI\n\n### **Informações da Receita**\n\n*   **Paciente:** Henrique Siqueirido (ou Siguirido)\n*   **Uso:** Uso Interno\n\n### **Prescrição Médica**\n\n**1.** **Dramin 100mg - VO** (Via Oral) - tomar **01 comp.** de **8/8 hrs** p/ aliviar os enjoos.\n\n**2.** **Buscopam Composto gotas - VO** (Via Oral) - tomar **35 gts** (gotas) de **8/8 hrs** em caso de dor ou febre.\n\n***\n*(Observação: A letra é bastante legível para uma receita médica.)*",
+    "latency_seconds": 10.19338607788086
+}

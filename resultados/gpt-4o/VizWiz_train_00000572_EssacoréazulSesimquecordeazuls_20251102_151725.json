@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "question_original_pt": "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela.",
+    "timestamp_sent_utc": "2025-11-02T15:16:43.161756",
+    "date": "2025-11-02",
+    "response": "Sim, essa cor parece azul. Especificamente, parece um azul-celeste, que é um tom de azul vibrante e claro.",
+    "latency_seconds": 4.766113996505737
+}

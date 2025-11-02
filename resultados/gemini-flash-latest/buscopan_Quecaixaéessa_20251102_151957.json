@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "buscopan.jpeg",
+    "question_original_pt": "Que caixa é essa?",
+    "timestamp_sent_utc": "2025-11-02T15:19:01.122804",
+    "date": "2025-11-02",
+    "response": "A caixa é do medicamento **Buscoduo**.\n\nÉ um medicamento que combina:\n\n*   **Butilbrometo de escopolamina 10mg** (ação antiespasmódica, para cólicas)\n*   **Paracetamol 500mg** (ação analgésica, para dor)\n\nEle é indicado para **dor moderada** e **cólica da barriga**, oferecendo **dupla ação: analgésica e antiespasmódica**. A embalagem mostrada contém 20 comprimidos revestidos para uso adulto.",
+    "latency_seconds": 3.533268451690674
+}
