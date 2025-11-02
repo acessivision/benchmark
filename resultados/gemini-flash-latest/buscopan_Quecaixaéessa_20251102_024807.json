@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "buscopan.jpeg",
+    "question_original_pt": "Que caixa é essa?",
+    "timestamp_sent_utc": "2025-11-02T02:47:27.421367",
+    "date": "2025-11-02",
+    "response": "A caixa é de **Buscoduo**.\n\nÉ um medicamento de dupla ação que combina:\n*   **Butilbrometo de Escopolamina (10mg):** Um antiespasmódico (para cólicas e dor da barriga).\n*   **Paracetamol (500mg):** Um analgésico (para dor moderada).\n\nO texto na caixa indica \"DUPLA AÇÃO: ANALGÉSICA E ANTIESPASMÓDICA\".",
+    "latency_seconds": 3.015066623687744
+}

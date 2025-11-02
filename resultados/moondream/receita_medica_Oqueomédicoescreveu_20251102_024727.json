@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-02T02:46:44.763837",
+    "date": "2025-11-02",
+    "pergunta_translated_en": "What did the doctor write?",
+    "response_original_en": "The doctor wrote: “Lunagua Triguerido” (presumably a misspelling of “Lunagua Triguerado” or a similar phrase), “Uso triturado” (presumably a misspelling of “Lunagua Triguerado” or a similar phrase), and “Dormim 300mg- VO - Lorman 01 comp.” (presumably a misspelling of “Dormim 300mg- VO - Lorman 01 comp.”).",
+    "response_translated_pt": "O médico escreveu: “Lunagua Triguerido” (presumivelmente um erro ortográfico de “Lunagua Triguerado” ou frase semelhante), “Uso triturado” (presumivelmente um erro ortográfico de “Lunagua Triguerado” ou frase semelhante) e “Dormim 300mg- VO - Lorman 01 comp.” (presumivelmente um erro ortográfico de “Dormim 300mg- VO - Lorman 01 comp.”).",
+    "latency_seconds": 3.5973119735717773
+}

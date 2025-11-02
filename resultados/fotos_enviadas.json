@@ -116,5 +116,12 @@
         "data/imagens/encontra_molho_tomate.jpeg",
         "data/imagens/VizWiz_train_00000408.jpg",
         "data/imagens/VizWiz_train_00000428.jpg"
+    ],
+    "2025-11-02": [
+        "data/imagens/VizWiz_train_00000572.jpg",
+        "data/imagens/encontra_cha_de_camomila_maracuja.jpeg",
+        "data/imagens/receita_medica.jpg",
+        "data/imagens/buscopan.jpeg",
+        "data/imagens/VizWiz_train_00001041.jpg"
     ]
 }

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-02T02:46:44.763837",
+    "date": "2025-11-02",
+    "response": "Claro, aqui está o que está escrito na prescrição:\n\n---\n\nPaciente: **Incompleto**\n\nUso Interno\n\n1) Dipirona 500 mg VO - Tomar 01 comp. de 8/8 horas p/ aliviar os sintomas.\n\n2) Buscopan composto gotas VO - Tomar 35 gotas de 8/8 horas em caso de dor ou febre.\n\n--- \n\nSe precisar de algo mais, estou à disposição!",
+    "latency_seconds": 1.8440992832183838
+}

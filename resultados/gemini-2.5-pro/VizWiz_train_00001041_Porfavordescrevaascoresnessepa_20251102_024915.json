@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001041.jpg",
+    "question_original_pt": "Por favor descreva as cores nesse par de meias",
+    "timestamp_sent_utc": "2025-11-02T02:48:07.870842",
+    "date": "2025-11-02",
+    "response": "Claro! Com base na imagem, posso descrever as cores das meias da seguinte forma:\n\nA cor de base da meia é **preta**.\n\nSobre o fundo preto, há um padrão de pequenos **quadrados coloridos**, que lembram pixels ou um mosaico. As cores desses quadrados incluem vários tons vibrantes:\n\n*   **Azul** (em um tom claro, tipo ciano)\n*   **Amarelo**\n*   **Verde** (um tom vivo, puxado para o verde-limão)\n*   **Laranja**\n*   **Vermelho** (alguns parecem ser um vermelho mais escuro ou bordô)\n\nEm resumo, são meias pretas com um padrão alegre e colorido de quadrados em tons de azul, amarelo, verde, laranja e vermelho.",
+    "latency_seconds": 14.996652603149414
+}
