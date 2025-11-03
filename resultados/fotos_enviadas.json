@@ -123,5 +123,12 @@
         "data/imagens/receita_medica.jpg",
         "data/imagens/buscopan.jpeg",
         "data/imagens/VizWiz_train_00001041.jpg"
+    ],
+    "2025-11-03": [
+        "data/imagens/VizWiz_train_00000987.jpg",
+        "data/imagens/cardapio_burguers.jpg",
+        "data/imagens/sulfadiazina_de_prata.jpeg",
+        "data/imagens/tabela_precos.png",
+        "data/imagens/bula.jpeg"
     ]
 }

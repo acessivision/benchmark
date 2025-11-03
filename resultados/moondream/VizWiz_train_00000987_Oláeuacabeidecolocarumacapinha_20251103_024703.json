@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000987.jpg",
+    "question_original_pt": "Olá, eu acabei de colocar uma capinha nova no meu Iphone, eu quero ter certeza que minha câmera não está obstruída",
+    "timestamp_sent_utc": "2025-11-03T02:46:15.663632",
+    "date": "2025-11-03",
+    "pergunta_translated_en": "Hello, I just put a new case on my iPhone, I want to make sure my camera is not obstructed",
+    "response_original_en": "If you've just installed a new case on your iPhone, make sure the camera lens isn't covered or obstructed:\n\n1. Open the camera app.\n2. Tap the camera icon to reveal the lens.\n3. Ensure the lens is clean and clear.\n4. Avoid covering the lens with objects or cases.\n5. Test the camera by taking a photo or video.\n\nIf the camera lens is obstructed, try gently removing the obstruction or using a lens cleaning cloth to clear it. If the lens still isn't clear, consider using a case with built-in camera covers or consult Apple’s support.",
+    "response_translated_pt": "Se você acabou de instalar uma nova capa no seu iPhone, certifique-se de que a lente da câmera não esteja coberta ou obstruída:\n\n1. Abra o aplicativo da câmera.\n2. Toque no ícone da câmera para revelar a lente.\n3. Certifique-se de que a lente esteja limpa e transparente.\n4. Evite cobrir a lente com objetos ou estojos.\n5. Teste a câmera tirando uma foto ou filmando.\n\nSe a lente da câmera estiver obstruída, tente remover a obstrução com cuidado ou usar um pano de limpeza de lentes para limpá-la. Se a lente ainda não estiver nítida, considere usar um estojo com tampas de câmera integradas ou consulte o suporte da Apple.",
+    "latency_seconds": 5.10781192779541
+}
