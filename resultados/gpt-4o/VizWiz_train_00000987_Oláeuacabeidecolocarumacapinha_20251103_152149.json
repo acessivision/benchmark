@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000987.jpg",
+    "question_original_pt": "Olá, eu acabei de colocar uma capinha nova no meu Iphone, eu quero ter certeza que minha câmera não está obstruída",
+    "timestamp_sent_utc": "2025-11-03T15:20:48.925232",
+    "date": "2025-11-03",
+    "response": "Aparentemente, a câmera não está obstruída, pois a imagem capturada está clara. Se você está satisfeito com o foco e a luminosidade, é provável que a capa não esteja bloqueando a câmera. Verifique também se não há sombras ou bordas no campo de visão.",
+    "latency_seconds": 5.403214693069458
+}

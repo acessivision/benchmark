@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000987.jpg",
+    "question_original_pt": "Olá, eu acabei de colocar uma capinha nova no meu Iphone, eu quero ter certeza que minha câmera não está obstruída",
+    "timestamp_sent_utc": "2025-11-03T15:20:48.925232",
+    "date": "2025-11-03",
+    "pergunta_translated_en": "Hello, I just put a new case on my iPhone, I want to make sure my camera is not obstructed",
+    "response_original_en": "If you've just installed a new case on your iPhone, make sure the camera lens isn't covered or obstructed. Hold the phone at a 90-degree angle to the case and check that the lens is clearly visible and centered in the frame. Avoid touching the camera lens directly with your fingers or objects, as this can block the view or damage the lens.",
+    "response_translated_pt": "Se você acabou de instalar uma nova capa no seu iPhone, certifique-se de que a lente da câmera não esteja coberta ou obstruída. Segure o telefone em um ângulo de 90 graus em relação à capa e verifique se a lente está claramente visível e centralizada na moldura. Evite tocar diretamente na lente da câmera com os dedos ou objetos, pois isso pode bloquear a visão ou danificar a lente.",
+    "latency_seconds": 5.188346862792969
+}
