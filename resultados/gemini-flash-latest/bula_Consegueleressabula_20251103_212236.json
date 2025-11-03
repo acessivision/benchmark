@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "bula.jpeg",
+    "question_original_pt": "Consegue ler essa bula?",
+    "timestamp_sent_utc": "2025-11-03T21:21:32.062847",
+    "date": "2025-11-03",
+    "response": "Sim, **consigo ler a maior parte da bula claramente**.\n\nO documento é a bula do medicamento **Paracetamol**.\n\nAs seções visíveis e legíveis incluem:\n\n*   **Identificação do Produto:** Paracetamol (Comprimido 50 mg)\n*   **Composição:** (Cada comprimido contém... 250 mg de paracetamol)\n*   **Informações ao Paciente**\n*   **1. Para que este medicamento é indicado?** (Tratamento temporário da febre, dores leves e moderadas, dor de cabeça, etc.)\n*   **2. Como este medicamento funciona?** (Ação no sistema nervoso central e periferia.)\n*   **3. Quando não devo usar este medicamento?** (Contraindicação por hipersensibilidade ou alergia ao paracetamol.)\n*   **4. O que devo saber antes de usar este medicamento?** (Advertências sobre não exceder a dose, uso em pacientes com problemas hepáticos ou renais, e a proibição de uso com bebidas alcoólicas.)\n\n**Você gostaria que eu transcrevesse alguma seção específica ou respondesse alguma dúvida sobre o medicamento?**",
+    "latency_seconds": 5.982929706573486
+}

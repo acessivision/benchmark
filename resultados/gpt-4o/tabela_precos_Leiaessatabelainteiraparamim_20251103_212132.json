@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "tabela_precos.png",
+    "question_original_pt": "Leia essa tabela inteira para mim",
+    "timestamp_sent_utc": "2025-11-03T21:20:49.840758",
+    "date": "2025-11-03",
+    "response": "Claro! Aqui está a tabela:\n\n**Produto** - **Preço**\n\n- Chocolate em barra - R$ 0,50\n- Maçã - R$ 1,00\n- Banana - R$ 0,70\n- Biscoito - R$ 3,00\n- Pão com queijo - R$ 1,50\n- Pão com geleia - R$ 1,20\n- Granola - R$ 2,50\n- Suco de laranja - R$ 1,75",
+    "latency_seconds": 4.461143732070923
+}

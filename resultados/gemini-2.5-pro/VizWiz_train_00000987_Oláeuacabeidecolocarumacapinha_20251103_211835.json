@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000987.jpg",
+    "question_original_pt": "Olá, eu acabei de colocar uma capinha nova no meu Iphone, eu quero ter certeza que minha câmera não está obstruída",
+    "timestamp_sent_utc": "2025-11-03T21:17:47.930250",
+    "date": "2025-11-03",
+    "response": "Olá! Pode ficar tranquilo(a).\n\nPela foto que você enviou, **sua câmera não está obstruída** pela capinha nova.\n\nA imagem está nítida e completa, sem cantos escuros ou qualquer parte da capinha aparecendo nas bordas. Se a capinha estivesse bloqueando a lente, você veria uma sombra ou uma mancha preta em algum dos cantos da foto.\n\nParece que o encaixe foi perfeito",
+    "latency_seconds": 8.973961114883423
+}
