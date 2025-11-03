@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "tabela_precos.png",
+    "question_original_pt": "Leia essa tabela inteira para mim",
+    "timestamp_sent_utc": "2025-11-03T09:26:24.540576",
+    "date": "2025-11-03",
+    "response": "Claro! A tabela mostra uma lista de produtos e seus respectivos preços.\n\n**PRODUTO | PREÇO**\n--- | ---\nChocolate em barra | R$ 0,50\nMaçã | R$ 1,00\nBanana | R$ 0,70\nBiscoito | R$ 3,00\nPão com queijo | R$ 1,50\nPão com geleia | R$ 1,20\nGranola | R$ 2,50\nSuco de laranja | R$ 1,75",
+    "latency_seconds": 7.790572166442871
+}
