@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000987.jpg",
+    "question_original_pt": "Olá, eu acabei de colocar uma capinha nova no meu Iphone, eu quero ter certeza que minha câmera não está obstruída",
+    "timestamp_sent_utc": "2025-11-03T17:17:41.449825",
+    "date": "2025-11-03",
+    "response": "Essa é uma ótima foto de teste!\n\n**Pode ficar tranquilo(a):** Sua câmera **não parece estar obstruída** pela nova capinha.\n\nA imagem está clara, bem definida e não apresenta nenhuma das seguintes características que indicariam um problema com a capa:\n\n1.  **Vinhetas escuras:** Não há cantos ou bordas escuras que indicariam que a abertura da capinha está bloqueando parte da lente.\n2.  **Manchas ou borrões:** O foco está nítido, sugerindo que não há sujeira ou plástico cobrindo a lente.\n\nSua capinha nova está instalada corretamente!",
+    "latency_seconds": 4.803170680999756
+}

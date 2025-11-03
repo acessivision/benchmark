@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "sulfadiazina_de_prata.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-03T17:19:55.877975",
+    "date": "2025-11-03",
+    "response": "O remédio visível na embalagem é a **Sulfadiazina de Prata**.\n\nTrata-se de um medicamento **genérico** (indicado pelo grande \"G\" e a frase \"Medicamento Genérico\" na embalagem), na concentração de **10 mg/g**, na forma de **Creme Dermatológico** para **Uso Tópico**.\n\nÉ um medicamento que exige **prescrição médica** para ser vendido, com retenção da receita.\n\n---\n\n*(**Nota informativa sobre o uso:** A Sulfadiazina de Prata é comumente utilizada para prevenir e tratar infecções em queimaduras de segundo e terceiro graus e em úlceras de pele. Consulte sempre um profissional de saúde antes de usar qualquer medicamento.)*",
+    "latency_seconds": 1.9533016681671143
+}

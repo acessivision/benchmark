@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "cardapio_burguers.jpg",
+    "question_original_pt": "Leia esse cardápio inteiro para mim",
+    "timestamp_sent_utc": "2025-11-03T17:18:39.665475",
+    "date": "2025-11-03",
+    "pergunta_translated_en": "Read this entire menu to me",
+    "response_original_en": "**Menu Burguers**\n\n**Simples**\n- H-Bacon: R$22\n- Bacon Especial: R$22\n- H-Frango: R$22\n- Frango Especial: R$22\n\n**Especiris**\n- H-Bacon Turbo: R$22\n- Bacon Megr: R$22\n- H-Frango Turbo: R$22\n- Frango Mega: R$22\n\n**H Frango Especial**\n- H Bacon Especial: R$22\n\n**Accompanimentos**\n- Batata Grd. 100GR: R$7\n- Batata Grd. 50GR: R$10\n- Batata Queijo E Bacon: R$15\n- Anéis de Cebola: R$12\n\n**Bebidors**\n- Refrigerante 2 Litros: R$5\n- Refrigerante Lata: R$5\n- Suco Natural: R$7\n- Suco Lata: R$5\n\n**Delivery**\n(2) 3456-7890",
+    "response_translated_pt": "**Cardápio Burguer**\n\n**Simples**\n- H-Bacon: R$ 22\n- Bacon Especial: R$ 22\n- H-Frango: R$ 22\n- Frango Especial: R$ 22\n\n**Especificações**\n-H Bacon Turbo: R$ 22\n- Bacon Megr: R$ 22\n- H-Frango Turbo: R$ 22\n- Frango Mega: R$ 22\n\n**H Frango Especial**\n- H Bacon Especial: R$ 22\n\n**Acompanhamentos**\n- Batata Grd. 100GR: R$7\n- Batata Grd. 50GR: R$10\n- Batata Queijo e Bacon: R$ 15\n- Anéis de Cebola: R$ 12\n\n**Bebidores**\n- Refrigerante 2 Litros: R$ 5\n- Refrigerante Lata: R$ 5\n- Suco Natural: R$ 7\n- Suco Lata: R$ 5\n\n**Entrega**\n(2) 3456-7890",
+    "latency_seconds": 4.664357662200928
+}
