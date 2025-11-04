@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-04T06:29:50.557384",
+    "date": "2025-11-04",
+    "response": "O produto mostrado na imagem é um **Extrato de Própolis** (ou Tintura de Própolis).\n\nA etiqueta visível na embalagem traz as seguintes informações que confirmam isso:\n\n1.  **Conteúdo:** A palavra \"...ATO DE PRÓPOLIS\" está visível (Provavelmente \"Extrato de Própolis\").\n2.  **Regulamentação:** A presença do selo do **Ministério da Agricultura, Brasil** e a menção ao **S.I.F. (Serviço de Inspeção Federal)** indicam que este é um produto apícola inspecionado e regulamentado como alimento/suplemento no Brasil.\n3.  **Marca (Provável):** O logotipo **FLORA** e **APIS** sugere fortemente que a marca do produto seja **Apis Flora**, uma das maiores e mais conhecidas produtoras de extrato de própolis no Brasil.\n\n### O que é o Extrato de Própolis?\n\nO extrato de própolis é uma substância resinosa coletada pelas abelhas de brotos e árvores. É amplamente utilizado como **suplemento alimentar** ou na **medicina popular** (fitoterapia/apiterapia) devido às suas propriedades:\n\n*   Antimicrobianas (antibacteriana, antiviral e antifúngica)\n*   Anti-inflamatórias\n*   Antioxidantes\n*   Cicratizantes\n\nÉ comumente usado para fortalecer a imunidade, tratar dores de garganta, gripes e resfriados, e ajudar na cicatrização de feridas.\n\n**Importante:** Embora seja amplamente utilizado para fins terapêuticos, ele é classificado e inspecionado no Brasil como um suplemento alimentar/produto apícola (o que é indicado pelo selo S.I.F.), e não como um medicamento farmacêutico registrado pela ANVISA.",
+    "latency_seconds": 5.986898422241211
+}
