@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-04T15:21:20.953317",
+    "date": "2025-11-04",
+    "pergunta_translated_en": "What medicine is this?",
+    "response_original_en": "This is an essential oil (EO) product from the Ministry of Health, issued by the Brasílian Ministry of Health. The label indicates it is an essential oil (EO) product from the Ministry of Health, issued by the Brasílian Ministry of Health. The product is identified as EO 3737 (S.I.F.), and it's manufactured in Brasília, Brazil. The bottle is held in a person's hand, suggesting it's being examined or displayed for sale.",
+    "response_translated_pt": "Este é um produto de óleo essencial (OE) do Ministério da Saúde, emitido pelo Ministério da Saúde de Brasília. O rótulo indica que se trata de um produto de óleo essencial (OE) do Ministério da Saúde, emitido pelo Ministério da Saúde de Brasília. O produto é identificado como EO 3737 (S.I.F.) e é fabricado em Brasília, Brasil. A garrafa está na mão de uma pessoa, sugerindo que está sendo examinada ou exposta à venda.",
+    "latency_seconds": 4.169840574264526
+}
