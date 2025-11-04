@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-04T02:40:24.878796",
+    "date": "2025-11-04",
+    "response": "Com base na imagem, o produto é um extrato de própolis.\n\nA embalagem mostra claramente:\n\n1.  A palavra \"PRÓPOLIS\" (ou \"EXTRATO DE PRÓPOLIS\") na lateral esquerda.\n2.  A marca **Flora Néctar** (o logotipo amarelo com \"FLORA\" está visível na parte inferior esquerda).\n3.  O selo de inspeção federal brasileira: **MINISTÉRIO DA AGRICULTURA - S.I.F. (Serviço de Inspeção Federal)**, com o número de inspeção 3733.\n\n**A Própolis** não é um medicamento tradicional, mas sim um **suplemento alimentar ou produto apícola** (derivado de abelhas) muito usado na medicina popular e fitoterapia, especialmente no Brasil, por suas supostas propriedades antibacterianas, anti-inflamatórias e antioxidantes.\n\nEm resumo, é um **Extrato de Própolis** da marca Flora (provavelmente Flora Néctar).",
+    "latency_seconds": 1.9999313354492188
+}
