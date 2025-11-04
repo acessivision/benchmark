@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-04T21:17:56.518512",
+    "date": "2025-11-04",
+    "pergunta_translated_en": "What medicine is this?",
+    "response_original_en": "This is an essential oil product, likely CBD-based, given the label’s mention of “CBD DE FOROLA” (cannabidiol oil) and “BASICONA” (cannabinoid) on the label. The bottle is held in a person’s hand, suggesting it’s being displayed or examined. The background includes a countertop and part of a patterned cloth with yellow fruit motifs.",
+    "response_translated_pt": "Este é um produto de óleo essencial, provavelmente à base de CBD, dada a menção no rótulo de “CBD DE FOROLA” (óleo de canabidiol) e “BASICONA” (canabinóide). A garrafa está na mão de uma pessoa, sugerindo que está sendo exposta ou examinada. O fundo inclui uma bancada e parte de um pano estampado com motivos de frutas amarelas.",
+    "latency_seconds": 4.371395826339722
+}
