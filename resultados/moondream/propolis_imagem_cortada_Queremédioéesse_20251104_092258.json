@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-04T09:21:56.891519",
+    "date": "2025-11-04",
+    "pergunta_translated_en": "What medicine is this?",
+    "response_original_en": "This is an essential oil (EO) product from the Ministry of Health of Brazil, specifically from the Inspecionário (Inspection) unit. The label clearly indicates it is a \"Flora\" product, confirming its natural origin. The bottle is held in a person's hand, suggesting it's being displayed or examined. The image shows a dark amber/brown liquid inside the bottle with a dropper top, typical for essential oils. The background includes a countertop and part of a patterned cloth with yellow fruit motifs.",
+    "response_translated_pt": "Este é um produto de óleo essencial (OE) do Ministério da Saúde do Brasil, especificamente da unidade Inspecionário. O rótulo indica claramente que se trata de um produto “Flora”, confirmando a sua origem natural. A garrafa está na mão de uma pessoa, sugerindo que está sendo exposta ou examinada. A imagem mostra um líquido âmbar/marrom escuro dentro do frasco com conta-gotas, típico de óleos essenciais. O fundo inclui uma bancada e parte de um pano estampado com motivos de frutas amarelas.",
+    "latency_seconds": 3.1539111137390137
+}
