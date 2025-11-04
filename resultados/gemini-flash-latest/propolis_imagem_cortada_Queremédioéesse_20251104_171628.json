@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-04T17:15:22.631723",
+    "date": "2025-11-04",
+    "response": "O objeto que você está segurando é um **Extrato de Própolis** (Propolis Extract).\n\nEssa é uma substância resinosa coletada pelas abelhas, muito utilizada como suplemento natural por suas propriedades antibacterianas, antivirais e anti-inflamatórias, sendo frequentemente usada para fortalecer a imunidade e tratar problemas de garganta.\n\nA embalagem indica que ele é:\n\n1.  **Extrato de Própolis** (visível parcialmente como \"...TO DE PROPOLIS\").\n2.  Inspecionado pelo **S.I.F.** (Serviço de Inspeção Federal) do **Ministério da Agricultura** (o que é comum para produtos apícolas no Brasil).\n3.  A marca visível no rodapé é **Flora** (provavelmente da conhecida empresa Apis Flora).\n\n**Importante:** Embora muitas pessoas o chamem de \"remédio\" (medicine), o extrato de própolis é classificado oficialmente como um **suplemento alimentar natural** ou **alimento funcional**.",
+    "latency_seconds": 5.273080825805664
+}

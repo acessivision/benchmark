@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-04T17:15:22.631723",
+    "date": "2025-11-04",
+    "pergunta_translated_en": "What medicine is this?",
+    "response_original_en": "This is an essential oil product, likely for aromatherapy or topical use. The bottle is labeled “Ministerio da Agricultura Brasileira” and “Brasil,” indicating it’s from Brazil. The dropper top suggests it’s a precise dosage for aromatherapy or topical application. The background shows what appears to be kitchen countertops and patterned fabric, adding context to the product’s use.",
+    "response_translated_pt": "Este é um produto de óleo essencial, provavelmente para aromaterapia ou uso tópico. A garrafa tem os rótulos “Ministério da Agricultura Brasileira” e “Brasil”, indicando que é do Brasil. A parte superior do conta-gotas sugere que é uma dosagem precisa para aromaterapia ou aplicação tópica. O fundo mostra o que parecem ser bancadas de cozinha e tecido estampado, agregando contexto ao uso do produto.",
+    "latency_seconds": 4.435229539871216
+}
