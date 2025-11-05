@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T17:20:16.757028",
+    "date": "2025-11-05",
+    "response": "Este jantar tem o sabor de um prato italiano clássico, especificamente um **Ravioli de Frango com Ricota e Espinafre em Molho de Tomate**.\n\nOs sabores principais seriam:\n\n1.  **Tomate:** Do molho marinara/tomate chunky, que oferece uma base agridoce e ácida.\n2.  **Queijo e Ervas:** A combinação da cremosidade da **Ricota** e do sabor levemente terroso do **Espinafre** que recheiam o ravioli, junto com o salgado e picante do **Queijo Parmesão** polvilhado.\n3.  **Frango:** O sabor suave e salgado do frango (Chicken Tenderloin) misturado ao molho.\n4.  **Manjericão (Basílico):** O sabor fresco e aromático das folhas verdes visíveis, que dão um toque de frescor.",
+    "latency_seconds": 6.8503313064575195
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T17:20:16.757028",
+    "date": "2025-11-05",
+    "response": "Com base na embalagem da imagem, este jantar é de **Ravióli de Ricota com Frango (Ricotta Ravioli & Chicken)**.\n\nO sabor é de um prato de inspiração italiana, com a seguinte combinação:\n\n*   **Ravióli:** Massa recheada com queijo ricota e espinafre.\n*   **Molho:** Um molho vermelho, provavelmente à base de tomate.\n*   **Acompanhamento:** Pedaços de frango.\n*   **Finalização:** Coberto com queijo ralado (parece parmesão) e folhas de manjericão.\n\nPortanto, o sabor deve ser **cremoso e suave** por causa da ricota, com a **acidez e o toque adocicado** do molho de tomate, o sabor **salgado** do frango e do queijo, e um **frescor de ervas** vindo do espinafre e do manjericão.",
+    "latency_seconds": 21.68822741508484
+}
