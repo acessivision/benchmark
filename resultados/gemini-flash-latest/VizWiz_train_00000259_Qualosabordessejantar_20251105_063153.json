@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T06:30:59.015136",
+    "date": "2025-11-05",
+    "response": "Com base na embalagem do produto \"Top Chef\" exibida na imagem, o sabor principal é o de um prato italiano clássico de massa.\n\nO jantar é um prato de **Ravioli de Grão Integral com Ricota e Espinafre (Chicken Tender Grain Ravioli with Ricotta & Spinach)**, coberto com um **molho de tomate (marinara)** e pedaços de **frango**.\n\nO sabor é predominantemente:\n\n1.  **Saboroso e Ácido:** Devido ao molho de tomate robusto (marinara).\n2.  **Cremoso e Suave:** Proveniente do recheio de ricota (queijo) e espinafre dentro do ravioli.\n3.  **Aromático:** Com notas de manjericão (visível na foto) e temperos italianos.\n4.  **Salgado/Umami:** Devido ao queijo ralado (parmesão) por cima.\n\nEm resumo, é um sabor **italiano clássico, rico, com uma combinação de tomate, queijo e ervas.**",
+    "latency_seconds": 4.521014213562012
+}

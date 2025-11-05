@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T06:30:59.015136",
+    "date": "2025-11-05",
+    "response": "Não posso determinar o sabor apenas pela embalagem, mas parece ser um prato de ravióli de frango com espinafre coberto com molho de tomate e queijo, inspirado na marca \"Top Chef\".",
+    "latency_seconds": 6.147455930709839
+}

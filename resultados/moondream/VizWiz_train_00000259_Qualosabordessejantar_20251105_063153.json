@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T06:30:59.015136",
+    "date": "2025-11-05",
+    "pergunta_translated_en": "How does this dinner taste?",
+    "response_original_en": "The image does not provide enough information to describe the taste of the dinner. It only shows a box of Top Chef pasta with tomato sauce and cheese, placed on a wooden table.",
+    "response_translated_pt": "A imagem não fornece informações suficientes para descrever o sabor do jantar. Mostra apenas uma caixa de macarrão Top Chef com molho de tomate e queijo, colocada sobre uma mesa de madeira.",
+    "latency_seconds": 2.280423402786255
+}

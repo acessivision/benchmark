@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-11-05T06:30:11.509955",
+    "date": "2025-11-05",
+    "pergunta_translated_en": "Is it the expiration date?",
+    "response_original_en": "Erro ao chamar a API Moondream: HTTP Error 500: Internal Server Error",
+    "response_translated_pt": "Erro ao chamar a API Moondream: HTTP Error 500: Internal Server Error",
+    "latency_seconds": 2.704066038131714
+}

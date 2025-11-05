@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-11-05T06:30:11.509955",
+    "date": "2025-11-05",
+    "response": "Com base na imagem, **não**.\n\nA imagem que você forneceu mostra a parte frontal da embalagem, que contém o nome do produto (\"Creamy Tomato Basil Penne\"), informações nutricionais (280 calorias) e instruções de cozimento.\n\nA **data de validade** (geralmente marcada como \"Válido até\" ou \"Melhor antes de\") não está visível nesta foto.\n\nPara encontrar a data de validade, você deve procurar no produto físico, geralmente:\n\n*   **Na parte de baixo (fundo) do copo/embalagem.**\n*   **Carimbada na borda da tampa.**\n*   **Em algum lugar do painel traseiro.**",
+    "latency_seconds": 4.4165942668914795
+}

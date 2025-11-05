@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-11-05T06:30:11.509955",
+    "date": "2025-11-05",
+    "response": "Não consigo ver a data de validade nesta foto — a imagem mostra a frente da embalagem, mas não aparece um carimbo/etiqueta com a validade.\n\nDicas: normalmente a data de validade está:\n- impressa na aba superior ou inferior da caixa;\n- na lateral junto ao código de barras;\n- estampada no próprio recipiente/plástico interno (se for alimento congelado);\n- em formato numérico (DD/MM/AAAA) ou código estampado.\n\nPode tirar outra foto mais próxima das bordas da caixa, do fundo e da tampa/plástico, com boa iluminação e foco? Posso tentar ler a data se você enviar essa imagem.",
+    "latency_seconds": 11.626930236816406
+}

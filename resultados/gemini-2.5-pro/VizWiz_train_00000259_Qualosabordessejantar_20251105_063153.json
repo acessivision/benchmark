@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T06:30:59.015136",
+    "date": "2025-11-05",
+    "response": "Com base na embalagem da imagem, o sabor desse jantar é de **Ravióli de Ricota com Frango**.\n\nAnalisando os detalhes da caixa, o prato é composto por:\n\n*   **Ravióli** recheado com **ricota e espinafre**.\n*   **Pedaços de frango**.\n*   Coberto com um **molho de tomate** e **queijo ralado** (provavelmente parmesão).\n\nPortanto, o sabor deve ser uma combinação clássica italiana:\n\n*   **Cremoso e suave** por dentro do ravióli, devido à ricota e ao espinafre.\n*   **Saboroso e um pouco ácido** por causa do molho de tomate.\n*   **Salgado e rico** por conta do frango e do queijo.\n\nÉ um prato com um sabor reconfortante e familiar, típico da culinária ítalo-americana.",
+    "latency_seconds": 15.687008380889893
+}

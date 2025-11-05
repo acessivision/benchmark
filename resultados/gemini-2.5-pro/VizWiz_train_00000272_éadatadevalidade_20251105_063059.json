@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-11-05T06:30:11.509955",
+    "date": "2025-11-05",
+    "response": "Infelizmente, a data de validade não está visível na foto que você enviou. A imagem mostra apenas a parte superior da embalagem do produto \"Healthy Choice Creamy Tomato Basil Penne\".\n\nNormalmente, a data de validade é impressa na parte inferior ou em uma das laterais da caixa. Recomendo que você verifique essas áreas para encontrar a informação.",
+    "latency_seconds": 10.903177499771118
+}

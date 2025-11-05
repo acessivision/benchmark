@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T06:30:59.015136",
+    "date": "2025-11-05",
+    "response": "Parece ser um produto com ricota — provavelmente ravioli/manicotti de ricota (possivelmente com espinafre e/ou frango). Não dá pra ler o nome completo na caixa pela foto. Pode tirar outra foto mais próxima do círculo verde onde está o nome do sabor?",
+    "latency_seconds": 9.103081703186035
+}
