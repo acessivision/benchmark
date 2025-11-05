@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T21:21:15.913810",
+    "date": "2025-11-05",
+    "response": "Este jantar tem o sabor de **comida italiana clássica**, especificamente massa recheada (ravióli) servida com molho de tomate e frango.\n\nCom base na embalagem, o sabor principal é:\n\n*   **Massa Recheada:** Sabor de ravióli (massa de trigo), provavelmente com recheio de **Ricota e Espinafre** (a seção verde do recheio é visível).\n*   **Molho:** Sabor de **Molho de Tomate** (Marinara), possivelmente com alho e ervas (como manjericão, que está visível na foto).\n*   **Proteína:** Contém **Frango** (\"Chicken Tenderloin\").\n*   **Toque Final:** Sabor salgado e umami de **Queijo Ralado** (parmesão).\n\nÉ um sabor **rico, cremoso (pelo recheio de ricota) e levemente ácido/doce (pelo molho de tomate).**",
+    "latency_seconds": 5.040683269500732
+}

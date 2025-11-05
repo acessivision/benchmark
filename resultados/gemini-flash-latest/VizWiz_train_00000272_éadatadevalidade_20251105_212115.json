@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-11-05T21:19:49.200378",
+    "date": "2025-11-05",
+    "response": "Não, esta imagem não mostra a data de validade (ou \"melhor consumir até\").\n\nA imagem que você forneceu mostra a parte superior da embalagem (nome do produto, informações nutricionais e instruções de preparo).\n\nGeralmente, a **data de validade** é impressa em outra parte do produto, como:\n\n*   Na **tampa** (borda ou topo).\n*   No **fundo** da embalagem.\n*   Em uma aba lateral, se for uma caixa.",
+    "latency_seconds": 3.9870846271514893
+}
