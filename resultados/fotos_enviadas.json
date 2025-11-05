@@ -134,5 +134,12 @@
     "2025-11-04": [
         "data/imagens/propolis_imagem_cortada.jpeg",
         "data/imagens/cupom_fiscal_eletronico.png"
+    ],
+    "2025-11-05": [
+        "data/imagens/VizWiz_test_00000096.jpg",
+        "data/imagens/VizWiz_train_00000272.jpg",
+        "data/imagens/VizWiz_train_00000259.jpg",
+        "data/imagens/cha_groselha_e_cha_limao.jpeg",
+        "data/imagens/VizWiz_train_00000265.jpg"
     ]
 }

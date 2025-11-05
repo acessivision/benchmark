@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-11-05T02:42:36.454033",
+    "date": "2025-11-05",
+    "response": "Com base na imagem fornecida, **não**, a data de validade não está visível.\n\nA imagem mostra a **frente da embalagem** do produto (Healthy Choice Mixers), que contém:\n\n*   O nome do produto (Creamy Tomato Basil Penne).\n*   Informações nutricionais resumidas (280 Calorias, etc.).\n*   Instruções básicas de preparo.\n\nAs datas de validade (como \"Válido até\" ou \"Best By\") geralmente são impressas na **tampa**, na **base** ou nas **laterais** da embalagem e não estão expostas nesta foto.",
+    "latency_seconds": 4.879305362701416
+}

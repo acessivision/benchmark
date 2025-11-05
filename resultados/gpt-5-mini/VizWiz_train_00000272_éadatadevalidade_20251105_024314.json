@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-11-05T02:42:36.454033",
+    "date": "2025-11-05",
+    "response": "Não consigo ver nenhuma data de validade nesta foto. Ela mostra a frente da embalagem; a data normalmente fica na parte de trás, na aba/embaixo da caixa ou perto do código de barras.\n\nPor favor, tire outra foto:\n- do verso, da base ou da aba da embalagem (próximo ao código de barras);\n- em foco e com boa iluminação;\n- incluindo qualquer texto como \"Best by\", \"Use by\", \"Best before\" ou \"Exp\".\n\nSe preferir, eu posso também ampliar/rotacionar a imagem atual, mas provavelmente precisarei de uma foto da área onde a data costuma estar.",
+    "latency_seconds": 8.080886125564575
+}

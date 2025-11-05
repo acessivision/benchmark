@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-11-05T02:42:36.454033",
+    "date": "2025-11-05",
+    "response": "A imagem não mostra a data de validade. Ela contém informações nutricionais e a descrição do produto, mas a data de validade não está visível.",
+    "latency_seconds": 3.3901846408843994
+}
