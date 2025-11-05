@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000265.jpg",
+    "question_original_pt": "Qual é a data de validade?",
+    "timestamp_sent_utc": "2025-11-05T09:24:02.922945",
+    "date": "2025-11-05",
+    "response": "Com base na imagem, a data de validade visível na parte superior da embalagem de leite Lucerne é **OCT 10** (10 de Outubro).\n\nHá alguns dígitos após o 10, mas a visibilidade é muito baixa para determinar o ano. Assumindo o formato típico de produtos perecíveis: **10 de Outubro** (seguido pelo ano, que não é claro).",
+    "latency_seconds": 1.2383310794830322
+}

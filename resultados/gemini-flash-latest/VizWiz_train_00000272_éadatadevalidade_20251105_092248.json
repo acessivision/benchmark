@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-11-05T09:22:04.173152",
+    "date": "2025-11-05",
+    "response": "Com base na imagem fornecida, **não é possível ver a data de validade**.\n\nEsta foto mostra a parte superior e frontal da embalagem do produto (Healthy Choice Mixers - Creamy Tomato Basil Penne), onde constam informações sobre calorias, vegetais, grãos integrais e o nome do produto.\n\nA data de validade (ou \"melhor consumir antes de\") geralmente está impressa:\n1.  Na **lateral** da embalagem.\n2.  No **fundo** (parte inferior) do recipiente.\n3.  Carimbada em tinta preta ou gravada a laser na **borda da tampa**.",
+    "latency_seconds": 4.331577777862549
+}

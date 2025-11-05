@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T09:22:48.121560",
+    "date": "2025-11-05",
+    "response": "Com base na embalagem da refeição congelada da marca \"Top Chef\", o sabor desse jantar é de:\n\n**Ravioli de Frango com Ricota e Espinafre.**\n\nMais detalhadamente, o prato consiste em:\n*   **Ravioli de grãos** recheado com **queijo ricota** e **espinafre**.\n*   Pedaços de **frango**.\n*   Coberto com um **molho de tomate** e **queijo**.\n\nPortanto, o sabor é uma combinação clássica italiana, com a suavidade do queijo, o sabor do espinafre, frango e a acidez do molho de tomate.",
+    "latency_seconds": 11.376153230667114
+}

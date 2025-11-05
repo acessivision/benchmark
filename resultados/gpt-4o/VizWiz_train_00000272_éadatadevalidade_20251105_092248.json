@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-11-05T09:22:04.173152",
+    "date": "2025-11-05",
+    "response": "A imagem não mostra nenhuma data de validade visível. É comum que a data de validade esteja marcada no verso ou na lateral das embalagens. Verifique nessas áreas ou no produto em si para encontrar a data de validade.",
+    "latency_seconds": 4.298401355743408
+}

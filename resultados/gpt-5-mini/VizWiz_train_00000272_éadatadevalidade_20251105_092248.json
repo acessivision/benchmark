@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-11-05T09:22:04.173152",
+    "date": "2025-11-05",
+    "response": "Não consigo ver nenhuma data de validade na foto que você enviou. Pode tirar outra foto mostrando a borda inferior/tras do pacote (ou a tampa/plástico), onde normalmente a data é impressa? Dicas para uma foto clara:\n\n- Foque em locais comuns: base do pacote, lateral, aba da tampa ou no fundo da bandeja plástica.  \n- Faça um close-up da área com letras pequenas (às vezes está perto do código de barras ou no selo).  \n- Boa iluminação e a imagem na posição correta (sem girar) ajudam a ler.\n\nMande a nova foto e eu tento ler a data pra você.",
+    "latency_seconds": 8.246284008026123
+}

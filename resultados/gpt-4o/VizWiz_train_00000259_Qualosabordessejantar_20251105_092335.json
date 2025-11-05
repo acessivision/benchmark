@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T09:22:48.121560",
+    "date": "2025-11-05",
+    "response": "Parece ser uma embalagem de um prato de ravioli recheado com ricota e espinafre, coberto com molho de tomate. É uma refeição congelada inspirada na marca \"Top Chef\".",
+    "latency_seconds": 3.277024507522583
+}

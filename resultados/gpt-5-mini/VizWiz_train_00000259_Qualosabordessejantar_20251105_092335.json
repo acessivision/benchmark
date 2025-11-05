@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T09:22:48.121560",
+    "date": "2025-11-05",
+    "response": "Parece ser um ravióli com molho de tomate (uma refeição congelada da linha \"Top Chef\"). Pelo rótulo dá pra ver “ricotta” — provavelmente recheio de ricota (talvez com frango e espinafre). Quer que eu aproxime a área do rótulo pra confirmar o sabor exato?",
+    "latency_seconds": 8.566861391067505
+}

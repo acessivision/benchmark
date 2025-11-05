@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T09:22:48.121560",
+    "date": "2025-11-05",
+    "response": "Com base na embalagem do produto \"Top Chef\" exibida na imagem, o sabor deste jantar é predominantemente italiano:\n\nTrata-se de um prato de **Ravioli de Ricota e Espinafre (ou outro recheio verde)**, servido com **Molho de Tomate (Marinara)** e provavelmente **pedaços de Frango (Chicken Tender)**, finalizado com **Queijo Parmesão ralado** e **Manjericão (Basil)**.\n\nO perfil de sabor será: **Tomate, Queijo, Frango, e notas herbais de manjericão e espinafre.**",
+    "latency_seconds": 5.474701166152954
+}
