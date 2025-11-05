@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T15:21:29.829556",
+    "date": "2025-11-05",
+    "response": "Com base na imagem da embalagem do jantar congelado \"TOP CHEF INSPIRED\", o sabor é de um prato italiano clássico:\n\nEste prato é identificado como **Ravioli de Grão Integral com Ricota e Espinafre (Spinach and Ricotta Whole Grain Ravioli)**, que inclui pedaços de **Frango (Chicken Tenderloin)**, tudo servido em um **Molho Marinara (de tomate)** rico e finalizado com queijo ralado (provavelmente Parmesão).\n\nPortanto, o sabor predominante será:\n\n1.  **Tomate e Ervas Italianas:** Dominado pelo sabor do molho Marinara (molho de tomate, manjericão, orégano).\n2.  **Queijo e Cremoso:** Devido ao recheio de ricota e espinafre dos raviolis.\n3.  **Salgado/Umami:** Proveniente do frango e do queijo salpicado por cima.\n\nEm resumo: É um sabor **rico, salgado, com notas doces e ácidas do tomate, e um toque cremoso e verde do recheio de ricota e espinafre.**",
+    "latency_seconds": 6.254670858383179
+}

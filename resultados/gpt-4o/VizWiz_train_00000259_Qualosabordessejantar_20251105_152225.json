@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T15:21:29.829556",
+    "date": "2025-11-05",
+    "response": "Parece ser um jantar congelado de ravióli de frango com espinafre e molho marinara.",
+    "latency_seconds": 2.9746129512786865
+}

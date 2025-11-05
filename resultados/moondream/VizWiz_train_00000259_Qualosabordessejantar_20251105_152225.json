@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T15:21:29.829556",
+    "date": "2025-11-05",
+    "pergunta_translated_en": "How does this dinner taste?",
+    "response_original_en": "The image does not provide enough information to answer this question. The image shows a box of Top Chef dinner with a picture of pasta in a bowl, but does not show any food or describe its taste.",
+    "response_translated_pt": "A imagem não fornece informações suficientes para responder a esta pergunta. A imagem mostra uma caixa de jantar do Top Chef com uma foto de macarrão em uma tigela, mas não mostra nenhum alimento nem descreve seu sabor.",
+    "latency_seconds": 3.508711814880371
+}

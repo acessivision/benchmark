@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000265.jpg",
+    "question_original_pt": "Qual é a data de validade?",
+    "timestamp_sent_utc": "2025-11-05T15:23:07.777081",
+    "date": "2025-11-05",
+    "response": "Com base na imagem, a data de validade claramente visível na aba superior da caixa de leite é:\n\n**OUT 10**\n\n*(Provavelmente seguido pelo ano, que está obscurecido ou cortado, mas o mês e o dia são 10 de Outubro).*",
+    "latency_seconds": 2.401703119277954
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-11-05T15:21:29.829556",
+    "date": "2025-11-05",
+    "response": "Com base na embalagem da refeição congelada, o sabor do jantar é **Ravióli de Ricota e Espinafre com Pedaços de Frango**.\n\nA descrição na caixa indica que o prato é composto por:\n\n*   **Ravióli de grãos integrais** recheado com **ricota e espinafre**.\n*   Pedaços de **frango**.\n*   Coberto com um **molho de tomate** e **queijo**.\n\nPortanto, o sabor principal é de uma massa recheada com queijo cremoso e espinafre, combinada com frango e um molho de tomate clássico.",
+    "latency_seconds": 16.60321593284607
+}

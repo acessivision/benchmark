@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "cha_groselha_e_cha_limao.jpeg",
+    "question_original_pt": "Qual desses é o chá de limão?",
+    "timestamp_sent_utc": "2025-11-05T15:22:25.990622",
+    "date": "2025-11-05",
+    "response": "Com base na imagem, o chá de limão é o da **direita**.\n\nÉ o **Chá-verde Limão e Gengibre** da marca **Taeq**.\n\nO da esquerda é Chá Mate com Groselha Negra.",
+    "latency_seconds": 17.488691568374634
+}

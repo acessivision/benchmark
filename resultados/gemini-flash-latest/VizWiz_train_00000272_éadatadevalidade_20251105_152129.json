@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-11-05T15:20:43.661459",
+    "date": "2025-11-05",
+    "response": "Não, esta imagem não mostra a data de validade (expiration date).\n\nEsta foto mostra a parte frontal da embalagem do produto, com informações de marketing (Healthy Choice Mixers), o nome do prato (Creamy Tomato Basil Penne) e informações nutricionais (280 calorias, etc.).\n\nA data de validade geralmente está impressa em um local menos visível, como na tampa, na parte inferior da embalagem ou em um código de lote ao lado ou na parte traseira.",
+    "latency_seconds": 4.831597328186035
+}
