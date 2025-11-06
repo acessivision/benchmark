@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "O nome desse item está aparecendo e qual é?",
+    "timestamp_sent_utc": "2025-11-06T17:20:01.039231",
+    "date": "2025-11-06",
+    "response": "Sim, o nome principal do item está claramente visível na imagem.\n\nO nome do item é **Biotin** (Biotina).\n\n(É um suplemento alimentar da marca GNC.)",
+    "latency_seconds": 2.557154893875122
+}

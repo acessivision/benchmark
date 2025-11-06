@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-06T17:20:49.057981",
+    "date": "2025-11-06",
+    "response": "Esta é uma transcrição da receita médica na imagem fornecida.\n\n### **Informações do Cabeçalho**\n\n*   **Hospital:** Hospital Regional Manoel de Sousa Santos (HRMSS)\n*   **Paciente:** Henrique Figueiredo (ou Siqueira, a caligrafia da segunda parte do nome está um pouco ambígua, mas parece ser Figueiredo.)\n*   **Uso:** Uso Interno\n\n---\n\n### **Prescrição Médica**\n\n**1. Dramin**\n*   **Dosagem:** 100mg\n*   **Via:** VO (Via Oral)\n*   **Instruções:** Tomar **01 comp.** (um comprimido) **de 8/8 hrs** (de 8 em 8 horas) **p/ aliviar os enjôos.**\n\n**2. Buscopan Composto**\n*   **Formulação:** Gotas\n*   **Via:** VO (Via Oral)\n*   **Instruções:** Tomar **35 gts** (35 gotas) **de 8/8 hrs em caso de dor ou febre.**",
+    "latency_seconds": 6.2935404777526855
+}

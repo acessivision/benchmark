@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-11-06T17:18:51.701400",
+    "date": "2025-11-06",
+    "response": "Com base na imagem, embora esteja um pouco desfocada, a data de validade estampada na parte superior da embalagem parece ser **JE 29**.\n\nConsiderando que \"Neilson\" é uma marca canadense (onde o francês é uma língua oficial), \"JE\" é a abreviação de \"Juin\", que significa Junho.\n\nPortanto, a data de validade mais provável é **29 de Junho**.",
+    "latency_seconds": 24.38992190361023
+}
