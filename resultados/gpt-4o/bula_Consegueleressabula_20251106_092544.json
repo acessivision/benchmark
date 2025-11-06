@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "bula.jpeg",
+    "question_original_pt": "Consegue ler essa bula?",
+    "timestamp_sent_utc": "2025-11-06T09:24:32.301118",
+    "date": "2025-11-06",
+    "response": "A imagem mostra uma bula de medicamento, mas está parcialmente visível. Pelo que dá para ver, a bula é de paracetamol. Aqui estão algumas informações visíveis:\n\n- Indicação: Uso oral, usado por adultos e pediátrico acima de 12 anos.\n- Composição: Cada comprimido contém 750 mg de paracetamol.\n- Indicações: Usado para aliviar dores leves e moderadas.\n\nPara obter informações completas, sugiro ler a bula diretamente. Se precisar de informações específicas, é sempre recomendável consultar um profissional de saúde.",
+    "latency_seconds": 4.71783447265625
+}

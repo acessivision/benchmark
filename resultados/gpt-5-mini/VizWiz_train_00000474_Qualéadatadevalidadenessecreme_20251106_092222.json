@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-11-06T09:20:59.903814",
+    "date": "2025-11-06",
+    "response": "Não consigo ler a data de validade nesta foto — a área superior está fora de foco. Pode tirar outra foto fechando no topo da caixinha onde a data costuma estar impressa (perto da tampa/aba), com boa iluminação e foco? Dicas:\n- Aproxime a câmera do local impresso (use o modo macro / toque para focar).\n- Evite reflexos/flash direto na impressão (mude o ângulo ligeiramente).\n- Tire uma foto bem reta e nítida da área da data.\n\nSe preferir, descreva os números que estiverem ali (ex.: 15/11/24 ou 2024-11-15) e eu confirmo o formato.",
+    "latency_seconds": 8.556791543960571
+}

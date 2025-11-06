@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-06T09:23:00.955940",
+    "date": "2025-11-06",
+    "response": "O médico escreveu uma receita contendo informações do hospital, dados do paciente e duas prescrições medicamentosas (uso interno).\n\nA transcrição do conteúdo legível é a seguinte:\n\n***\n\n### Cabeçalho (Informações do Hospital):\n\n*   **HOSPITAL REGIONAL MANOEL DE SOUSA SANTOS**\n*   HRMSS\n*   Av. Dr. Raimundo Santos, 546 – Centro – (89) [Número] -1192\n*   64.900-000 BOM JESUS – PI\n*   CNPJ: 06. [Número]. 564/0001 - [Número]\n\n### Prescrição:\n\n**Paciente:** Luorrique Frigueredo (ou Figueredo)\n\n**Uso Interno**\n\n**1. Droamin 100mg** – VO – tomar 01 comp. de 8/8 hrs p/ aliviar os enjôos.\n\n**2. Buscopam Composto gotas** – VO – tomar 35 gts de 8/8 hrs em caso de dor ou febre.",
+    "latency_seconds": 5.7827513217926025
+}

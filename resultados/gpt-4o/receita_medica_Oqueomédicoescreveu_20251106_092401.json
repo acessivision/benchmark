@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-06T09:23:00.955940",
+    "date": "2025-11-06",
+    "response": "O médico escreveu a seguinte prescrição:\n\n1. \"Dipirona 500mg VO - Tomar 01 comp. de 8/8 horas p/ alívio de sinfon.”\n\n2. “Paracetamol composto gotas VO - Tomar 35 gotas de 8/8 horas em caso de dor ou febre.”\n\n*Observação: sempre siga as orientações médicas e consulte um profissional de saúde para esclarecer dúvidas sobre medicação.",
+    "latency_seconds": 2.9270153045654297
+}

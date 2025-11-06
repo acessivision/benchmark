@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-11-06T09:20:59.903814",
+    "date": "2025-11-06",
+    "response": "A data de validade está carimbada no topo da embalagem, perto da tampa branca.\n\nNo entanto, a imagem está extremamente embaçada nesse ponto, o que torna a leitura precisa muito difícil.\n\nA sequência de números mais visível e que se assemelha a uma data parece ser **05 29**.\n\nGeralmente, isso indicaria **29 de Maio**, mas o ano não pode ser determinado com certeza devido à baixa qualidade da foto.",
+    "latency_seconds": 5.954560995101929
+}
