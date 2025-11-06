@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-06T06:30:48.948201",
+    "date": "2025-11-06",
+    "response": "A caligrafia desta receita é bastante legível.\n\nAqui está a transcrição do que o médico escreveu:\n\n---\n\n**[Cabeçalho do Hospital]**\nHOSPITAL REGIONAL MANOEL DE SOUSA SANTOS\nAv. Dr. Raimundo Santos, 546 – Centro ...\n\n**Paciente:** Luannique Figueiredo\n\n**Uso Interno**\n\n**(1) Dramin 100mg** – VO – tomar 01 comp. de 8/8 hrs p/ aliviar os enjôos.\n\n**(2) Buscopam composto gotas** – VO – tomar 35 gts de 8/8 hrs em caso de dor ou febre.\n\n---\n\n### Resumo das Prescrições\n\n1.  **Medicamento:** **Dramin** (Dimenidrinato)\n    *   **Dosagem:** 100mg (embora o \"1\" possa ser lido como um \"3\", 100mg é uma dose comum para enjoo)\n    *   **Via:** VO (Via Oral)\n    *   **Posologia:** Tomar **1 comprimido** a cada **8 horas** (de 8/8 hrs)\n    *   **Indicação:** Para aliviar os enjôos.\n\n2.  **Medicamento:** **Buscopam Composto** (Hioscina + Dipirona) – **Gotas**\n    *   **Via:** VO (Via Oral)\n    *   **Posologia:** Tomar **35 gotas** a cada **8 horas** (de 8/8 hrs)\n    *   **Indicação:** Em caso de **dor ou febre**.",
+    "latency_seconds": 6.28727912902832
+}

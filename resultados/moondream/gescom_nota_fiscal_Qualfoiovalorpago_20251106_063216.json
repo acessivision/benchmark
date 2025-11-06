@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "gescom_nota_fiscal.jpg",
+    "question_original_pt": "Qual foi o valor pago?",
+    "timestamp_sent_utc": "2025-11-06T06:31:44.747732",
+    "date": "2025-11-06",
+    "pergunta_translated_en": "What was the amount paid?",
+    "response_original_en": "24.95",
+    "response_translated_pt": "24,95",
+    "latency_seconds": 1.4890334606170654
+}

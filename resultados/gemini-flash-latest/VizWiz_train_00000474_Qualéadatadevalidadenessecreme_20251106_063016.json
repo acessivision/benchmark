@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-11-06T06:29:30.809295",
+    "date": "2025-11-06",
+    "response": "A imagem está extremamente embaçada (com desfoque de movimento), especialmente na área onde a data de validade é impressa (no topo da caixa, perto da tampa).\n\nAo analisar os números impressos no topo da embalagem (o que é visível nos recortes), a leitura é impossível de confirmar com precisão.\n\nNo entanto, o padrão de números mais legível parece ser: **05 13** seguido de dígitos de ano ilegíveis.\n\n**Não é possível determinar a data de validade completa e precisa** deste creme Neilson devido à qualidade da foto.",
+    "latency_seconds": 5.670670747756958
+}
