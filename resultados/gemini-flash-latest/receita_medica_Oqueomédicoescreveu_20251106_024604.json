@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-06T02:44:49.921268",
+    "date": "2025-11-06",
+    "response": "O que o médico escreveu é uma receita médica contendo a identificação do hospital, os dados do paciente e as instruções de uso de dois medicamentos.\n\nA caligrafia é bastante legível (diferentemente de muitos casos de letra de médico) e o conteúdo é o seguinte:\n\n---\n\n### Cabeçalho\n\n*   **HOSPITAL REGIONAL MANOEL DE SOUSA SANTOS**\n*   **HRMSS**\n*   Av. Dr. Raimundo Santos, 546 – Centro – (89) [Número oculto] – 1192\n*   64.900-000 BOM JESUS – PI\n*   CNPJ: 06. [Número oculto] .564/0001- [Número oculto]\n\n### Receita\n\n**Paciente:** Luverrique Figueredo (ou Figueredo)\n\n**Uso Interno**\n\n**1. Dramin 100mg – VO – tomar 01 comp. de 8/8 hrs p/ aliviar os enjoos.**\n*   *(Instrução: Tomar 1 comprimido de Dramin 100mg pela boca, a cada 8 horas, para aliviar os enjoos.)*\n\n**2. Buscopam composto gotas – VO – tomar 35 gts de 8/8 hrs em caso de dor ou febre.**\n*   *(Instrução: Tomar 35 gotas de Buscopan Composto pela boca, a cada 8 horas, se houver dor ou febre.)*\n\n---\n*(Observação: A dosagem de 100mg de Dramin é alta para um comprimido padrão de Dramin B6 (que geralmente tem 50mg), mas a prescrição está claramente marcada como \"100mg\").)*",
+    "latency_seconds": 5.597762823104858
+}

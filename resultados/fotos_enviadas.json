@@ -113,5 +113,12 @@
         "data/imagens/VizWiz_train_00000259.jpg",
         "data/imagens/cha_groselha_e_cha_limao.jpeg",
         "data/imagens/VizWiz_train_00000265.jpg"
+    ],
+    "2025-11-06": [
+        "data/imagens/VizWiz_train_00000474.jpg",
+        "data/imagens/VizWiz_train_00000296.jpg",
+        "data/imagens/receita_medica.jpg",
+        "data/imagens/gescom_nota_fiscal.jpg",
+        "data/imagens/bula.jpeg"
     ]
 }
