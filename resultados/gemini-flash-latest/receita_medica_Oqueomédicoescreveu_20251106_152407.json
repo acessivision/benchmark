@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-06T15:23:02.050458",
+    "date": "2025-11-06",
+    "response": "Esta é a transcrição do que está escrito na receita médica, incluindo o cabeçalho e as instruções de medicação:\n\n---\n\n### Cabeçalho\n\n**HOSPITAL REGIONAL MANOEL DE SOUSA SANTOS**\nHRMSS\nAv. Dr. Raimundo Santos, 546 - Centro\nCNPJ: 06.xxx.564/0001-xx\n\n---\n\n### Conteúdo da Receita\n\n**Paciente:** Henrique Figueiredo\n\n**Uso Interno**\n\n1.  **Dramin 100mg - VO - tomar 01 comp.** (comprimido) **de 8/8 hrs p/ aliviar os enjoos.**\n    *(Instrução: Tomar um comprimido de Dramin 100mg por via oral a cada 8 horas para aliviar os enjoos.)*\n\n2.  **Buscopam composto gotas - VO - tomar 35 gts** (gotas) **de 8/8 hrs em caso de dor ou febre.**\n    *(Instrução: Tomar 35 gotas de Buscopam Composto por via oral a cada 8 horas, se houver dor ou febre.)*\n\n---\n\n**Observação:** A dose de Dramin parece ser **100mg**. A medicação Dramin (Dimenidrinato) é comumente utilizada para náuseas e vômitos. O Buscopam Composto é usado como antiespasmódico e analgésico/antipirético (devido à presença de dipirona).",
+    "latency_seconds": 6.6311194896698
+}

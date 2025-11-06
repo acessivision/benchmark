@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "O nome desse item está aparecendo e qual é?",
+    "timestamp_sent_utc": "2025-11-06T15:22:33.110166",
+    "date": "2025-11-06",
+    "response": "Erro ao chamar a API: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.",
+    "latency_seconds": 4.484164714813232
+}

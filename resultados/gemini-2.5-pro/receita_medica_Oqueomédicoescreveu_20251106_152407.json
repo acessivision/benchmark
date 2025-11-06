@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-06T15:23:02.050458",
+    "date": "2025-11-06",
+    "response": "Olá! Com base na imagem, aqui está a transcrição da receita médica:\n\n---\n\n**HOSPITAL REGIONAL MANOEL DE SOUSA SANTOS**\n**Paciente:** Luzirique Figueiredo\n\n**Uso Interno**\n\n**1) Dramin 100mg - VO - tomar 01 comp. de 8/8 hrs p/ aliviar os enjoos.**\n*   **Em outras palavras:** Tomar 1 (um) comprimido de Dramin 100mg por via oral (pela boca) a cada 8 horas para aliviar os enjoos.\n\n**2) Buscopan composto gotas - VO - tomar 35 gts de 8/8 hrs em caso de dor ou febre.**\n*   **Em outras palavras:** Tomar 35 gotas de Buscopan Composto por via oral (pela boca) a cada 8 horas, se houver dor ou febre.\n\n---\n\n**Importante:** Esta é uma transcrição baseada na caligrafia da receita. **Sempre confirme as informações com um farmacêutico ou com o seu médico** para garantir a dosagem e o medicamento corretos.",
+    "latency_seconds": 29.79401969909668
+}
