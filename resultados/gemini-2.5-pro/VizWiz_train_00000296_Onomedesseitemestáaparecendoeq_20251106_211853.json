@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "O nome desse item está aparecendo e qual é?",
+    "timestamp_sent_utc": "2025-11-06T21:18:16.482675",
+    "date": "2025-11-06",
+    "response": "Sim, o nome do item está aparecendo claramente na imagem.\n\nO item é **Biotin** (Biotina) da marca **GNC**.\n\nTrata-se de um suplemento alimentar (Dietary Supplement). A biotina, também conhecida como vitamina B7, é comumente usada para ajudar na saúde do cabelo, pele e unhas.",
+    "latency_seconds": 10.453399181365967
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-06T21:18:53.221512",
+    "date": "2025-11-06",
+    "response": "Com certeza! A caligrafia é um pouco difícil, como é comum em receitas médicas, mas é possível decifrar.\n\n**É fundamental que você confirme esta transcrição com um farmacêutico ou com seu médico. A interpretação de uma receita por uma inteligência artificial não substitui a avaliação de um profissional de saúde.**\n\nAqui está a transcrição do que o médico escreveu:\n\n---\n\n**Paciente:** Luenrique Figueiredo (o nome pode não estar 100% correto devido à caligrafia)\n\n**Uso Interno**\n\n**1) Dramin 100mg - VO - tomar 01 comp. de 8/8 hrs p/ aliviar os enjoos.**\n\n*   **Explicação:** Tomar 1 (um) comprimido de Dramin 100mg por via oral (pela boca) a cada 8 horas para aliviar os enjoos.\n\n**2) Buscopam composto gotas - VO - tomar 35 gts de 8/8 hrs em caso de dor ou febre.**\n\n*   **Explicação:** Tomar 35 (trinta e cinco) gotas de Buscopam Composto por via oral (pela boca) a cada 8 horas, se tiver dor ou febre.\n\n---\n\n**Resumo e glossário dos termos:**\n\n*   **VO:** Significa \"Via Oral\", ou seja, o medicamento deve ser ingerido pela boca.\n*   **Comp:** Abreviação de \"comprimido\".\n*   **gts:** Abreviação de \"gotas\".\n*   **de 8/8 hrs:** Significa \"de 8 em 8 horas\".\n*   **p/:** Abreviação de \"para\".\n\nLembre-se: **Nunca se automedique e sempre siga as orientações de um profissional de saúde qualificado.** Leve esta receita a uma farmácia para que o farmacêutico possa confirmar a leitura e fornecer os medicamentos corretos.",
+    "latency_seconds": 19.848050355911255
+}
