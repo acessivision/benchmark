@@ -135,7 +135,7 @@
   {
     "arquivo_imagem": "VizWiz_train_00000033.jpg",
     "pergunta": [
-      "Isso é uma garrafe de medicação e eu só gostaria de saber se tem uma etiqueta e informações de dosagem visíveis. Obrigado."
+      "Isso é uma garrafa de medicação e eu só gostaria de saber se tem uma etiqueta e informações de dosagem visíveis. Obrigado."
     ]
   },
   {
@@ -301,6 +301,12 @@
     ]
   },
   {
+    "arquivo_imagem": "VizWiz_train_00000628.jpg",
+    "pergunta": [
+      "Que número de página está visível? Obrigado."
+    ]
+  },
+  {
     "arquivo_imagem": "VizWiz_train_00000634.jpg",
     "pergunta": [
       "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?"
@@ -334,6 +340,12 @@
     "arquivo_imagem": "VizWiz_train_00001097.jpg",
     "pergunta": [
       "De que cor são esses jeans?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "pergunta": [
+      "O que é isso?"
     ]
   },
   {
@@ -436,6 +448,12 @@
     "arquivo_imagem": "bula.jpeg",
     "pergunta": [
       "Consegue ler essa bula?"
+    ]
+  },
+  {
+    "arquivo_imagem": "calendario.jpeg",
+    "pergunta": [
+      "Quais os feriados desse mês"
     ]
   }
 ]
