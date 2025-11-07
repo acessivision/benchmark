@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "sulfadiazina_de_prata.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-07T09:20:54.030128",
+    "date": "2025-11-07",
+    "response": "O remédio na imagem é a **Sulfadiazina de Prata** (10 mg/g).\n\nTrata-se de um **creme dermatológico** genérico, de uso tópico, geralmente utilizado para prevenir e tratar infecções em queimaduras graves.\n\nA embalagem indica que ele:\n*   É um **Medicamento Genérico**.\n*   É para **Uso Adulto e Pediátrico** (acima de 2 meses).\n*   Sua venda exige **prescrição médica com retenção da receita** (tarja vermelha).",
+    "latency_seconds": 3.825778007507324
+}

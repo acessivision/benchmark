@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "tabela_climatica.png",
+    "question_original_pt": "Qual a previsão do tempo para quinta-feira?",
+    "timestamp_sent_utc": "2025-11-07T09:21:49.997134",
+    "date": "2025-11-07",
+    "response": "Com base na tabela de previsão do tempo fornecida:\n\nA previsão do tempo para **quinta-feira** é:\n\n*   **Tempo:** Parcialmente Nublado com Vento/Brisa (Ícone de sol/nuvem com linhas de vento).\n*   **Mínima:** 27°\n*   **Máxima:** 32°",
+    "latency_seconds": 3.83888840675354
+}
