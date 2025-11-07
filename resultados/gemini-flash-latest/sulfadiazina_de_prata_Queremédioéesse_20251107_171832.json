@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "sulfadiazina_de_prata.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-07T17:17:47.896361",
+    "date": "2025-11-07",
+    "response": "O remédio na imagem é a **Sulfadiazina de Prata** (Sulfadiazina de prata).\n\nÉ um **Medicamento Genérico** (identificado pelo grande 'G' na embalagem) na concentração de **10 mg/g**, na forma de **Creme Dermatológico** para **Uso Tópico**.\n\n**Informações importantes na embalagem:**\n\n*   **Substância Ativa:** Sulfadiazina de prata (sulfadiazina de prata)\n*   **Concentração:** 10 mg/g\n*   **Forma Farmacêutica:** Creme Dermatológico\n*   **Uso:** Adulto e Pediátrico (acima de 2 meses)\n*   **Venda:** Venda sob prescrição médica, só pode ser vendido com retenção da receita.",
+    "latency_seconds": 1.7254340648651123
+}

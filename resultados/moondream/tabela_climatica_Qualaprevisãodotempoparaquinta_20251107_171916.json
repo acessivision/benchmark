@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "tabela_climatica.png",
+    "question_original_pt": "Qual a previsão do tempo para quinta-feira?",
+    "timestamp_sent_utc": "2025-11-07T17:18:32.247902",
+    "date": "2025-11-07",
+    "pergunta_translated_en": "What is the weather forecast for Thursday?",
+    "response_original_en": "The weather forecast for Thursday is cloudy.",
+    "response_translated_pt": "A previsão do tempo para quinta-feira é de céu nublado.",
+    "latency_seconds": 2.0592219829559326
+}

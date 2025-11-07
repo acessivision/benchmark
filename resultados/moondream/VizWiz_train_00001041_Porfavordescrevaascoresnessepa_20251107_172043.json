@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001041.jpg",
+    "question_original_pt": "Por favor descreva as cores nesse par de meias",
+    "timestamp_sent_utc": "2025-11-07T17:19:50.276284",
+    "date": "2025-11-07",
+    "pergunta_translated_en": "Please describe the colors on this pair of socks",
+    "response_original_en": "The image shows a black sock with a pattern of colorful squares: red, blue, green, yellow, and orange. The sock is being held by a person's hand near their wrist.",
+    "response_translated_pt": "A imagem mostra uma meia preta com um padrão de quadrados coloridos: vermelho, azul, verde, amarelo e laranja. A meia está sendo segurada pela mão de uma pessoa perto do pulso.",
+    "latency_seconds": 2.6471121311187744
+}
