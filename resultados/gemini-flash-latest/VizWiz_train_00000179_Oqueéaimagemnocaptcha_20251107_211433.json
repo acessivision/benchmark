@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000179.jpg",
+    "question_original_pt": "O que é a imagem no captcha?",
+    "timestamp_sent_utc": "2025-11-07T21:13:54.892761",
+    "date": "2025-11-07",
+    "response": "O código (ou a imagem) no CAPTCHA é:\n\n**R F 7 L**\n\n(É um código que parece ser composto por quatro caracteres: a letra R, a letra F, o número 7, e a letra L. Há linhas e ruídos cruzados para dificultar a leitura por robôs.)",
+    "latency_seconds": 1.3531749248504639
+}

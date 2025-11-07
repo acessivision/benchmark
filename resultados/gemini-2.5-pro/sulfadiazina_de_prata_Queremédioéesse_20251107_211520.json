@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "sulfadiazina_de_prata.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-07T21:14:34.000104",
+    "date": "2025-11-07",
+    "response": "Com base na imagem, o remédio é **Sulfadiazina de prata**.\n\nAqui estão os detalhes que aparecem na embalagem:\n\n*   **Nome do Medicamento:** Sulfadiazina de prata\n*   **Tipo:** Medicamento Genérico (indicado pelo \"G\" na caixa)\n*   **Apresentação:** Creme Dermatológico (pomada)\n*   **Concentração:** 10 mg/g\n*   **Uso:** Tópico (para ser aplicado na pele)\n*   **Indicação:** Uso adulto e pediátrico, para crianças acima de 2 meses.\n\n**Para que serve?**\nA sulfadiazina de prata é um creme com ação antibacteriana, geralmente utilizado para prevenir e tratar infecções em feridas, especialmente em **queimaduras**.\n\n**Atenção:** A caixa informa claramente: **\"VENDA SOB PRESCRIÇÃO MÉDICA - SÓ PODE SER VENDIDO COM RETENÇÃO DA RECEITA\"**. Isso significa que este medicamento só deve ser usado com a indicação e acompanhamento de um médico.",
+    "latency_seconds": 14.493794918060303
+}
