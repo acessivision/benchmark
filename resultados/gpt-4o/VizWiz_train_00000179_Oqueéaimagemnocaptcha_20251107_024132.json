@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000179.jpg",
+    "question_original_pt": "O que é a imagem no captcha?",
+    "timestamp_sent_utc": "2025-11-07T02:40:50.326921",
+    "date": "2025-11-07",
+    "response": "A imagem no CAPTCHA mostra um código que parece ser \"R4ZL\". Ele está distorcido e sobre um fundo com ruído para dificultar o reconhecimento automatizado, ajudando a diferenciar humanos de bots ao submeter um formulário.",
+    "latency_seconds": 4.46781849861145
+}

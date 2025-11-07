@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "gescom_nota_fiscal.jpg",
+    "question_original_pt": "Qual foi o valor pago?",
+    "timestamp_sent_utc": "2025-11-07T02:42:51.331723",
+    "date": "2025-11-07",
+    "response": "De acordo com o recibo, o valor pago foi de **R$ 24,00**.\n\nAqui estão os detalhes da transação:\n*   **Valor Total:** R$ 23,85\n*   **Valor Pago:** R$ 24,00\n*   **Troco:** R$ 0,15",
+    "latency_seconds": 8.674910545349121
+}

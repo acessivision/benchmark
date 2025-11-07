@@ -120,5 +120,12 @@
         "data/imagens/receita_medica.jpg",
         "data/imagens/gescom_nota_fiscal.jpg",
         "data/imagens/bula.jpeg"
+    ],
+    "2025-11-07": [
+        "data/imagens/VizWiz_train_00000179.jpg",
+        "data/imagens/sulfadiazina_de_prata.jpeg",
+        "data/imagens/tabela_climatica.png",
+        "data/imagens/gescom_nota_fiscal.jpg",
+        "data/imagens/VizWiz_train_00001041.jpg"
     ]
 }

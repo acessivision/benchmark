@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "gescom_nota_fiscal.jpg",
+    "question_original_pt": "Qual foi o valor pago?",
+    "timestamp_sent_utc": "2025-11-07T02:42:51.331723",
+    "date": "2025-11-07",
+    "response": "Não consigo identificar o valor pago no recibo a partir da imagem fornecida. Você pode tentar olhar a parte inferior do recibo, onde geralmente está o valor total.",
+    "latency_seconds": 1.6259396076202393
+}
