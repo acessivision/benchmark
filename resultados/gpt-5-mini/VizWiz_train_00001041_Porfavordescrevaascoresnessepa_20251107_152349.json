@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001041.jpg",
+    "question_original_pt": "Por favor descreva as cores nesse par de meias",
+    "timestamp_sent_utc": "2025-11-07T15:22:39.716432",
+    "date": "2025-11-07",
+    "response": "A meia tem fundo preto e um padrão de pequenos quadradinhos/discretos retângulos coloridos alinhados em colunas. As cores visíveis incluem:\n- azul claro / ciano\n- turquesa / verde-azulado\n- verde claro / limão\n- amarelo\n- laranja\n- vermelho / vinho\n\nTambém dá para ver a mão segurando a meia com tom de pele claro ao lado.",
+    "latency_seconds": 22.012131452560425
+}

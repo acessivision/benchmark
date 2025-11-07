@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000179.jpg",
+    "question_original_pt": "O que é a imagem no captcha?",
+    "timestamp_sent_utc": "2025-11-07T15:19:45.390483",
+    "date": "2025-11-07",
+    "response": "A imagem no CAPTCHA exibe uma sequência de quatro caracteres alfanuméricos que estão distorcidos e sobrepostos por linhas coloridas (vermelha e azul) e um fundo pontilhado (ruído).\n\nOs caracteres que devem ser inseridos são:\n\n# **R F 7 L**",
+    "latency_seconds": 3.8627278804779053
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000179.jpg",
+    "question_original_pt": "O que é a imagem no captcha?",
+    "timestamp_sent_utc": "2025-11-07T15:19:45.390483",
+    "date": "2025-11-07",
+    "response": "Parece ser um CAPTCHA com letras/níumeros. Minha leitura provável é \"RA7L\" (pode também ser lido como \"RF7L\" devido às distorções). Tente inserir RA7L — se não funcionar, experimente RF7L.",
+    "latency_seconds": 16.77401041984558
+}

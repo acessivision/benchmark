@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001041.jpg",
+    "question_original_pt": "Por favor descreva as cores nesse par de meias",
+    "timestamp_sent_utc": "2025-11-07T15:22:39.716432",
+    "date": "2025-11-07",
+    "response": "Com base na imagem, as meias têm um design de alto contraste e são bastante coloridas.\n\nA descrição das cores é a seguinte:\n\n**Cor Principal (Fundo):**\n*   **Preto Intenso:** O fundo da meia é de uma cor preta sólida e escura, que serve como base para o padrão.\n\n**Padrão (Cores dos \"Pixels\"):**\nO padrão consiste em pequenos quadrados ou \"pixels\" coloridos dispostos aleatoriamente ou em um formato de grade esparsa sobre o fundo preto. As cores desses quadrados são variadas e vibrantes, incluindo:\n\n1.  **Azul:** Diversos tons de azul, desde um **azul-claro/ciano** brilhante até um **azul-petróleo** mais escuro.\n2.  **Amarelo:** Um **amarelo canário** ou **amarelo limão** bastante vivo.\n3.  **Laranja:** Quadrados em um **laranja forte e vibrante**.\n4.  **Vermelho:** Tons de **vermelho escuro** ou **bordô/vinho**.\n5.  **Verde:** Um **verde brilhante** ou **verde limão**.\n\nEm resumo, as meias são pretas com um padrão \"pixelado\" multicolorido (azul, amarelo, laranja, vermelho e verde), o que confere a elas um visual moderno e divertido.",
+    "latency_seconds": 6.911315202713013
+}

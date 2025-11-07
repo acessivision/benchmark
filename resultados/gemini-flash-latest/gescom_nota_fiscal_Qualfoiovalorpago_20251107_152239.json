@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "gescom_nota_fiscal.jpg",
+    "question_original_pt": "Qual foi o valor pago?",
+    "timestamp_sent_utc": "2025-11-07T15:22:07.963301",
+    "date": "2025-11-07",
+    "response": "Com base na nota fiscal (NFC-e), os valores são:\n\n* **Valor Total (da compra):** R$ 23,85\n* **Valor Pago (pelo cliente):** R$ 24,00\n* **Troco:** R$ 0,15",
+    "latency_seconds": 1.4860739707946777
+}

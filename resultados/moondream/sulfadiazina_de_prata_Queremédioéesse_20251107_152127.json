@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "sulfadiazina_de_prata.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-07T15:20:54.368978",
+    "date": "2025-11-07",
+    "pergunta_translated_en": "What medicine is this?",
+    "response_original_en": "This medicine is sulfadiazine de prata.",
+    "response_translated_pt": "Este medicamento é a sulfadiazina de prata.",
+    "latency_seconds": 1.9290111064910889
+}
