@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
+    "timestamp_sent_utc": "2025-11-08T09:18:51.697347",
+    "date": "2025-11-08",
+    "response": "Com base na imagem, a data de venda recomendada (indicada pela etiqueta \"SELL BY\") é:\n\n**04/09** (9 de abril)\n\nO código completo é: `13:30 04/09 PTI F3 0N` (onde 13:30 é o horário de embalagem).",
+    "latency_seconds": 3.3897740840911865
+}
