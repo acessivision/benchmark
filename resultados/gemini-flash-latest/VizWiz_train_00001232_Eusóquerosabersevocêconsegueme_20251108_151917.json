@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
+    "timestamp_sent_utc": "2025-11-08T15:18:34.591166",
+    "date": "2025-11-08",
+    "response": "Sim, eu consigo te dizer a data que aparece na caixa.\n\nA data de venda (indicada por **SELL BY**) impressa na parte superior da caixa de leite é **04/09**.\n\nSe for no formato Mês/Dia (comum nos EUA, onde a marca Lucerne é popular), isso significa **9 de abril**.\n\n(Há também um horário impresso: **13:30**).",
+    "latency_seconds": 4.952300071716309
+}
