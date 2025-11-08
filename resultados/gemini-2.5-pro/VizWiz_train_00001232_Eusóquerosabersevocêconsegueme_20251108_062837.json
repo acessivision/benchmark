@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
+    "timestamp_sent_utc": "2025-11-08T06:27:40.934253",
+    "date": "2025-11-08",
+    "response": "Olá! Sim, consigo ver a data na caixa de leite.\n\nA data impressa acima de \"SELL BY\" (Vender até) é **09 de Junho**.\n\nA estampa mostra \"06/09\", que no formato de data americano (mês/dia) significa 9 de junho.\n\nÉ importante notar que \"Sell By\" é a data limite para a loja vender o produto, não necessariamente a data de validade final. O leite geralmente continua bom por mais alguns dias após essa data, se for armazenado corretamente na geladeira.",
+    "latency_seconds": 16.334245204925537
+}

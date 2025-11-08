@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-08T06:28:37.838533",
+    "date": "2025-11-08",
+    "pergunta_translated_en": "What medicine is this?",
+    "response_original_en": "This is an essential oil (EO) product from the Ministry of Health, issued by the Inspection No. 3733, manufactured by INSPECION S.A.F. in 2017. The label indicates it is for aromatherapy and contains 100% natural ingredients. The bottle is held in a person's hand, displaying its dark amber color and dropper top.",
+    "response_translated_pt": "Trata-se de um produto óleo essencial (OE) do Ministério da Saúde, emitido pela Inspeção nº 3733, fabricado pela INSPECION S.A.F. em 2017. O rótulo indica que é para aromaterapia e contém ingredientes 100% naturais. O frasco é segurado na mão de uma pessoa, exibindo sua cor âmbar escuro e conta-gotas.",
+    "latency_seconds": 3.244591236114502
+}

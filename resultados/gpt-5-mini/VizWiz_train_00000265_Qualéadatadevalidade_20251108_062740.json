@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000265.jpg",
+    "question_original_pt": "Qual é a data de validade?",
+    "timestamp_sent_utc": "2025-11-08T06:27:06.356746",
+    "date": "2025-11-08",
+    "response": "Parece indicar \"OCT 18\" — ou seja, 18 de outubro — mas a impressão está desfocada e não dá pra ver o ano. Pode enviar uma foto mais nítida do selo de validade (próxima, com boa iluminação e foco)?",
+    "latency_seconds": 7.835004091262817
+}
