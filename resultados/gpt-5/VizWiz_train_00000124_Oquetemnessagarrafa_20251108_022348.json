@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000124.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-11-08T02:23:20.182925",
+    "date": "2025-11-08",
+    "response": "Parece ser um produto Pantene Pro‑V da linha Classic para todos os tipos de cabelo — provavelmente shampoo (pode também ser condicionador, já que a embalagem é parecida).",
+    "latency_seconds": 6.742827415466309
+}

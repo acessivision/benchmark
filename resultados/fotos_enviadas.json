@@ -127,5 +127,12 @@
         "data/imagens/tabela_climatica.png",
         "data/imagens/gescom_nota_fiscal.jpg",
         "data/imagens/VizWiz_train_00001041.jpg"
+    ],
+    "2025-11-08": [
+        "data/imagens/VizWiz_test_00000241.jpg",
+        "data/imagens/VizWiz_train_00000124.jpg",
+        "data/imagens/VizWiz_train_00000265.jpg",
+        "data/imagens/VizWiz_train_00001232.jpg",
+        "data/imagens/propolis_imagem_cortada.jpeg"
     ]
 }

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
+    "timestamp_sent_utc": "2025-11-08T02:24:30.457507",
+    "date": "2025-11-08",
+    "response": "Claro! A data de validade (\"Sell By\") impressa na caixa de leite é **04/09**, o que provavelmente significa **9 de Abril**.",
+    "latency_seconds": 8.735570669174194
+}

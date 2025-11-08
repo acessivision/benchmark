@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-08T02:25:08.627312",
+    "date": "2025-11-08",
+    "pergunta_translated_en": "What medicine is this?",
+    "response_original_en": "This is an essential oil product, likely CBD-based, given the label’s mention of “CBD” and the overall context. The bottle is held in a person’s hand, suggesting it’s being displayed or examined. The label includes “Ministerio da Agricultura Brasileira” and “S.F.B.”, indicating it’s a Brazilian agricultural ministry product. The dropper top suggests it’s intended for precise dosing. The background includes what appears to be kitchen countertops and patterned textiles, implying it’s being used in a home or personal care setting.",
+    "response_translated_pt": "Este é um produto de óleo essencial, provavelmente baseado em CBD, dada a menção de “CBD” no rótulo e o contexto geral. A garrafa está na mão de uma pessoa, sugerindo que está sendo exposta ou examinada. O rótulo inclui “Ministério da Agricultura Brasileira” e “S.F.B.”, indicando que é um produto do Ministério da Agricultura brasileiro. A parte superior do conta-gotas sugere que se destina a uma dosagem precisa. O fundo inclui o que parecem ser bancadas de cozinha e tecidos estampados, o que implica que está sendo usado em casa ou em ambientes de cuidados pessoais.",
+    "latency_seconds": 3.615112543106079
+}

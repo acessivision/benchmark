@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
+    "timestamp_sent_utc": "2025-11-08T02:24:30.457507",
+    "date": "2025-11-08",
+    "response": "Com certeza! A data de validade (ou, mais precisamente, a data limite para venda, que é o que está escrito) está impressa no topo da caixa.\n\nA data que aparece é **04/09**.\n\nA frase \"SELL BY\" significa \"Vender até\" e, no contexto norte-americano (onde a marca Lucerne é comum), o formato costuma ser Mês/Dia.\n\nPortanto, a data limite de venda é **9 de abril**.\n\n*(Os outros números, como 13:30, referem-se à hora de embalagem e códigos de fábrica).*",
+    "latency_seconds": 3.934556245803833
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000124.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-11-08T02:23:20.182925",
+    "date": "2025-11-08",
+    "response": "Esta é uma garrafa de shampoo Pantene Pro-V para todos os tipos de cabelo, da linha \"Classic\".",
+    "latency_seconds": 2.1993484497070312
+}
