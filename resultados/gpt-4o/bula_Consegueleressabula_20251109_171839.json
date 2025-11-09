@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "bula.jpeg",
+    "question_original_pt": "Consegue ler essa bula?",
+    "timestamp_sent_utc": "2025-11-09T17:17:28.753432",
+    "date": "2025-11-09",
+    "response": "Sim, consigo ler. Esta é uma bula de paracetamol. Aqui estão algumas informações principais que posso extrair:\n\n- **Composição**: Cada comprimido contém paracetamol 750 mg.\n- **Indicação**: É utilizado para tratar a febre e alívio de dores leves a moderadas.\n- **Uso**: Oral, para adultos e pediátrico acima de 12 anos.\n\nCaso precise de informações específicas, posso tentar ajudar com mais detalhes!",
+    "latency_seconds": 4.271928787231445
+}

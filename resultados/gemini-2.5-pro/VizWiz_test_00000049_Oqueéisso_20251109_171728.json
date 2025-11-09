@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-09T17:16:33.711053",
+    "date": "2025-11-09",
+    "response": "Com base na imagem, isso é um **bilhete de transporte público**.\n\nMais especificamente, é um bilhete do **BART (Bay Area Rapid Transit)**, o sistema de trânsito rápido que atende a Baía de São Francisco (San Francisco Bay Area), na Califórnia, EUA.\n\nEste tipo de bilhete de papel era usado para entrar e sair das estações do BART antes de serem amplamente substituídos pelos cartões plásticos recarregáveis (Clipper Card). O bilhete contém instruções de uso e um espaço para escrever o nome e o endereço, para que pudesse ser devolvido pelo correio caso fosse perdido e encontrado.",
+    "latency_seconds": 22.443790674209595
+}

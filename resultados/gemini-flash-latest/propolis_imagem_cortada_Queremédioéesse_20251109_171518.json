@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-09T17:14:34.295410",
+    "date": "2025-11-09",
+    "response": "Com base na imagem e no texto visível no rótulo, o produto na garrafa é um:\n\n## Extrato de Própolis (Propolis Extract)\n\n**Detalhes que confirmam:**\n\n1.  **Nome do Produto:** No lado esquerdo do rótulo, é possível ler claramente \"...TRATO DE PRÓPOLIS\".\n2.  **Fabricante/Marca:** O logotipo na parte inferior esquerda inclui o nome **FLORA** e a palavra **APIS** (o que sugere a marca Apis Flora, uma grande produtora de produtos apícolas no Brasil).\n3.  **Regulamentação:** O selo circular indica: **\"MINISTÉRIO DA AGRICULTURA BRASIL INSPECIONADO S.I.F. 3733\"**.\n\n***\n\n### O que é o Extrato de Própolis?\n\nA própolis é uma substância resinosa coletada pelas abelhas de brotos e seiva de árvores. Ela é usada na colmeia para vedar e proteger contra bactérias e fungos.\n\nO extrato é feito dissolvendo a própolis em um veículo (geralmente álcool ou água, dependendo do tipo) para consumo humano.\n\nEmbora seja amplamente usado popularmente como um **remédio natural** (ou suplemento) para:\n\n*   Alívio de dores de garganta.\n*   Fortalecimento do sistema imunológico.\n*   Ação antibacteriana, antiviral e antifúngica.\n\n**Nota Importante:** No Brasil, produtos apícolas como a própolis são regulamentados pelo Ministério da Agricultura (MAPA) e inspecionados pelo S.I.F. (Serviço de Inspeção Federal) como **alimentos** ou **suplementos**, e não como medicamentos farmacêuticos (que seriam regulamentados pela ANVISA).",
+    "latency_seconds": 5.476696252822876
+}

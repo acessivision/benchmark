@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001198.jpg",
+    "question_original_pt": "Tem uma TV em cima dessa cômoda?",
+    "timestamp_sent_utc": "2025-11-09T17:15:18.351103",
+    "date": "2025-11-09",
+    "response": "Sim — há uma TV pequena em cima da cômoda (na parte central-esquerda da imagem). Quer que eu descreva mais alguma coisa?",
+    "latency_seconds": 6.102360486984253
+}
