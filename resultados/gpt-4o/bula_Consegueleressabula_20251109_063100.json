@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "bula.jpeg",
+    "question_original_pt": "Consegue ler essa bula?",
+    "timestamp_sent_utc": "2025-11-09T06:29:51.533861",
+    "date": "2025-11-09",
+    "response": "Parece que é a bula de um medicamento chamado Paracetamol. A foto não está completamente clara, então não consigo ler todos os detalhes, mas geralmente, bulas de medicamentos contêm informações como:\n\n1. Para que serve o medicamento.\n2. Composição e fórmula.\n3. Modo de uso e dosagem.\n4. Informações sobre contraindicações e possíveis efeitos colaterais.\n5. Instruções de armazenamento.\n\nSe precisar de informações específicas, é importante consultar um profissional de saúde ou ler a bula diretamente.",
+    "latency_seconds": 4.360660552978516
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-09T06:29:04.684631",
+    "date": "2025-11-09",
+    "response": "A imagem mostra o verso (lado com as instruções) de um **bilhete ou cartão de tarifa** de transporte público.\n\nEspecificamente, trata-se de um bilhete do **BART** (Bay Area Rapid Transit), o sistema de metrô e trânsito rápido que serve a Área da Baía de São Francisco, na Califórnia, Estados Unidos.\n\nO texto em inglês fornece as regras de uso e informações de contato:\n\n1.  Cada passageiro deve ter um bilhete válido.\n2.  O mesmo bilhete deve ser usado para entrada e saída.\n3.  O valor do bilhete, se for inferior a $8,00, pode ser aumentado inserindo-o em qualquer Máquina de Vendas de Bilhetes (Ticket Vendor).\n4.  Informações sobre troca e reembolso de bilhetes.\n5.  Há campos para preenchimento de **Nome** e **Endereço** com a instrução de que, se for perdido e devolvido ao BART, o bilhete será enviado pelo correio ao proprietário.\n\nO rodapé do cartão confirma a origem: **SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT** (Distrito de Trânsito Rápido da Área da Baía de São Francisco).",
+    "latency_seconds": 5.130541563034058
+}

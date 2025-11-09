@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-09T06:26:43.953307",
+    "date": "2025-11-09",
+    "pergunta_translated_en": "What medicine is this?",
+    "response_original_en": "This is an essential oil product, likely for aromatherapy or topical use. The label indicates it is from the Ministry of Health in Brasília and contains 3.7% sesquiterpenes (terpenes) in its composition. The bottle has a dropper top for controlled dispensing. The background shows a kitchen counter with patterned linens and part of a black appliance.",
+    "response_translated_pt": "Este é um produto de óleo essencial, provavelmente para aromaterapia ou uso tópico. O rótulo indica que é do Ministério da Saúde de Brasília e contém 3,7% de sesquiterpenos (terpenos) em sua composição. O frasco possui conta-gotas para distribuição controlada. O fundo mostra uma bancada de cozinha com lençóis estampados e parte de um eletrodoméstico preto.",
+    "latency_seconds": 3.483912706375122
+}
