@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-09T21:15:35.087728",
+    "date": "2025-11-09",
+    "response": "Pela imagem, este produto é um **Extrato de Própolis**.\n\nAnalisando o rótulo, podemos ver as seguintes informações:\n\n*   **Produto:** Extrato de Própolis\n*   **Marca:** Parece ser da **Apis Flora** (pelo logo visível).\n*   **Regulamentação:** É um produto inspecionado pelo **S.I.F. (Serviço de Inspeção Federal)** do Ministério da Agricultura do Brasil, o que garante sua procedência e qualidade.\n\n**Para que serve?**\n\nO extrato de própolis é um produto natural feito pelas abelhas e é amplamente conhecido por suas propriedades:\n\n*   **Anti-inflamatórias**\n*   **Antibacterianas e antivirais**\n*   **Cicatrizantes**\n*   **Antioxidantes**\n\nÉ comumente utilizado para fortalecer o sistema imunológico, aliviar dores de garganta, tratar aftas e auxiliar no combate a gripes e resfriados. Geralmente, é consumido em gotas, diluído em água, suco ou chá.\n\n**Importante:** Embora seja um produto natural com muitos benefícios, é sempre bom consultar um médico ou profissional de saúde antes de iniciar o uso, especialmente se você tiver alguma condição de saúde preexistente ou estiver tomando outros medicamentos.",
+    "latency_seconds": 13.240765571594238
+}

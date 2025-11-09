@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "encontra_molho_tomate.jpeg",
+    "question_original_pt": "Consegue encontrar o molho de tomate pra mim?",
+    "timestamp_sent_utc": "2025-11-09T21:16:51.110505",
+    "date": "2025-11-09",
+    "response": "Com base na imagem, o item que mais se assemelha a um produto de tomate (molho, extrato ou passata) é a **lata vermelha e branca** na terceira prateleira da porta (de cima para baixo).\n\nA lata parece ter a marca **\"Boi TRADICIONAL\"**.\n\n**Localização:** Na prateleira do meio da porta, ao lado dos pacotes da marca Moça.",
+    "latency_seconds": 4.234364748001099
+}

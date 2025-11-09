@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "bula.jpeg",
+    "question_original_pt": "Consegue ler essa bula?",
+    "timestamp_sent_utc": "2025-11-09T21:18:19.804281",
+    "date": "2025-11-09",
+    "pergunta_translated_en": "Can you read this leaflet?",
+    "response_original_en": "No, I cannot read this leaflet. The image shows a printed leaflet with text in a language I do not understand.",
+    "response_translated_pt": "Não, não consigo ler este folheto. A imagem mostra um folheto impresso com texto num idioma que não entendo.",
+    "latency_seconds": 2.3386871814727783
+}

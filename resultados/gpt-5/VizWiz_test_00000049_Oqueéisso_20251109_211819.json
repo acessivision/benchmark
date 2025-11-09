@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-09T21:17:31.823677",
+    "date": "2025-11-09",
+    "response": "É um bilhete do BART — o sistema de metrô/trens da Bay Area (San Francisco). É o verso do ticket, com instruções e espaço para nome/endereço.",
+    "latency_seconds": 12.364005327224731
+}

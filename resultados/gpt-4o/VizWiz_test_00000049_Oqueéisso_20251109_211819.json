@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-09T21:17:31.823677",
+    "date": "2025-11-09",
+    "response": "Esta é a parte de trás de um bilhete do sistema de transporte BART (Bay Area Rapid Transit) da área da baía de São Francisco. O texto fornece instruções sobre o uso do bilhete, incluindo a necessidade de ter um bilhete válido para cada passageiro, o uso do mesmo bilhete para entrada e saída, e informações sobre como recuperar o bilhete se ele for perdido e devolvido.",
+    "latency_seconds": 5.083754777908325
+}
