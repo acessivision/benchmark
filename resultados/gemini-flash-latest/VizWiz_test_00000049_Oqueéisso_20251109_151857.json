@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-09T15:18:16.319221",
+    "date": "2025-11-09",
+    "response": "Com base na imagem, o objeto é um **bilhete de transporte público (ou cartão de valor armazenado)**.\n\nEspecificamente, trata-se de um bilhete do **BART (Bay Area Rapid Transit District)**, que é o sistema de metrô e trem rápido que atende a região da Baía de São Francisco, na Califórnia, Estados Unidos.\n\nO texto no bilhete (em inglês) fornece as regras e informações de uso:\n\n1.  Cada passageiro deve ter um bilhete válido.\n2.  O mesmo bilhete deve ser usado para entrada e saída.\n3.  O valor deste bilhete, se for inferior a $8,00, pode ser aumentado inserindo-o em qualquer Máquina Vendedora de Bilhetes.\n4.  Informações de contato para troca e reembolso de bilhetes.\n5.  Instruções para achados e perdidos: \"Assine abaixo, se perdido e devolvido ao BART, o bilhete será enviado para você.\" (Com espaços para Nome, Endereço, Cidade e CEP).\n\nAbaixo, a identificação completa: **SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT**.",
+    "latency_seconds": 5.336906909942627
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "encontra_molho_tomate.jpeg",
+    "question_original_pt": "Consegue encontrar o molho de tomate pra mim?",
+    "timestamp_sent_utc": "2025-11-09T15:17:46.749748",
+    "date": "2025-11-09",
+    "response": "Não consigo identificar um molho de tomate (ketchup, passata ou molho pronto) claramente rotulado na imagem.\n\nHá alguns itens vermelhos ou em embalagens que poderiam conter molho, mas não é possível confirmar:\n\n1.  **Na segunda prateleira de cima para baixo:** Há um pote de vidro que contém **Cerejas** (não molho de tomate).\n2.  **Na terceira prateleira:** Há uma lata parcialmente visível, rotulada como **\"Bozza Tradicional\"**. Embora pareça uma lata de alimento enlatado (como extrato de tomate ou polpa), não consigo confirmar se é molho de tomate pronto.\n\nSe o molho de tomate estiver em uma caixa de papelão (tetra pak), ela não está visível.",
+    "latency_seconds": 6.694082260131836
+}

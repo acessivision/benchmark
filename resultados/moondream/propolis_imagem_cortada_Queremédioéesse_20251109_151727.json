@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-09T15:16:47.152190",
+    "date": "2025-11-09",
+    "pergunta_translated_en": "What medicine is this?",
+    "response_original_en": "This is an essential oil (EO) product from the Ministry of Health, issued by the Brasílianos (Brazilian Health Surveillance Service) in 2013. The label reads “Ministério da Agricultura Brasíliana 3.1.F” and “Registro no Ministério da Agricultura Brasíliana 3733”. The bottle contains 30ml of dark amber liquid with a dropper top, held in a person’s hand.",
+    "response_translated_pt": "Trata-se de um óleo essencial (OE) do Ministério da Saúde, emitido pelo Brasílianos (Serviço Nacional de Vigilância Sanitária) em 2013. No rótulo está escrito “Ministério da Agricultura Brasília 3.1.F” e “Registro no Ministério da Agricultura Brasília 3733”. O frasco contém 30ml de líquido âmbar escuro com conta-gotas, segurado na mão de uma pessoa.",
+    "latency_seconds": 4.402345180511475
+}
