@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-09T09:20:01.384532",
+    "date": "2025-11-09",
+    "response": "É um bilhete do BART (Bay Area Rapid Transit) — o sistema de metrô/trem urbano da Área da Baía de São Francisco. É um ticket magnético recarregável usado para entrar e sair das estações; tem campos para nome e endereço caso seja perdido e devolvido.",
+    "latency_seconds": 18.091479778289795
+}

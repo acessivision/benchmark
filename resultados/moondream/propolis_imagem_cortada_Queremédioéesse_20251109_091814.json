@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-09T09:17:26.942743",
+    "date": "2025-11-09",
+    "pergunta_translated_en": "What medicine is this?",
+    "response_original_en": "This is an essential oil (EO) product from the Ministry of Health of Brazil, specifically from the Inspecionário (Inspection) unit. The label clearly indicates \"Inspecionário S.I.F.\" (Inspection Service) with a botanical name (Brazilian rosemary) and an inspection number (3733). The bottle is held in a person's hand, suggesting it's being examined or sold. The background includes a countertop and part of a patterned cloth with yellow fruit motifs.",
+    "response_translated_pt": "Este é um produto de óleo essencial (OE) do Ministério da Saúde do Brasil, especificamente da unidade Inspecionário. A etiqueta indica claramente “Inspecionário S.I.F.” (Serviço de Inspeção) com nome botânico (alecrim brasileiro) e número de inspeção (3733). A garrafa está na mão de uma pessoa, sugerindo que está sendo examinada ou vendida. O fundo inclui uma bancada e parte de um pano estampado com motivos de frutas amarelas.",
+    "latency_seconds": 4.5376856327056885
+}

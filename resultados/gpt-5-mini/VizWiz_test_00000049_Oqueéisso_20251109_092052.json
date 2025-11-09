@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-09T09:20:01.384532",
+    "date": "2025-11-09",
+    "response": "É um bilhete/cartão do BART (San Francisco Bay Area Rapid Transit). Tem instruções de uso (entrada/saída, recarga) e um campo para nome/endereço caso o bilhete seja perdido para que o BART possa devolvê‑lo. Quer que eu traduza o texto que aparece nele?",
+    "latency_seconds": 7.460498809814453
+}

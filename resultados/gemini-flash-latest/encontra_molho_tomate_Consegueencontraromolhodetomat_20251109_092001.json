@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "encontra_molho_tomate.jpeg",
+    "question_original_pt": "Consegue encontrar o molho de tomate pra mim?",
+    "timestamp_sent_utc": "2025-11-09T09:18:51.094779",
+    "date": "2025-11-09",
+    "response": "Analisando a imagem da geladeira, **não consegui encontrar** o molho de tomate.\n\nOs itens mais parecidos com molhos ou conservas que estão visíveis são:\n\n*   Um pote de vidro no segundo andar (prateleira do meio) que é, na verdade, um pote de **Cerejas** (Cerejas Marialva).\n*   Há outros potes e garrafas, mas nenhum deles parece ser molho de tomate (ketchup, passata ou molho pronto para macarrão).",
+    "latency_seconds": 4.117205381393433
+}
