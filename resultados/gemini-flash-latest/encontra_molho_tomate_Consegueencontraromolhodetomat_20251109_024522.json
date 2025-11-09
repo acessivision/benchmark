@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "encontra_molho_tomate.jpeg",
+    "question_original_pt": "Consegue encontrar o molho de tomate pra mim?",
+    "timestamp_sent_utc": "2025-11-09T02:44:37.282360",
+    "date": "2025-11-09",
+    "response": "Sim, consegui identificar um item que é muito provável ser molho de tomate ou extrato de tomate.\n\nO item está localizado na **terceira prateleira da porta da geladeira** (contando de cima para baixo).\n\nÉ um **cilindro ou lata/embalagem vermelha e branca** que está um pouco de lado, atrás dos pacotes de \"Moça\". A embalagem parece ter o texto \"BOA TRADICIONAL\" em destaque, o que é um formato e coloração muito comuns para molhos e extratos de tomate no Brasil.",
+    "latency_seconds": 4.80639910697937
+}

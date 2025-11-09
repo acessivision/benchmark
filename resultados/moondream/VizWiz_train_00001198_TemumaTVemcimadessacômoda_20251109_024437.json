@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001198.jpg",
+    "question_original_pt": "Tem uma TV em cima dessa cômoda?",
+    "timestamp_sent_utc": "2025-11-09T02:44:09.106148",
+    "date": "2025-11-09",
+    "pergunta_translated_en": "Is there a TV on top of that dresser?",
+    "response_original_en": "Erro ao chamar a API Moondream: HTTP Error 500: Internal Server Error",
+    "response_translated_pt": "Erro ao chamar a API Moondream: HTTP Error 500: Internal Server Error",
+    "latency_seconds": 3.098196506500244
+}

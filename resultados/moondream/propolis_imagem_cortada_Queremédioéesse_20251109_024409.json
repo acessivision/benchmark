@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "propolis_imagem_cortada.jpeg",
+    "question_original_pt": "Que remédio é esse?",
+    "timestamp_sent_utc": "2025-11-09T02:43:30.384607",
+    "date": "2025-11-09",
+    "pergunta_translated_en": "What medicine is this?",
+    "response_original_en": "Erro ao chamar a API Moondream: HTTP Error 500: Internal Server Error",
+    "response_translated_pt": "Erro ao chamar a API Moondream: HTTP Error 500: Internal Server Error",
+    "latency_seconds": 3.632744312286377
+}

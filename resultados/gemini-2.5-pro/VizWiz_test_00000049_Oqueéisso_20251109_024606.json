@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-09T02:45:22.600316",
+    "date": "2025-11-09",
+    "response": "Com base na imagem, isso é uma **passagem de papel para o BART (Bay Area Rapid Transit)**.\n\nO BART é o sistema de transporte rápido (metrô/trem) que serve a Bay Area de São Francisco, na Califórnia.\n\nEste é o verso da passagem, que contém:\n*   **Instruções de uso**, como a necessidade de usar o mesmo bilhete para entrada e saída.\n*   **Informações sobre como adicionar valor** ao bilhete.\n*   **Contatos** para troca e reembolso.\n*   Um espaço para escrever **nome e endereço**, para que o bilhete possa ser devolvido pelo correio se for perdido e encontrado.\n\nEsses bilhetes de papel foram em grande parte substituídos pelo **Clipper Card**, um cartão de trânsito recarregável, mas ainda eram usados até recentemente.",
+    "latency_seconds": 12.979592323303223
+}

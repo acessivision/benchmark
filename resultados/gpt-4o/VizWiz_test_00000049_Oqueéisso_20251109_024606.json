@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-09T02:45:22.600316",
+    "date": "2025-11-09",
+    "response": "Isso é um bilhete do sistema de trânsito rápido da área da baía de São Francisco, o BART (Bay Area Rapid Transit). É utilizado para o transporte público na região de São Francisco, nos EUA. No verso, há instruções sobre uso e informações de contato do serviço.",
+    "latency_seconds": 4.649662256240845
+}

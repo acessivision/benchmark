@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-09T02:45:22.600316",
+    "date": "2025-11-09",
+    "response": "É um bilhete de metrô do BART (San Francisco Bay Area Rapid Transit). É o cartão/tíquete usado para entrar e sair das estações, com instruções no verso e espaço para nome e endereço caso seja perdido.",
+    "latency_seconds": 7.282926559448242
+}

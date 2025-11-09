@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001198.jpg",
+    "question_original_pt": "Tem uma TV em cima dessa cômoda?",
+    "timestamp_sent_utc": "2025-11-09T02:44:09.106148",
+    "date": "2025-11-09",
+    "response": "Sim, há uma televisão em cima da cômoda. É um aparelho de cor prateada e parece estar ligado.",
+    "latency_seconds": 8.904396533966064
+}

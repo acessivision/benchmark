@@ -134,5 +134,12 @@
         "data/imagens/VizWiz_train_00000265.jpg",
         "data/imagens/VizWiz_train_00001232.jpg",
         "data/imagens/propolis_imagem_cortada.jpeg"
+    ],
+    "2025-11-09": [
+        "data/imagens/propolis_imagem_cortada.jpeg",
+        "data/imagens/VizWiz_train_00001198.jpg",
+        "data/imagens/encontra_molho_tomate.jpeg",
+        "data/imagens/VizWiz_test_00000049.jpg",
+        "data/imagens/bula.jpeg"
     ]
 }
