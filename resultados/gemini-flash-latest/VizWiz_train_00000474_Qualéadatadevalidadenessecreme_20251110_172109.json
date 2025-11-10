@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-11-10T17:20:19.753114",
+    "date": "2025-11-10",
+    "response": "A data de validade costuma estar impressa na parte superior da embalagem, perto da tampa, geralmente em tinta preta ou azul (código de jato de tinta).\n\nNo entanto, a imagem fornecida está **muito embaçada** na área onde a data está impressa (acima da tampa branca).\n\nEmbora haja uma sequência de números visível (parecendo ser algo como **03 04** ou **05 04** e outros dígitos), a baixa qualidade da foto impede a leitura precisa e definitiva da data de validade.\n\n**Recomendação:** Verifique diretamente na embalagem de Neilson table cream, na aba superior.",
+    "latency_seconds": 5.518547296524048
+}

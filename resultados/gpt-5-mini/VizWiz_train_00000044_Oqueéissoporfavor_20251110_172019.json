@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-11-10T17:19:27.734658",
+    "date": "2025-11-10",
+    "response": "É a embalagem de uma refeição pronta (congelada/para aquecer): \"Sweet & Sour Chicken\" — frango agridoce com arroz, da linha/signatura da Heinz.",
+    "latency_seconds": 7.025398254394531
+}

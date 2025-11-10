@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-11-10T17:20:19.753114",
+    "date": "2025-11-10",
+    "response": "Não consigo ler a data de validade nesta foto — a área onde normalmente vem a data (próxima ao bocal/tampa) está fora de foco e borrada.\n\nVocê pode:\n- tirar uma foto mais próxima do topo (ao redor da tampa/bocal), com boa iluminação e sem reflexo;\n- segurar a câmera firme para evitar tremor;\n- ou olhar diretamente na caixa — normalmente vem impressa perto da tampa, na aba superior ou na base, com “BB”, “EXP” ou “Use by”.\n\nSe enviar uma foto mais nítida do local onde está a impressão, eu tento ler para você.",
+    "latency_seconds": 8.76431131362915
+}

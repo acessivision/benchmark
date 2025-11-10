@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000265.jpg",
+    "question_original_pt": "Qual é a data de validade?",
+    "timestamp_sent_utc": "2025-11-10T17:18:39.294599",
+    "date": "2025-11-10",
+    "response": "A impressão no lacre parece \"OCT 18 14\" — ou seja, 18 de outubro de 2014. A imagem está um pouco borrada, então há alguma incerteza; quer que eu tente ampliar/cortar a área para confirmar?",
+    "latency_seconds": 9.787420272827148
+}

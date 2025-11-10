@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000551.jpg",
+    "question_original_pt": "De que cor são as nuvens e com o que elas se parecem no céu?",
+    "timestamp_sent_utc": "2025-11-10T17:17:46.508181",
+    "date": "2025-11-10",
+    "response": "As nuvens são brancas com partes cinza‑escuras. Elas parecem grandes tufos de algodão fofos espalhados pelo céu.",
+    "latency_seconds": 9.777234077453613
+}
