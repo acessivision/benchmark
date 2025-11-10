@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000551.jpg",
+    "question_original_pt": "De que cor são as nuvens e com o que elas se parecem no céu?",
+    "timestamp_sent_utc": "2025-11-10T06:31:20.124125",
+    "date": "2025-11-10",
+    "response": "Com base na imagem, aqui está a descrição das nuvens:\n\n**Cor:**\nAs nuvens na imagem apresentam uma mistura de cores, principalmente tons de **branco e cinza**. Algumas partes são brancas e brilhantes, especialmente onde a luz do sol as atinge diretamente. No entanto, a maior parte do céu é dominada por nuvens de um cinza denso e escuro, o que sugere que estão espessas e possivelmente carregadas de chuva.\n\n**Aparência:**\nNo céu, elas se parecem com uma cobertura espessa e dramática. Há nuvens brancas e fofas que lembram **bolas de algodão** espalhadas por baixo, mas acima delas há uma grande massa de nuvens cinzentas que se juntam, dando a impressão de um tempo instável ou de uma tempestade se aproximando. O conjunto cria um céu com muita textura e profundidade, contrastando com as pequenas porções de céu azul que aparecem entre elas.",
+    "latency_seconds": 14.245743036270142
+}

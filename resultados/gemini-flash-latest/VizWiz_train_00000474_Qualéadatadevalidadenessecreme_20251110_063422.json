@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-11-10T06:33:29.878698",
+    "date": "2025-11-10",
+    "response": "Com base na imagem, a data de validade está impressa na parte superior da embalagem, na aba branca, logo acima da tampa.\n\n**No entanto, a imagem está extremamente embaçada e borrada nessa área, tornando a leitura da data de validade completamente impossível.**\n\nA sequência de números carimbados no topo (que geralmente indica o mês e o dia, ou o lote e a data) é ilegível.",
+    "latency_seconds": 4.977877855300903
+}

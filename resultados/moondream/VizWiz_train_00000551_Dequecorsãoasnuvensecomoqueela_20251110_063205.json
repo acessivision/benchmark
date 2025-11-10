@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000551.jpg",
+    "question_original_pt": "De que cor são as nuvens e com o que elas se parecem no céu?",
+    "timestamp_sent_utc": "2025-11-10T06:31:20.124125",
+    "date": "2025-11-10",
+    "pergunta_translated_en": "What color are the clouds and what do they look like in the sky?",
+    "response_original_en": "The clouds are gray and white, and they appear puffy and cumulus-like in the sky.",
+    "response_translated_pt": "As nuvens são cinzentas e brancas e parecem inchadas e semelhantes a cúmulos no céu.",
+    "latency_seconds": 2.0382354259490967
+}

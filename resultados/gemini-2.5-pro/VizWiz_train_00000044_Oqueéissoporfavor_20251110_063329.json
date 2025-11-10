@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-11-10T06:32:36.867245",
+    "date": "2025-11-10",
+    "response": "Com base na imagem, isto é a embalagem de uma refeição pronta.\n\nEspecificamente, é um prato de **Frango Agridoce** (Sweet & Sour Chicken).\n\nAqui estão os detalhes visíveis na embalagem:\n*   **Produto:** Frango Agridoce (frango em molho agridoce com arroz e vegetais).\n*   **Marca:** **Weight Watchers from Heinz** (Vigilantes do Peso da Heinz).\n*   **Linha:** Signature Range.\n\nTrata-se de uma refeição congelada ou pronta para consumo, provavelmente focada em ser uma opção com poucas calorias, como é comum nos produtos da Weight Watchers.",
+    "latency_seconds": 22.315458059310913
+}
