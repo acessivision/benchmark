@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000265.jpg",
+    "question_original_pt": "Qual é a data de validade?",
+    "timestamp_sent_utc": "2025-11-10T09:24:05.513871",
+    "date": "2025-11-10",
+    "response": "Com base na imagem, a data de validade claramente visível na parte superior da embalagem é **OCT 10** (10 de Outubro).\n\nHá um número adicional depois do 10 que está cortado pela tampa na imagem principal, mas o número **10 de Outubro** é claro. Se o último dígito representa o ano (por exemplo, 2020, 2021, etc.), não é totalmente visível.",
+    "latency_seconds": 1.4737718105316162
+}

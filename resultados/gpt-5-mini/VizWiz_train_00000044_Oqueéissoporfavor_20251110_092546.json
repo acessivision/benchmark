@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-11-10T09:25:02.085499",
+    "date": "2025-11-10",
+    "response": "É uma embalagem de refeição pronta/congelada: frango ao molho agridoce com arroz (marca Weight Watchers / Heinz, Signature Range). Quer que eu leia alguma informação da embalagem (ingredientes, calorias)?",
+    "latency_seconds": 5.16086220741272
+}

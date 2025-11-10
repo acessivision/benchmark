@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-11-10T09:25:02.085499",
+    "date": "2025-11-10",
+    "response": "Com base na imagem, trata-se da embalagem de um produto alimentício, provavelmente uma **refeição pronta** (ready meal) ou um produto enlatado.\n\nO produto é:\n\n1.  **Tipo de Prato:** **Frango Agridoce (Sweet & Sour Chicken)**, servido com arroz e vegetais.\n2.  **Marca:** Faz parte da linha de produtos **Weight Watchers** (WW), fabricados pela **Heinz** (\"Weight Watchers from Heinz\").\n3.  **Detalhes Adicionais:** Pertence à linha **\"Signature Range\"** e destaca informações nutricionais, como o baixo teor de gordura (exemplo: 1.4g de gordura).\n\nEm resumo, **é a embalagem de uma refeição de Frango Agridoce da marca Weight Watchers da Heinz.**",
+    "latency_seconds": 4.907335042953491
+}

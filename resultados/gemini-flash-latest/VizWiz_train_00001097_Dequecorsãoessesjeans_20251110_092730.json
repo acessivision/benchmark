@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001097.jpg",
+    "question_original_pt": "De que cor são esses jeans?",
+    "timestamp_sent_utc": "2025-11-10T09:26:43.853499",
+    "date": "2025-11-10",
+    "response": "Com base na imagem, os jeans são de cor **azul escuro** (dark blue) ou **azul marinho** (navy blue), o que é comumente referido como um jeans de **lavagem escura** (dark wash).",
+    "latency_seconds": 3.972147226333618
+}
