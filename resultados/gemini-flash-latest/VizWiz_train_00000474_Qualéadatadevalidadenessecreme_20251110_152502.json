@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-11-10T15:24:03.629230",
+    "date": "2025-11-10",
+    "response": "A imagem está extremamente embaçada, especialmente na área onde a data de validade é impressa (no topo da caixa, perto da tampa).\n\nNo entanto, ao tentar decifrar os números impressos, a sequência que parece estar ali é **05 24 10**.\n\nAssumindo que o formato seja Padrão Canadense/Americano (Mês/Dia/Ano), a data de validade mais provável é:\n\n**24 de Maio de 2010**",
+    "latency_seconds": 5.589308500289917
+}

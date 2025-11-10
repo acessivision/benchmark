@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-11-10T15:24:03.629230",
+    "date": "2025-11-10",
+    "response": "Não consigo ler a data — a foto está desfocada. Em caixas como essa, a validade costuma ficar impressa na parte de cima, perto da tampa/aba, ao lado de “Best Before / Meilleur avant”. Se puder, tire uma foto mais nítida do topo ou verifique ali sob boa luz.",
+    "latency_seconds": 14.72611117362976
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-11-10T15:24:03.629230",
+    "date": "2025-11-10",
+    "response": "Com base na imagem, a data de validade está impressa no topo da embalagem, mas está bastante embaçada e difícil de ler com clareza.\n\nNo entanto, parece ser **24 de Março (24 MR)**. As letras \"MR\" são a abreviação comum para Março (March/Mars) em embalagens.\n\nDevido à baixa qualidade da foto, é aconselhável verificar a embalagem pessoalmente para ter certeza.",
+    "latency_seconds": 24.237854719161987
+}
