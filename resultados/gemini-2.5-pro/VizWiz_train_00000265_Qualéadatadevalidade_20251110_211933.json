@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000265.jpg",
+    "question_original_pt": "Qual é a data de validade?",
+    "timestamp_sent_utc": "2025-11-10T21:18:44.668157",
+    "date": "2025-11-10",
+    "response": "Com base na imagem, a data de validade é **10 de outubro** (OCT 10).\n\nO ano não está claramente visível na foto.",
+    "latency_seconds": 14.927235841751099
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000551.jpg",
+    "question_original_pt": "De que cor são as nuvens e com o que elas se parecem no céu?",
+    "timestamp_sent_utc": "2025-11-10T21:17:46.349152",
+    "date": "2025-11-10",
+    "response": "As nuvens na imagem são de cor branca e cinza. Elas têm formas fofas, irregulares e volumosas, típicas de nuvens cúmulo. O céu ao fundo é azul, criando um contraste com as nuvens.",
+    "latency_seconds": 5.18224835395813
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-11-10T21:19:33.948196",
+    "date": "2025-11-10",
+    "response": "Esta é uma embalagem de comida pronta de frango agridoce com arroz e vegetais. É da linha \"Weight Watchers\" da Heinz, uma marca conhecida por oferecer opções de refeições com baixo teor de gordura.",
+    "latency_seconds": 3.848628044128418
+}

@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-11-10T21:19:33.948196",
+    "date": "2025-11-10",
+    "pergunta_translated_en": "What is this please?",
+    "response_original_en": "A Heinz Sweet Sour Chicken meal box, featuring chicken in a sweet and sour sauce with rice and vegetables, presented on a white plate. The box also displays nutritional information: 1.4g fat.",
+    "response_translated_pt": "Uma caixa de refeição Heinz Sweet Sour Chicken, com frango ao molho agridoce com arroz e vegetais, apresentada em um prato branco. A caixa também traz informações nutricionais: 1,4g de gordura.",
+    "latency_seconds": 3.399754762649536
+}

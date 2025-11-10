@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-11-10T21:19:33.948196",
+    "date": "2025-11-10",
+    "response": "Com base na imagem, trata-se da embalagem de um **prato pronto** (refeição congelada ou resfriada) da marca **Heinz**.\n\nOs detalhes principais visíveis são:\n\n1.  **Produto:** **Sweet Sour Chicken** (Frango Agridoce).\n2.  **Descrição:** \"Chicken in a sweet & sour sauce with rice and vegetables\" (Frango em um molho agridoce com arroz e vegetais).\n3.  **Marca/Linha:** É um produto da **Heinz**, pertencente à linha **\"Signature Range\"** (Linha Exclusiva). A marca superior que aparece incompleta, \"Light [W]atchers\" ou similar, sugere que é um produto de baixo teor de calorias/gordura.\n4.  **Destaques Nutricionais:** A embalagem indica um baixo teor de gordura: **1.4g FAT** (1,4 gramas de gordura).",
+    "latency_seconds": 5.47736382484436
+}
