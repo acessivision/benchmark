@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-11-10T02:49:16.469469",
+    "date": "2025-11-10",
+    "response": "Com base na imagem, trata-se da embalagem de uma **refeição pronta (prato pronto) congelada ou refrigerada**.\n\nO produto específico é:\n\n*   **Prato:** **Sweet Sour Chicken** (Frango Agridoce).\n*   **Descrição:** Frango em um molho agridoce com arroz e vegetais.\n*   **Marca/Linha:** Pertence à linha **Signature Range** da **HEINZ**, possivelmente parte da gama \"Weight Watchers\" (ou Light Watchers, como sugere o texto no canto superior esquerdo, indicando que é uma opção de baixa caloria ou baixa gordura, com apenas 1.4g de gordura por embalagem).",
+    "latency_seconds": 4.407255172729492
+}

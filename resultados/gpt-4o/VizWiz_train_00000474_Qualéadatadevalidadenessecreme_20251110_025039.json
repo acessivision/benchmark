@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-11-10T02:49:52.898682",
+    "date": "2025-11-10",
+    "response": "Não consigo identificar a data de validade na embalagem da imagem fornecida. Seria melhor verificá-la fisicamente na embalagem ou procurar em uma área onde geralmente essas informações são impressas, como na parte superior ou nas laterais.",
+    "latency_seconds": 3.5977556705474854
+}

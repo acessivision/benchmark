@@ -141,5 +141,12 @@
         "data/imagens/encontra_molho_tomate.jpeg",
         "data/imagens/VizWiz_test_00000049.jpg",
         "data/imagens/bula.jpeg"
+    ],
+    "2025-11-10": [
+        "data/imagens/VizWiz_train_00000551.jpg",
+        "data/imagens/VizWiz_train_00000265.jpg",
+        "data/imagens/VizWiz_train_00000044.jpg",
+        "data/imagens/VizWiz_train_00000474.jpg",
+        "data/imagens/VizWiz_train_00001097.jpg"
     ]
 }
