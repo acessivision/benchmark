@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-11T23:58:34.500457",
+    "date": "2025-11-11",
+    "response": "Com base na imagem, esta é uma fotografia tirada dentro de um cômodo que parece estar pouco mobiliado.\n\nEm primeiro plano, há uma superfície escura e brilhante, possivelmente uma mesa ou a parte superior de um piano. Sobre ela, há um frasco branco com uma tampa roxa.\n\nAo fundo, há uma parede clara com duas janelas que deixam entrar bastante luz. As janelas estão cobertas por persianas. O chão parece ser de azulejo em tons de bege ou creme. A iluminação geral é um pouco escura, com um forte contraste da luz que vem de fora.",
+    "latency_seconds": 11.058149337768555
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "calendario.jpeg",
+    "question_original_pt": "Quais os feriados desse mês",
+    "timestamp_sent_utc": "2025-11-11T23:59:20.530357",
+    "date": "2025-11-11",
+    "response": "Com base no calendário de **Outubro** da imagem, os feriados indicados são:\n\n1. **12:** **Nossa Senhora Aparecida** (indicado com o símbolo de diamante/losango que, segundo a legenda, significa \"Feriado\").\n2. **28:** **Dia do Servidor Público** (indicado com o símbolo de seta, que geralmente pode significar ponto facultativo ou recesso administrativo, mas está listado junto com o feriado).\n\n**Portanto, os feriados listados para Outubro são 12 e 28.**",
+    "latency_seconds": 1.5154693126678467
+}

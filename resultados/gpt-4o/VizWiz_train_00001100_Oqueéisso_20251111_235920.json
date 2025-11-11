@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-11T23:58:34.500457",
+    "date": "2025-11-11",
+    "response": "A imagem mostra um frasco ou pote em um ambiente interno, possivelmente uma sala ou cozinha. O frasco está em cima de uma superfície, mas devido à qualidade e foco da imagem, não é possível identificar exatamente o que é o produto.",
+    "latency_seconds": 3.9517250061035156
+}
