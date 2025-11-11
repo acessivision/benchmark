@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-11T17:18:49.906489",
+    "date": "2025-11-11",
+    "pergunta_translated_en": "What did the doctor write?",
+    "response_original_en": "The doctor wrote: \"Dormim 300 mg VO - toman 01 comp de 8/8/08 las salinas en ungüeo.\"",
+    "response_translated_pt": "O médico escreveu: \"Dormim 300 mg VO - toman 01 comp de 8/8/08 las salinas en ungüeo.\"",
+    "latency_seconds": 2.274134635925293
+}

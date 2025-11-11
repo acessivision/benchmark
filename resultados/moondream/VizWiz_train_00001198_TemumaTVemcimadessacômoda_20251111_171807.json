@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001198.jpg",
+    "question_original_pt": "Tem uma TV em cima dessa cômoda?",
+    "timestamp_sent_utc": "2025-11-11T17:17:35.001764",
+    "date": "2025-11-11",
+    "pergunta_translated_en": "Is there a TV on top of that dresser?",
+    "response_original_en": "Yes, there is a small TV sitting on top of the dresser.",
+    "response_translated_pt": "Sim, há uma pequena TV em cima da cômoda.",
+    "latency_seconds": 3.024930238723755
+}

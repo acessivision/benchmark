@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-11T17:18:49.906489",
+    "date": "2025-11-11",
+    "response": "O médico escreveu a seguinte prescrição, que está em caligrafia notavelmente clara:\n\n---\n\n### HOSPITAL REGIONAL MANOEL DE SOUSA SANTOS\n\n(Dados do Hospital e CNPJ)\n\n**Paciente:** Lurrique Siqueiredo (ou Figueiredo)\n\n**Uso Interno**\n\n**1. Dramin 100mg - VO** (Via Oral)\n*   Tomar 01 comprimido de 8 em 8 horas (de 8/8 hrs) para aliviar os enjoos.\n\n**2. Buscopam composto gotas - VO** (Via Oral)\n*   Tomar 35 gotas (gts) de 8 em 8 horas (de 8/8 hrs) em caso de dor ou febre.\n\n---\n***Observação:*** *VO significa Via Oral. A dose de 35 gotas de Buscopan Composto é uma dose alta e é crucial que o paciente confirme essa dosagem com um farmacêutico ou médico, se necessário, embora esteja claramente escrita na receita.*",
+    "latency_seconds": 5.126101493835449
+}
