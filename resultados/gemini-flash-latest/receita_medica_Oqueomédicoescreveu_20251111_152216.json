@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-11T15:21:40.584694",
+    "date": "2025-11-11",
+    "response": "A caligrafia do médico está bastante legível.\n\nAqui está o que está escrito na receita médica, incluindo as informações do cabeçalho:\n\n---\n\n### Cabeçalho\n\n**HOSPITAL REGIONAL MANOEL DE SOUSA SANTOS**\nAv. Dr. Raimundo Santos, 546 – Centro ☎ (89) [Número oculto] -1192\n64.900-000 BOM JESUS - PI\nCNPJ: 06. [Número oculto] .564/0001-[Número oculto]\n\n### Prescrição\n\n**Paciente:** Luzerrigue Friguinedo\n\n**Uso Interno**\n\n**① Dramin 500mg – VO – tomar 01 comp.**\n**de 8/8 hs p/ aliviar os enjôos.**\n*(Dramin 500mg – Via Oral – tomar 01 comprimido de 8 em 8 horas para aliviar os enjoos.)*\n\n**② Buscopam Composto gotas – VO – tomar**\n**35 gts de 8/8 hs em caso de dor**\n**ou febre.**\n*(Buscopam Composto gotas – Via Oral – tomar 35 gotas de 8 em 8 horas em caso de dor ou febre.)*\n\n---\n\n***Observação sobre a dosagem:** Embora o Dramin (Dimenidrinato) seja comumente encontrado em doses de 50mg ou 100mg, a receita está escrita claramente como **500mg**. A transcrição segue estritamente o que está escrito no documento.*",
+    "latency_seconds": 6.013946533203125
+}
