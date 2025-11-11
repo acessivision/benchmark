@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-11T09:22:42.046884",
+    "date": "2025-11-11",
+    "response": "Esta é uma transcrição da receita médica, que está escrita em caligrafia notavelmente clara:\n\n### Informações do Paciente\n**Paciente:** Henrique Figueiredo (ou Siqueira, o sobrenome está ligeiramente ambíguo, mas a caligrafia é legível).\n**Uso:** Uso Interno (Via Oral - VO)\n\n---\n\n### Prescrições\n\n#### 1. Dramin\n*   **Medicamento:** Dramin 100mg\n*   **Via:** VO (Via Oral)\n*   **Instrução:** Tomar 01 comp. de 8/8 hrs p/ aliviar os enjoos.\n*   **Interpretação:** Tomar 1 comprimido de 100mg, a cada 8 horas, para aliviar náuseas ou enjoo.\n\n#### 2. Buscopan Composto\n*   **Medicamento:** Buscopan composto gotas\n*   **Via:** VO (Via Oral)\n*   **Instrução:** Tomar 35 gts de 8/8 hrs em caso de dor ou febre.\n*   **Interpretação:** Tomar 35 gotas, a cada 8 horas, somente se houver dor ou febre.",
+    "latency_seconds": 4.551471471786499
+}

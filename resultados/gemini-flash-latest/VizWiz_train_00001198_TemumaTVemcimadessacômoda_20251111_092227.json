@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001198.jpg",
+    "question_original_pt": "Tem uma TV em cima dessa cômoda?",
+    "timestamp_sent_utc": "2025-11-11T09:21:54.581942",
+    "date": "2025-11-11",
+    "response": "Sim, **há uma TV** em cima dessa cômoda (chest of drawers).\n\nÉ possível ver uma televisão de tela plana de cor prata ligada, apoiada sobre o móvel, juntamente com algum tipo de aparelho de mídia (provavelmente um DVD player) logo abaixo dela.",
+    "latency_seconds": 3.6611340045928955
+}
