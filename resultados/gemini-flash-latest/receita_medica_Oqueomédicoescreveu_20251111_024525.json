@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-11T02:44:24.711130",
+    "date": "2025-11-11",
+    "response": "Abaixo está a transcrição da receita médica:\n\n---\n\n### Informações do Hospital (Cabeçalho)\n*   **HOSPITAL REGIONAL MANOEL DE SOUSA SANTOS**\n*   **HRMSS**\n*   **Local:** Bom Jesus - PI\n\n### Paciente\n*   **Paciente:** Luarrique Figueredo (A grafia do primeiro nome é Luarrique, mas pode ser uma variação de Henrique, dependendo da caligrafia).\n*   **Uso:** Uso Interno\n\n### Prescrição Médica\n\n**1. Dramin**\n*   **Medicamento:** Dramin 50mg (A dosagem é 50mg, embora a escrita possa ser ambígua, é a dose padrão mais comum.)\n*   **Via:** VO (Via Oral)\n*   **Instrução:** Tomar 01 comp. de 8/8 hrs p/ aliviar os enjôos.\n    *   *(Tradução: Tomar 1 comprimido a cada 8 horas para aliviar os enjoos.)*\n\n**2. Buscopam Composto**\n*   **Medicamento:** Buscopam composto gotas\n*   **Via:** VO (Via Oral)\n*   **Instrução:** Tomar 35 gts de 8/8 hrs em caso de dor ou febre.\n    *   *(Tradução: Tomar 35 gotas a cada 8 horas, se houver dor ou febre.)*\n\n---\n**Observação:** Recomenda-se sempre confirmar a dosagem exata e as instruções com o farmacêutico ou médico, devido à natureza manuscrita do documento.",
+    "latency_seconds": 9.187625169754028
+}

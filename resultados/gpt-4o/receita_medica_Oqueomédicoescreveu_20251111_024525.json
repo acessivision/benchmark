@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-11T02:44:24.711130",
+    "date": "2025-11-11",
+    "response": "A receita médica diz:\n\n1. **Dipirona 500mg VO** - Tomar 01 comp. de 8/8 horas p/ aliviar a __ão.\n2. **Paracetamol comp. gotas VO** - Tomar 35 gotas de 8/8 horas em caso de dor ou febre. \n\nCertifique-se de seguir as instruções do médico e consulte-o para quaisquer dúvidas ou preocupações sobre a medicação.",
+    "latency_seconds": 4.535235643386841
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000370.jpg",
+    "question_original_pt": "Leia essas instruções para mim",
+    "timestamp_sent_utc": "2025-11-11T02:45:25.739675",
+    "date": "2025-11-11",
+    "response": "Claro! As instruções de preparo no micro-ondas, traduzidas para o português, são as seguintes:\n\n**INSTRUÇÕES DE PREPARO NO MICRO-ONDAS**\n\n*   **NÃO USE EM FORNO CONVENCIONAL OU ELÉTRICO.**\n*   **MANTENHA CONGELADO ATÉ O MOMENTO DE USAR.**\n\n1.  Retire da caixa de papelão; fure a película protetora.\n2.  Aqueça no micro-ondas em potência **ALTA** por 2 minutos.\n3.  Remova a película e mexa. Aqueça no micro-ondas por mais 1 minuto ou até que o produto esteja soltando vapor por completo.\n4.  Deixe descansar por 1 minuto antes de servir. Bom apetite!\n\n**CUIDADO: O PRODUTO ESTARÁ QUENTE. A EMBALAGEM É DE USO ÚNICO.**\n\n*(Observação: As instruções foram desenvolvidas usando um micro-ondas de 1100 watts. O tempo de aquecimento pode variar dependendo do seu aparelho.)*",
+    "latency_seconds": 15.80997610092163
+}

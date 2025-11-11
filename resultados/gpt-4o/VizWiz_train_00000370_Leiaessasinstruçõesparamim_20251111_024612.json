@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000370.jpg",
+    "question_original_pt": "Leia essas instruções para mim",
+    "timestamp_sent_utc": "2025-11-11T02:45:25.739675",
+    "date": "2025-11-11",
+    "response": "Desculpe, não consigo ler o texto completo da imagem. No entanto, posso ajudar com instruções gerais para cozinhar refeições congeladas no micro-ondas:\n\n1. Retire a embalagem externa e perfure o filme plástico para a ventilação.\n2. Cozinhe no micro-ondas na potência alta por cerca de 3-5 minutos, dependendo da potência do seu micro-ondas.\n3. Aguarde um minuto ou dois antes de abrir o filme para deixar o calor dissipar.\n\nSe precisar de mais assistência, estou à disposição!",
+    "latency_seconds": 3.6537065505981445
+}
