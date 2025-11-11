@@ -2,7 +2,7 @@
   {
     "arquivo_imagem": "embalagem_bis.jpeg",
     "pergunta": "essa embalagem é de que?",
-    "gabarito_descritivo": "É a embalagem de um chocolate Bis, da marca Lacta, no sabor Oreo. A embalagem azul também destaca 'Super Crocante'.",
+    "gabarito_descritivo": "É a embalagem de chocolate Bis, da marca Lacta, sabor Oreo.",
     "fatos_chave": [
       {"fato": "Produto", "valor": "Bis", "sinonimos": ["chocolate bis"]},
       {"fato": "Marca", "valor": "Lacta", "sinonimos": []},
@@ -62,7 +62,7 @@
   {
     "arquivo_imagem": "VizWiz_train_00000296.jpg",
     "pergunta": "O nome desse item está aparecendo e qual é?",
-    "gabarito_descritivo": "Sim, o nome está aparecendo parcialmente. O nome do item é 'Biotin' (Biotina), e é um 'Dietary Supplement' (suplemento dietético) da marca GNC.",
+    "gabarito_descritivo": "Sim, o nome está aparecendo parcialmente. O nome do item é 'Biotin' (Biotina), e é um suplemento dietético da marca GNC.",
     "fatos_chave": [
       {"fato": "Resposta", "valor": "Sim", "sinonimos": []},
       {"fato": "Nome", "valor": "Biotin", "sinonimos": ["Biotina"]},
@@ -73,9 +73,9 @@
   {
     "arquivo_imagem": "VizWiz_train_00000667.jpg",
     "pergunta": "Da esquerda para a direita. O que está em cada uma dessas embalagens?",
-    "gabarito_descritivo": "Da esquerda para a direita, os produtos são: o primeiro é 'restoring conditioner' (condicionador), o do meio é 'revitalizing shampoo' (xampu), e o da direita é 'nourishing lotion' (loção).",
+    "gabarito_descritivo": "Da esquerda para a direita, os produtos são: é 'restoring conditioner' (condicionador), 'revitalizing shampoo' (xampu), 'nourishing lotion' (loção).",
     "fatos_chave": [
-      {"fato": "Esquerda", "valor": "conditioner", "sinonimos": ["condicionador"]},
+      {"fato": "Esquerda", "valor": "condicionador", "sinonimos": ["conditioner"]},
       {"fato": "Meio", "valor": "shampoo", "sinonimos": ["xampu"]},
       {"fato": "Direita", "valor": "lotion", "sinonimos": ["loção"]}
     ]
@@ -83,7 +83,7 @@
   {
     "arquivo_imagem": "VizWiz_train_00001096.jpg",
     "pergunta": "Cor é essa?",
-    "gabarito_descritivo": "É um tom de vermelho escuro. Pode ser descrito como cor de vinho ou bordô.",
+    "gabarito_descritivo": "A cor da camisa é um tom de vermelho escuro. Pode ser descrito como cor de vinho ou bordô.",
     "fatos_chave": [
       {"fato": "Cor", "valor": "vermelho", "sinonimos": ["vinho", "bordô", "vermelho escuro"]}
     ]
@@ -91,7 +91,7 @@
   {
     "arquivo_imagem": "VizWiz_train_00001174.jpg",
     "pergunta": "Pode me descrever o design dessa camisa?",
-    "gabarito_descritivo": "O design da camisa consiste em uma estampa de várias borboletas coloridas sobre um fundo de camiseta branca. As borboletas são de tamanhos diferentes e estão espalhadas pelo centro da camisa.",
+    "gabarito_descritivo": "O design da camisa é composto por uma estampa de várias borboletas coloridas sobre o fundo branco da camisa. As borboletas são de tamanhos e cores diferentes e estão espalhadas pelo centro da camisa.",
     "fatos_chave": [
       {"fato": "Objeto", "valor": "camisa", "sinonimos": ["camiseta"]},
       {"fato": "Cor de Fundo", "valor": "branca", "sinonimos": ["branco"]},
@@ -232,12 +232,10 @@
   {
     "arquivo_imagem": "buscopan.jpeg",
     "pergunta": "Que caixa é essa?",
-    "gabarito_descritivo": "É a caixa de um medicamento chamado Buscoduo. É uma caixa laranja indicada para 'Dor e cólica da barriga'. A composição é butilbrometo de escopolamina 10mg e paracetamol 500mg. A embalagem informa que ele tem 'Dupla Ação: Analgésica e Antiespasmódica' e contém 20 comprimidos.",
+    "gabarito_descritivo": "É a caixa de um medicamento chamado Buscoduo. A composição informada na caixa é butilbrometo de escopolamina 10mg e paracetamol 500mg. A embalagem informa que ele tem 'Dupla Ação: Analgésica e Antiespasmódica' e contém 20 comprimidos.",
     "fatos_chave": [
       {"fato": "Produto", "valor": "Buscoduo", "sinonimos": []},
       {"fato":"Tipo", "valor": "medicamento", "sinonimos": ["remédio"]},
-      {"fato": "Cor", "valor": "laranja", "sinonimos": ["alaranjada"]},
-      {"fato": "Indicação", "valor": "Dor e cólica da barriga", "sinonimos": ["cólica", "dor na barriga"]},
       {"fato": "Ingrediente 1", "valor": "butilbrometo de escopolamina", "sinonimos": ["escopolamina"]},
       {"fato": "Dosagem 1", "valor": "10mg", "sinonimos": []},
       {"fato": "Ingrediente 2", "valor": "paracetamol", "sinonimos": []},
@@ -260,7 +258,7 @@
   {
     "arquivo_imagem": "cupom_fiscal_eletronico.jpg",
     "pergunta": "Qual o valor total?",
-    "gabarito_descritivo": "O valor total que consta no cupom fiscal, na linha 'Total R$', é de 207,88.",
+    "gabarito_descritivo": "O valor total é de 207,88.",
     "fatos_chave": [
       {"fato": "Valor", "valor": "207,88", "sinonimos": ["207.88", "duzentos e sete e oitenta e oito"]},
       {"fato": "Campo", "valor": "Total R$", "sinonimos": ["total"]}
@@ -269,7 +267,7 @@
   {
     "arquivo_imagem": "cupom_fiscal.jpg",
     "pergunta": "Qual o valor total?",
-    "gabarito_descritivo": "O valor total no cupom fiscal, na linha 'Total R$', é de 14,00. O subtotal foi de 15,56, mas houve um desconto de 1,56.",
+    "gabarito_descritivo": "O valor total é de 14,00. O subtotal foi de 15,56, mas houve um desconto de 1,56.",
     "fatos_chave": [
       {"fato": "Valor", "valor": "14,00", "sinonimos": ["14.00", "catorze reais"]},
       {"fato": "Campo", "valor": "Total R$", "sinonimos": ["total"]},
@@ -279,23 +277,22 @@
   {
     "arquivo_imagem": "direcao_placas_hospital.jpeg",
     "pergunta": "Para onde está apontando a saída?",
-    "gabarito_descritivo": "A placa de 'Saída', que está associada à linha de cor rosa, aponta para a direita (->), seguindo adiante pelo corredor.",
+    "gabarito_descritivo": "A placa de Saída, indicada pela linha de cor rosa, aponta para a direita, seguindo em frente pelo corredor.",
     "fatos_chave": [
-      {"fato": "Direção", "valor": "direita", "sinonimos": ["para a direita", "adiante", "seguindo o corredor"]},
+      {"fato": "Direção", "valor": "direita", "sinonimos": ["para a direita", "adiante", "seguindo o corredor", "em frente"]},
       {"fato": "Placa", "valor": "Saída", "sinonimos": []},
-      {"fato": "Cor associada", "valor": "rosa", "sinonimos": ["linha rosa", "pink"]}
+      {"fato": "Cor associada", "valor": "rosa", "sinonimos": ["linha rosa"]}
     ]
   },
   {
     "arquivo_imagem": "encontra_cha_de_camomila_maracuja.jpeg",
     "pergunta": "Encontra o chá de camomila com maracujá pra mim",
-    "gabarito_descritivo": "É o chá da caixa azul que está mais a direita, ao lado dos pacotes de bolacha. É da marca Leão, da linha 'Relaxa', e na lateral da caixa estão listados os ingredientes 'Camomila, Maracujá'.",
+    "gabarito_descritivo": "O chá de camomila com maracujá está mais a direita, ao lado dos pacotes de bolacha. É uma caixa azul da marca Leão, e na lateral da caixa estão listados os ingredientes 'Camomila e Maracujá'.",
     "fatos_chave": [
       {"fato": "Posição", "valor": "direita", "sinonimos": ["mais a direita", "canto direito"]},
       {"fato": "Cor", "valor": "azul", "sinonimos": ["caixa azul"]},
-      {"fato": "Referência de Localização", "valor": "ao lado dos pacotes de bolacha", "sinonimos": ["perto das bolachas"]},
+      {"fato": "Referência de Localização", "valor": "ao lado dos pacotes de bolacha", "sinonimos": ["perto das bolachas", "em cima do cesto", "prateleira de cima"]},
       {"fato": "Marca", "valor": "Leão", "sinonimos": []},
-      {"fato": "Linha", "valor": "Relaxa", "sinonimos": []},
       {"fato": "Sabor 1", "valor": "Camomila", "sinonimos": []},
       {"fato": "Sabor 2", "valor": "Maracujá", "sinonimos": []}
     ]
@@ -314,21 +311,19 @@
   {
     "arquivo_imagem": "faixa_pedestre.jpg",
     "pergunta": "Tem uma faixa onde quero atravessar?",
-    "gabarito_descritivo": "Sim, a imagem mostra claramente uma faixa de pedestres com listras brancas pintadas no asfalto, pronta para atravessar a rua. Ela está conectada a uma rampa de acessibilidade na calçada, que possui piso tátil amarelo.",
+    "gabarito_descritivo": "Sim, a imagem mostra claramente uma faixa de pedestres. Ela está conectada a uma rampa de acessibilidade na calçada, que possui piso tátil amarelo.",
     "fatos_chave": [
       {"fato": "Resposta", "valor": "Sim", "sinonimos": ["tem", "claro", "mostra"]},
       {"fato": "Objeto", "valor": "faixa de pedestres", "sinonimos": ["faixa", "faixa para atravessar"]},
-      {"fato": "Cor", "valor": "brancas", "sinonimos": ["listras brancas"]},
       {"fato": "Contexto", "valor": "piso tátil", "sinonimos": ["rampa de acessibilidade", "piso amarelo", "calçada"]}
     ]
   },
   {
     "arquivo_imagem": "gescom_nota_fiscal.jpg",
     "pergunta": "Qual foi o valor pago?",
-    "gabarito_descritivo": "O valor pago, que consta na linha 'VALOR PAGO R$', foi de 24,00. O valor total da compra era 23,85 e o troco foi de 0,15.",
+    "gabarito_descritivo": "O valor pago, foi de 24,00. O valor total da compra era 23,85 e o troco foi de 0,15.",
     "fatos_chave": [
       {"fato": "Valor", "valor": "24,00", "sinonimos": ["24.00", "vinte e quatro reais"]},
-      {"fato": "Campo", "valor": "VALOR PAGO R$", "sinonimos": ["valor pago"]},
       {"fato": "Valor Total", "valor": "23,85", "sinonimos": []},
       {"fato": "Troco", "valor": "0,15", "sinonimos": []}
     ]
@@ -336,33 +331,32 @@
   {
     "arquivo_imagem": "placa_SQS113.jpeg",
     "pergunta": "O que diz a placa?",
-    "gabarito_descritivo": "A placa é um mapa e diretório da SQS 113 (Superquadra Sul), em Brasília. Na parte de cima, ela mostra o mapa da superquadra com a localização dos blocos (de A a K) e locais de interesse, como a 'Quadra de Esportes' e o 'Centro de Ensino Fundamental'. Há um marcador 'Você está aqui' próximo ao bloco A. Na parte de baixo, há um mapa maior do Plano Piloto, mostrando onde a SQS 113 se localiza na Asa Sul, e legendas para Metrô e Parada de Ônibus.",
+    "gabarito_descritivo": "A placa mostra um mapa da SQS 113 (Superquadra Sul), em Brasília. Na parte de cima, ela mostra o mapa da superquadra com a localização dos blocos (de A a K) e locais de interesse, como a 'Quadra de Esportes' e o 'Centro de Ensino Fundamental'. Há um marcador 'Você está aqui' próximo ao bloco A. Na parte de baixo, há um mapa maior do Plano Piloto, mostrando onde a SQS 113 se localiza na Asa Sul",
     "fatos_chave": [
       {"fato": "Localização", "valor": "SQS 113", "sinonimos": ["Superquadra Sul 113"]},
-      {"fato": "Tipo", "valor": "mapa", "sinonimos": ["diretório", "placa de localização"]},
+      {"fato": "Tipo", "valor": "mapa", "sinonimos": ["placa de localização"]},
       {"fato": "Conteúdo 1", "valor": "mapa dos blocos", "sinonimos": ["blocos A", "blocos K"]},
       {"fato": "Conteúdo 2", "valor": "mapa do Plano Piloto", "sinonimos": ["mapa da Asa Sul", "mapa de Brasília"]},
       {"fato": "Local Específico", "valor": "Centro de Ensino Fundamental", "sinonimos": []},
       {"fato": "Local Específico", "valor": "Quadro de Esportes", "sinonimos": []},
-      {"fato": "Indicador", "valor": "Você está aqui", "sinonimos": []},
-      {"fato": "Legenda", "valor": "Metrô", "sinonimos": []}
+      {"fato": "Indicador", "valor": "Você está aqui", "sinonimos": []}
     ]
   },
   {
     "arquivo_imagem": "pomada.jpeg",
     "pergunta": "Que remédio é esse?",
-    "gabarito_descritivo": "É um pote de 'Pomada Vovô Pedro'. De acordo com o rótulo, é um produto de 'USO EXTERNO' e de 'DISTRIBUIÇÃO GRATUITA'. O rótulo também menciona ser uma 'atribuição espiritual' da 'Espirita Maria Nunes - BH / MG', indicando que é provavelmente uma pomada de uso popular ou espiritual, e não um medicamento farmacêutico convencional.",
+    "gabarito_descritivo": "É um pote de 'Pomada Vovô Pedro'. De acordo com o rótulo, é um produto de 'USO EXTERNO' e de 'DISTRIBUIÇÃO GRATUITA'. O rótulo também menciona ser espiritual em poder da Espirita Maria Nunes - BH / MG, indicando que é provavelmente uma pomada de uso popular ou espiritual, e não um medicamento farmacêutico convencional.",
     "fatos_chave": [
       {"fato": "Produto", "valor": "Pomada Vovô Pedro", "sinonimos": ["pomada"]},
       {"fato": "Uso", "valor": "USO EXTERNO", "sinonimos": ["externo"]},
       {"fato": "Custo", "valor": "DISTRIBUIÇÃO GRATUITA", "sinonimos": ["grátis", "gratuita"]},
-      {"fato": "Origem", "valor": "Espirita Maria Nunes - BH / MG", "sinonimos": ["Belo Horizonte"]}
+      {"fato": "Atribuição", "valor": "Espiritual", "sinonimos": [""]}
     ]
   },
   {
     "arquivo_imagem": "propolis_imagem_cortada.jpeg",
     "pergunta": "Que remédio é esse?",
-    "gabarito_descritivo": "É um frasco de extrato de própolis, da marca Flora (visível no logo à esquerda). O rótulo está parcialmente cortado, mas mostra '...DE PRÓPOLIS' e o selo do S.I.F. (Serviço de Inspeção Federal) do Ministério da Agricultura do Brasil.",
+    "gabarito_descritivo": "É um frasco de extrato de própolis, da marca Flora. O rótulo está parcialmente cortado na imagem, mas mostra '...DE PRÓPOLIS'.",
     "fatos_chave": [
       {"fato": "Produto", "valor": "Própolis", "sinonimos": ["extrato de própolis"]},
       {"fato": "Marca", "valor": "Flora", "sinonimos": []},
@@ -389,7 +383,7 @@
   {
     "arquivo_imagem": "sulfadiazina_de_prata.jpeg",
     "pergunta": "Que remédio é esse?",
-    "gabarito_descritivo": "É a caixa de um Medicamento Genérico (indicado pelo 'G' amarelo). O remédio é Sulfadiazina de Prata, um creme dermatológico para uso tópico com dosagem de 10 mg/g. A caixa contém 30 g e é para uso adulto e pediátrico acima de 2 meses. É um medicamento de venda sob prescrição médica, com retenção da receita.",
+    "gabarito_descritivo": "É um medicamento genérico. O remédio é Sulfadiazina de Prata, um creme dermatológico para uso tópico com dosagem de 10 mg/g. A caixa contém 30 g e é para uso adulto e pediátrico acima de 2 meses. É um medicamento de venda sob prescrição médica, com retenção da receita.",
     "fatos_chave": [
       {"fato": "Medicamento", "valor": "sulfadiazina de prata", "sinonimos": []},
       {"fato": "Tipo", "valor": "Medicamento Genérico", "sinonimos": ["genérico", "G"]},
@@ -403,7 +397,7 @@
   {
     "arquivo_imagem": "tabela_climatica.png",
     "pergunta": "Qual a previsão do tempo para quinta-feira?",
-    "gabarito_descritivo": "A previsão do tempo para quinta-feira, de acordo com a tabela, é de sol com vento (ou ventoso). A temperatura mínima será de 27° e a máxima será de 32°.",
+    "gabarito_descritivo": "A previsão para quinta-feira, de acordo com a tabela, é de sol com vento, com temperatura mínima de 27° e a máxima de 32°.",
     "fatos_chave": [
       {"fato": "Dia", "valor": "Quinta-feira", "sinonimos": ["Quinta"]},
       {"fato": "Tempo", "valor": "vento", "sinonimos": ["ventoso", "sol com vento", "dia de sol com vento"]},
@@ -414,7 +408,7 @@
   {
     "arquivo_imagem": "tabela_precos.png",
     "pergunta": "Leia essa tabela inteira para mim",
-    "gabarito_descritivo": "A tabela mostra uma lista de produtos e seus preços. Os itens são: Chocolate em barra por R$ 0,50; Maçã por R$ 1,00; Banana por R$ 0,70; Biscoito por R$ 3,00; Pão com queijo por R$ 1,50; Pão com geleia por R$ 1,20; Granola por R$ 2,50; e Suco de laranja por R$ 1,75.",
+    "gabarito_descritivo": "Os itens na tabela são: Chocolate em barra por R$ 0,50; Maçã por R$ 1,00; Banana por R$ 0,70; Biscoito por R$ 3,00; Pão com queijo por R$ 1,50; Pão com geleia por R$ 1,20; Granola por R$ 2,50; e Suco de laranja por R$ 1,75.",
     "fatos_chave": [
       {"fato": "Item", "valor": "Chocolate em barra - R$ 0,50", "sinonimos": ["0.50"]},
       {"fato": "Item", "valor": "Maçã - R$ 1,00", "sinonimos": ["1.00"]},
@@ -458,9 +452,8 @@
   {
     "arquivo_imagem": "VizWiz_train_00000132.jpg",
     "pergunta": "O que diz esta camisa?",
-    "gabarito_descritivo": "A camisa é verde e tem um texto em branco que diz 'sight connection', com um logo de três folhas estilizadas. Abaixo do texto principal, há uma tagline que diz 'living well with vision loss', que significa 'vivendo bem com a perda de visão'.",
+    "gabarito_descritivo": "A camisa diz 'sight connection', com um logo de três folhas estilizadas. Abaixo do texto principal, há um texto que diz 'living well with vision loss', que significa 'vivendo bem com a perda de visão'.",
     "fatos_chave": [
-      {"fato": "Cor da camisa", "valor": "verde", "sinonimos": ["camisa verde"]},
       {"fato": "Texto 1", "valor": "sight", "sinonimos": []},
       {"fato": "Texto 2", "valor": "connection", "sinonimos": []},
       {"fato": "Logo", "valor": "folhas", "sinonimos": ["folha", "broto"]},
@@ -482,23 +475,10 @@
   {
     "arquivo_imagem": "VizWiz_train_00000241.jpg",
     "pergunta": "Quantos andares tem o edifício à frente?",
-    "gabarito_descritivo": "O edifício à frente tem 8 andares (contando a partir do nível visível acima das árvores).",
+    "gabarito_descritivo": "O edifício à frente tem 8 andares contando a partir do nível visível acima das árvores.",
     "fatos_chave": [
       {"fato": "Contagem", "valor": "8", "sinonimos": ["oito"]},
       {"fato": "Objeto", "valor": "andares", "sinonimos": ["pisos", "pavimentos"]}
-    ]
-  },
-  {
-    "arquivo_imagem": "VizWiz_train_00000006.jpg",
-    "pergunta": "O que tá dentro dessa garrafa?",
-    "gabarito_descritivo": "Dentro da garrafa há um enxaguante bucal antisséptico da marca Equate. É da linha 'Advanced', com proteção contra tártaro e sabor 'Citrus'. O líquido dentro da garrafa é de cor laranja.",
-    "fatos_chave": [
-      {"fato": "Produto", "valor": "enxaguante bucal", "sinonimos": ["antisséptico bucal", "mouthrinse"]},
-      {"fato": "Marca", "valor": "Equate", "sinonimos": []},
-      {"fato": "Linha", "valor": "Advanced", "sinonimos": []},
-      {"fato": "Sabor", "valor": "Citrus", "sinonimos": []},
-      {"fato": "Função", "valor": "Tartar Protection", "sinonimos": ["proteção contra tártaro"]},
-      {"fato": "Cor", "valor": "laranja", "sinonimos": ["líquido laranja", "alaranjado"]}
     ]
   },
   {
@@ -515,13 +495,11 @@
   {
     "arquivo_imagem": "VizWiz_train_00000044.jpg",
     "pergunta": "O que é isso, por favor?",
-    "gabarito_descritivo": "É a embalagem de uma refeição pronta ou congelada de Frango Agridoce. É da marca Weight Watchers from HEINZ', da linha 'Signature Range'. A descrição diz que é 'Frango ao molho agridoce com arroz e vegetais'. O rótulo também destaca que tem 1.4g de gordura.",
+    "gabarito_descritivo": "É a embalagem de uma refeição pronta ou congelada de Frango Agridoce. A imagem está cortada mas parece ser da marca HEINZ. A descrição diz que é 'Frango ao molho agridoce com arroz e vegetais'. O rótulo também destaca que tem 1.4g de gordura.",
     "fatos_chave": [
       {"fato": "Objeto", "valor": "refeição", "sinonimos": ["refeição pronta", "embalagem de comida"]},
       {"fato": "Prato", "valor": "Sweet & Sour Chicken", "sinonimos": ["Frango Agridoce"]},
-      {"fato": "Marca 1", "valor": "Weight Watchers", "sinonimos": []},
-      {"fato": "Marca 2", "valor": "HEINZ", "sinonimos": []},
-      {"fato": "Linha", "valor": "Signature Range", "sinonimos": []},
+      {"fato": "Marca", "valor": "HEINZ", "sinonimos": []},
       {"fato": "Conteúdo", "valor": "Chicken in a sweet & sour sauce", "sinonimos": ["Frango ao molho agridoce"]},
       {"fato": "Info Nutricional", "valor": "1.4g FAT", "sinonimos": ["1.4g de gordura"]}
     ]
@@ -529,7 +507,7 @@
   {
     "arquivo_imagem": "VizWiz_train_00000061.jpg",
     "pergunta": "Que tipo de chips são esses?",
-    "gabarito_descritivo": "São chips de tortilla de milho. A marca é 'Garden of Eatin'' e o pacote informa que eles são 'Made with Organic Blue Corn' (feitos com milho azul orgânico).",
+    "gabarito_descritivo": "São chips de tortilla de milho. A marca é 'Garden of Eatin' e o pacote informa que eles são 'Made with Organic Blue Corn' (feitos com milho azul orgânico).",
     "fatos_chave": [
       {"fato": "Nome", "valor": "Blue Chips", "sinonimos": []},
       {"fato": "Tipo", "valor": "Corn Tortilla Chips", "sinonimos": ["chips de tortilla de milho", "chips de milho"]},
@@ -550,7 +528,7 @@
   {
     "arquivo_imagem": "VizWiz_train_00000152.jpg",
     "pergunta": "O que tem nessa garrafa?",
-    "gabarito_descritivo": "Dentro da garrafa há um suplemento de Melatonina. É da marca Nature's Bounty e a embalagem indica que é um '100% Drug Free Sleep Aid' (auxílio para dormir 100% livre de drogas) e contém um ingrediente clinicamente estudado.",
+    "gabarito_descritivo": "Dentro da garrafa há um suplemento de Melatonina. É da marca Nature's Bounty e a embalagem indica que é um '100% Drug Free Sleep Aid' (auxílio para dormir 100% livre de drogas) e diz ter um ingrediente clinicamente estudado.",
     "fatos_chave": [
       {"fato": "Produto", "valor": "Melatonin", "sinonimos": ["Melatonina"]},
       {"fato": "Marca", "valor": "Nature's Bounty", "sinonimos": []},
@@ -561,7 +539,7 @@
   {
     "arquivo_imagem": "VizWiz_train_00000179.jpg",
     "pergunta": "O que é a imagem no captcha?",
-    "gabarito_descritivo": "A imagem no captcha, que está localizada acima do campo 'CAPTCHA Code', exibe o texto 'RF7L' (ou 'RF7L'). Os caracteres estão distorcidos e têm um risco diagonal sobre eles.",
+    "gabarito_descritivo": "A imagem no captcha, que está localizada acima do campo 'CAPTCHA Code', exibe o texto RF7L. Os caracteres estão distorcidos e têm um risco diagonal sobre eles.",
     "fatos_chave": [
       {"fato": "Texto", "valor": "RF7L", "sinonimos": []},
       {"fato": "Tipo", "valor": "captcha", "sinonimos": []}
@@ -586,18 +564,6 @@
     "pergunta": "Qual o sabor desse jantar?",
     "gabarito_descritivo": "A imagem está cortada e não é possível ler a embalagem inteira, mas parece ser um ravioli de frango e espinafre, coberto com molho.",
     "fatos_chave": [
-      {"fato": "Sabor 1", "valor": "Ricotta", "sinonimos": ["Ricota"]},
-      {"fato": "Sabor 2", "valor": "Chicken", "sinonimos": ["Frango"]},
-      {"fato": "Prato", "valor": "Ravioli", "sinonimos": []},
-      {"fato": "Marca", "valor": "Top Chef", "sinonimos": []},
-      {"fato": "Ingrediente", "valor": "Spinach", "sinonimos": ["Espinafre"]}
-    ]
-  },
-  {
-    "arquivo_imagem": "VizWiz_train_00000259.jpg",
-    "pergunta": "Qual o sabor desse jantar?",
-    "gabarito_descritivo": "A imagem está cortada e não é possível ler a embalagem inteira, mas parece ser um ravioli de frango e espinafre, coberto com molho.",
-    "fatos_chave": [
       {"fato": "Prato", "valor": "ravioli", "sinonimos": []},
       {"fato": "Ingrediente 1", "valor": "frango", "sinonimos": ["chicken"]},
       {"fato": "Ingrediente 2", "valor": "espinafre", "sinonimos": ["spinach"]},
@@ -611,8 +577,7 @@
     "gabarito_descritivo": "A data está no topo da caixa, perto da tampa e diz 10 de outubro, mas parece que o ano está atrás da tampa e não da para ler na imagem.",
     "fatos_chave": [
       {"fato": "Data", "valor": "10 de outubro", "sinonimos": ["Outubro 10", "OCT 10"]},
-      {"fato": "Localização", "valor": "topo da caixa", "sinonimos": ["perto da tampa"]},
-      {"fato": "Informação Ilegível", "valor": "ano", "sinonimos": ["o ano não da para ler", "ano atrás da tampa"]}
+      {"fato": "Localização", "valor": "topo da caixa", "sinonimos": ["perto da tampa"]}
     ]
   },
   {
@@ -642,17 +607,17 @@
   {
     "arquivo_imagem": "VizWiz_train_00000312.jpg",
     "pergunta": "O que é isso?",
-    "gabarito_descritivo": "É uma lata de 'Pot Pie' (torta de lata). A lata está em um balcão ao lado de um fogão preto.",
+    "gabarito_descritivo": "É uma lata de Pot Pie, que pode ser traduzido para empada. A lata está deitada entre um fogão preto e uma bancada de madeira.",
     "fatos_chave": [
       {"fato": "Objeto", "valor": "lata", "sinonimos": ["lata de comida"]},
-      {"fato": "Produto", "valor": "Pot Pie", "sinonimos": ["torta de lata"]},
-      {"fato": "Contexto", "valor": "fogão", "sinonimos": ["ao lado de um fogão"]}
+      {"fato": "Produto", "valor": "Pot Pie", "sinonimos": ["empada", "empadão"]},
+      {"fato": "Contexto", "valor": "fogão", "sinonimos": ["ao lado de um fogão", "entre um fogão e uma bancada"]}
     ]
   },
   {
     "arquivo_imagem": "VizWiz_train_00000313.jpg",
     "pergunta": "O que está na minha frente e da parede?",
-    "gabarito_descritivo": "Na sua frente está o chão, que é coberto por um carpete verde (ou verde-azulado). Perto da parede ao fundo, há uma estante grande de madeira com uma televisão em cima, um baú de armazenamento escuro ao lado, e parte de um sofá vermelho e verde.",
+    "gabarito_descritivo": "Na sua frente está o chão, que é coberto por um carpete verde. Perto da parede ao fundo, há uma estante grande de madeira com uma televisão dentro. Ao lado da estante há um baú, ou caixa escura com objetos dentro.",
     "fatos_chave": [
       {"fato": "No Chão", "valor": "carpete verde", "sinonimos": ["chão verde", "carpete azul-petróleo"]},
       {"fato": "Na Parede 1", "valor": "estante", "sinonimos": ["móvel de madeira", "rack"]},
@@ -664,35 +629,34 @@
   {
     "arquivo_imagem": "VizWiz_train_00000333.jpg",
     "pergunta": "De que cor é esse sweater?",
-    "gabarito_descritivo": "O sweater não é de uma cor só, ele é listrado. As cores das listras que aparecem na foto são um tom de vermelho escuro (como vinho ou bordô), um rosa bem vivo (pink ou fúcsia) e cinza claro.",
+    "gabarito_descritivo": "O sweater é listrado. As cores das listras que aparecem na foto são um tom de vermelho escuro (como vinho ou bordô), um rosa bem vivo e cinza claro.",
     "fatos_chave": [
       {"fato": "Objeto", "valor": "sweater", "sinonimos": ["suéter", "malha"]},
       {"fato": "Padrão", "valor": "listrado", "sinonimos": ["listras"]},
       {"fato": "Cor 1", "valor": "vermelho escuro", "sinonimos": ["vinho", "bordô"]},
-      {"fato": "Cor 2", "valor": "rosa", "sinonimos": ["pink", "fúcsia", "rosa vivo"]},
+      {"fato": "Cor 2", "valor": "rosa", "sinonimos": ["rosa vivo"]},
       {"fato": "Cor 3", "valor": "cinza", "sinonimos": ["cinza claro"]}
     ]
   },
   {
     "arquivo_imagem": "VizWiz_train_00000335.jpg",
     "pergunta": "De que cor são essas três gravatas?",
-    "gabarito_descritivo": "Da esquerda para a direita: a primeira é cinza chumbo, com um padrão de quadrados; a segunda é azul bebê (ou lilás) com o mesmo padrão de quadrados da primeira; e a terceira é um azul ou roxo bem escuro com um padrão de pequenos losangos brancos e amarelos.",
+    "gabarito_descritivo": "Da esquerda para a direita: a primeira é cinza chumbo, com um padrão de quadrados; a segunda é azul bebê, ou lilás, com o mesmo padrão de quadrados da primeira; e a terceira é um azul ou roxo bem escuro com um padrão de pequenos losangos brancos e amarelos.",
     "fatos_chave": [
-      {"fato": "Cor 1 (Esquerda)", "valor": "cinza chumbo", "sinonimos": ["cinza"]},
+      {"fato": "Cor 1", "valor": "cinza chumbo", "sinonimos": ["cinza"]},
       {"fato": "Padrão 1", "valor": "padrão de quadrados", "sinonimos": []},
-      {"fato": "Cor 2 (Meio)", "valor": "azul bebê", "sinonimos": ["lilás"]},
+      {"fato": "Cor 2", "valor": "azul bebê", "sinonimos": ["lilás"]},
       {"fato": "Padrão 2", "valor": "mesmo padrão de quadrados", "sinonimos": []},
-      {"fato": "Cor 3 (Direita)", "valor": "azul ou roxo bem escuro", "sinonimos": ["azul escuro", "roxo escuro"]},
+      {"fato": "Cor 3", "valor": "azul ou roxo bem escuro", "sinonimos": ["azul escuro", "roxo escuro"]},
       {"fato": "Padrão 3", "valor": "pequenos losangos brancos e amarelos", "sinonimos": ["losangos"]}
     ]
   },
   {
     "arquivo_imagem": "VizWiz_train_00000351.jpg",
     "pergunta": "Qual é a data nesse leite?",
-    "gabarito_descritivo": "A data do leite está impressa impressa no topo da caixa e diz 'FEB 08 13'. Ela está ao lado do rótulo 'USE BY' (Consumir até), o que indica a data limite para consumo, que é 8 de fevereiro de 2013.",
+    "gabarito_descritivo": "A data do leite está impressa impressa no topo da caixa e diz 'FEB 08 13', que significa 8 de fevereiro de 2013.",
     "fatos_chave": [
       {"fato": "Data Completa", "valor": "FEB 08 13", "sinonimos": ["08 de Fevereiro de 2013"]},
-      {"fato": "Rótulo", "valor": "USE BY", "sinonimos": ["Consumir até"]},
       {"fato": "Mês", "valor": "FEB", "sinonimos": ["Fevereiro"]},
       {"fato": "Dia", "valor": "08", "sinonimos": ["dia 8"]},
       {"fato": "Ano", "valor": "13", "sinonimos": ["2013"]},
@@ -702,7 +666,7 @@
   {
     "arquivo_imagem": "VizWiz_train_00000370.jpg",
     "pergunta": "Leia essas instruções para mim",
-    "gabarito_descritivo": "As instruções de cozimento no micro-ondas ('MICROWAVE COOKING INSTRUCTIONS') são as seguintes: 'Mantenha congelado até estar pronto para usar' ('KEEP FROZEN UNTIL READY TO USE').\n1. Remova da caixa; perfure o filme.\n2. Cozinhe no micro-ondas em potência ALTA (HIGH) por 2 minutos.\n3. Remova o filme e mexa. Cozinhe no micro-ondas por mais 1 minuto ou até que o produto esteja fumegando.\n4. Deixe descansar por 1 minuto antes de servir. Aproveite!\nHá também um aviso: 'CUIDADO: O PRODUTO ESTARÁ QUENTE' ('CAUTION: PRODUCT WILL BE HOT').",
+    "gabarito_descritivo": "As instruções de cozimento no micro-ondas são as seguintes: Mantenha congelado até estar pronto para usar.\n1. Remova da caixa; perfure o filme.\n2. Cozinhe no micro-ondas em potência alta por 2 minutos.\n3. Remova o filme e mexa. Cozinhe no micro-ondas por mais 1 minuto ou até que o produto esteja fumegando.\n4. Deixe descansar por 1 minuto antes de servir. Aproveite!\nHá também um aviso: CUIDADO: O PRODUTO ESTARÁ QUENTE.",
     "fatos_chave": [
       {"fato": "Instrução 1", "valor": "Remove from carton", "sinonimos": ["Remova da caixa", "perfure o filme"]},
       {"fato": "Instrução 2", "valor": "Microwave on HIGH for 2 minutes", "sinonimos": ["micro-ondas por 2 minutos", "potência alta 2 minutos"]},
@@ -726,7 +690,7 @@
   {
     "arquivo_imagem": "VizWiz_train_00000420.jpg",
     "pergunta": "O que é essa refeição?",
-    "gabarito_descritivo": "É a embalagem de uma refeição pronta (provavelmente congelada). A imagem está de cabeça para baixo, embaçada e cortada, mas a embalagem parece ser 'Chicken in Peanut sauce' (Frango ao molho de amendoim).",
+    "gabarito_descritivo": "É a embalagem de uma refeição pronta, provavelmente congelada. A imagem está de cabeça para baixo, embaçada e cortada, mas a embalagem parece ser Chicken in Peanut sauce (Frango ao molho de amendoim).",
     "fatos_chave": [
       {"fato": "Objeto", "valor": "refeição pronta", "sinonimos": ["refeição congelada", "embalagem de comida"]},
       {"fato": "Qualidade da Imagem 1", "valor": "de cabeça para baixo", "sinonimos": ["invertida"]},
@@ -738,9 +702,9 @@
   {
     "arquivo_imagem": "VizWiz_train_00000428.jpg",
     "pergunta": "Que tipo de vitaminas são essas, por favor?",
-    "gabarito_descritivo": "A imagem está um pouco embaçada, mas o frasco em primeiro plano, que é o mais legível, é um suplemento da marca 'Nature Made'. O rótulo amarelo indica que o suplemento é de 'Calcium' (Cálcio) e 'Magnesium' (Magnésio). Os outros itens ao fundo estão muito fora de foco para serem identificados.",
+    "gabarito_descritivo": "A imagem está um pouco embaçada, mas o frasco mais próximo, que é o mais legível, é um suplemento da marca 'Nature Made'. O rótulo indica que o suplemento é de 'Calcium' (Cálcio) e 'Magnesium' (Magnésio). Os outros itens ao fundo estão muito fora de foco para serem identificados.",
     "fatos_chave": [
-      {"fato": "Objeto em Foco", "valor": "frasco em primeiro plano", "sinonimos": []},
+      {"fato": "Objeto em Foco", "valor": "frasco mais próximo", "sinonimos": []},
       {"fato": "Marca", "valor": "Nature Made", "sinonimos": ["...reMade"]},
       {"fato": "Suplemento 1", "valor": "Calcium", "sinonimos": ["Cálcio"]},
       {"fato": "Suplemento 2", "valor": "Magnesium", "sinonimos": ["Magnésio"]},
