@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000370.jpg",
+    "question_original_pt": "Leia essas instruções para mim",
+    "timestamp_sent_utc": "2025-11-11T21:18:54.571801",
+    "date": "2025-11-11",
+    "response": "Claro! As instruções de preparo no micro-ondas, traduzidas para o português, são as seguintes:\n\n**INSTRUÇÕES DE PREPARO NO MICRO-ONDAS**\n\nMANTENHA CONGELADO ATÉ ESTAR PRONTO PARA USAR.\n\n1.  **Retire da caixa; perfure a película plástica.**\n2.  **Aqueça no micro-ondas em potência ALTA por 2 minutos.**\n3.  **Remova a película e mexa. Aqueça no micro-ondas por mais 1 minuto** ou até que o produto esteja soltando vapor por completo.\n4.  **Deixe descansar por 1 minuto antes de servir.** Bom apetite!\n\n**CUIDADO: O PRODUTO ESTARÁ QUENTE. TIGELA DE USO ÚNICO.**\n\n---\n*Observação: As instruções foram desenvolvidas com base em um micro-ondas de 1100 watts. O tempo pode variar dependendo do aparelho.*",
+    "latency_seconds": 20.495020389556885
+}

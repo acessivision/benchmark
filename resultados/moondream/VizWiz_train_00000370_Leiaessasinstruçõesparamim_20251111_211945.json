@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000370.jpg",
+    "question_original_pt": "Leia essas instruções para mim",
+    "timestamp_sent_utc": "2025-11-11T21:18:54.571801",
+    "date": "2025-11-11",
+    "pergunta_translated_en": "Read these instructions to me",
+    "response_original_en": "1. Remove from carton and place in microwave-safe dish.\n2. Microwave on HIGH for 2 minutes.\n3. Remove from microwave and let stand 1 minute before serving.\n4. Caution: Product will be hot. Single use bowl.",
+    "response_translated_pt": "1. Retire da embalagem e coloque em um prato adequado para micro-ondas.\n2. Microondas em ALTA por 2 minutos.\n3. Retire do micro-ondas e deixe descansar por 1 minuto antes de servir.\n4. Cuidado: O produto estará quente. Tigela descartável.",
+    "latency_seconds": 1.9136338233947754
+}

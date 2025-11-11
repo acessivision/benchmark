@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000061.jpg",
+    "question_original_pt": "Que tipo de chips são esses?",
+    "timestamp_sent_utc": "2025-11-11T21:17:36.660615",
+    "date": "2025-11-11",
+    "pergunta_translated_en": "What kind of chips are these?",
+    "response_original_en": "These are blue corn tortilla chips.",
+    "response_translated_pt": "Estes são chips de tortilla de milho azul.",
+    "latency_seconds": 1.4834411144256592
+}

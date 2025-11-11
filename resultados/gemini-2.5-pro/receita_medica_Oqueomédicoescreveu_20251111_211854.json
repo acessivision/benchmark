@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-11T21:18:02.260719",
+    "date": "2025-11-11",
+    "response": "Com certeza! A caligrafia é um pouco difícil, mas é possível decifrar.\n\n**Importante:** Esta é uma transcrição para ajudar na leitura. **Sempre confirme a medicação e a dosagem com um farmacêutico ou com o próprio médico.**\n\nA receita médica diz o seguinte:\n\n---\n\n**Paciente:** Luzirique Figueiredo (o primeiro nome é de difícil leitura, mas parece ser este)\n\n**Uso Interno**\n\n**1) Dramin 300mg - VO - tomar 01 comp. de 8/8 hrs p/ aliviar os enjoos.**\n\n*   **Em outras palavras:** Tomar 1 (um) comprimido de Dramin 300mg, por via oral, a cada 8 horas, para aliviar os enjoos.\n\n**2) Buscopam composto gotas - VO - tomar 35 gts de 8/8 hrs em caso de dor ou febre.**\n\n*   **Em outras palavras:** Tomar 35 gotas de Buscopam Composto, por via oral, a cada 8 horas, se tiver dor ou febre.",
+    "latency_seconds": 21.547906398773193
+}

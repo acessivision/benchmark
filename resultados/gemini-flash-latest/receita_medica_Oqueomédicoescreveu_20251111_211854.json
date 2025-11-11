@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-11-11T21:18:02.260719",
+    "date": "2025-11-11",
+    "response": "Esta é uma receita médica excepcionalmente clara e legível.\n\nAqui está o que o médico escreveu:\n\n### HOSPITAL REGIONAL MANOEL DE SOUSA SANTOS\n\n**Paciente:** Luurique Figueiredo (ou Luiz Henrique Figueiredo, a caligrafia da assinatura é um pouco estilizada)\n\n**Uso Interno**\n\n**1) Dramin 100mg** – VO – tomar 01 comp. de 8/8 hrs p/ aliviar os enjoos.\n\n**2) Buscopam composto gotas** – VO – tomar 35 gts de 8/8 hrs em caso de dor ou febre.\n\n---\n\n### Resumo da Prescrição:\n\n1.  **Dramin 100mg**\n    *   **Uso:** Via Oral (VO)\n    *   **Posologia:** Tomar 1 comprimido (comp.)\n    *   **Frequência:** A cada 8 horas (8/8 hrs)\n    *   **Indicação:** Para aliviar os enjoos.\n    * *(Dramin é um medicamento antiemético, usado para tratar náuseas e vômitos.)*\n\n2.  **Buscopam Composto Gotas**\n    *   **Uso:** Via Oral (VO)\n    *   **Posologia:** Tomar 35 gotas (gts)\n    *   **Frequência:** A cada 8 horas (8/8 hrs)\n    *   **Indicação:** Em caso de dor ou febre.\n    * *(Buscopam Composto é uma combinação de antiespasmódico e analgésico, usado para cólicas e dores acompanhadas de febre.)*",
+    "latency_seconds": 5.734308958053589
+}
