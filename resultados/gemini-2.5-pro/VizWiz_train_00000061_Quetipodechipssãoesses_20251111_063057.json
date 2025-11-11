@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000061.jpg",
+    "question_original_pt": "Que tipo de chips são esses?",
+    "timestamp_sent_utc": "2025-11-11T06:30:16.415672",
+    "date": "2025-11-11",
+    "response": "Com base na imagem, esses são **Blue Chips** da marca **Garden of Eatin'**.\n\nSão **tortilla chips de milho** (Corn Tortilla Chips) feitos com **milho azul orgânico** (Made with Organic Blue Corn).",
+    "latency_seconds": 10.923832178115845
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000370.jpg",
+    "question_original_pt": "Leia essas instruções para mim",
+    "timestamp_sent_utc": "2025-11-11T06:31:48.541865",
+    "date": "2025-11-11",
+    "response": "Parece que esta é uma embalagem de comida congelada. Aqui estão as instruções visíveis na imagem:\n\n**Instruções de Cozimento no Micro-ondas:**\n1. Remova da embalagem.\n2. Perfure a película plástica.\n3. Cozinhe no micro-ondas em alta temperatura conforme indicado (não consigo ver todos os números e tempos claramente, mas verifique a embalagem para os detalhes exatos).\n4. Aguarde 1 minuto antes de consumir.\n\n**Cuidados:**\n- O produto estará quente.\n- Mantenha congelado até a hora de usar.\n- Não usar em forno convencional ou forno torradeira.\n\nCertifique-se de seguir as instruções para garantir a segurança e a qualidade do produto.",
+    "latency_seconds": 4.478884696960449
+}
