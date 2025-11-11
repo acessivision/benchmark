@@ -392,11 +392,41 @@ def main():
     print(f"📁 Total de fotos disponíveis: {len(all_photos)}")
 
     # Obtém as fotos do dia (sempre as mesmas para os 6 horários)
+    # ***NOTA: Esta linha ainda roda, mas será sobrescrita abaixo***
     photos_to_send_today = get_today_photos_to_send(all_photos)
 
-    print(f"\n📸 Fotos selecionadas para hoje ({date.today()}):")
+    print(f"\n📸 Fotos selecionadas (pela lógica original): {len(photos_to_send_today)}")
+    
+    # --- INÍCIO DA MODIFICAÇÃO TEMPORÁRIA (FORÇAR IMAGENS FALTANTES) ---
+    print("\n" + "="*60)
+    print("⚠️  MODO DE RE-ENVIO ATIVADO ⚠️")
+    print("Ignorando a seleção aleatória e forçando as 14 imagens faltantes.")
+
+    # Lista de imagens que a célula de debug reportou como faltantes
+    imagens_faltantes = [
+        "VizWiz_train_00000132.jpg",
+        "VizWiz_train_00000219.jpg",
+        "VizWiz_train_00000241.jpg",
+        "VizWiz_train_00000446.jpg",
+        "VizWiz_train_00001100.jpg",
+        "calendario.jpeg",
+        "cupom_fiscal_eletronico.jpg"
+    ]
+
+    # Sobrescreve a variável 'photos_to_send_today'
+    # Converte a lista de strings para uma lista de objetos Path
+    photos_to_send_today = [CAMINHO_IMAGENS / img_nome for img_nome in imagens_faltantes]
+
+    print(f"\n📸 As seguintes {len(photos_to_send_today)} fotos serão processadas:")
     for i, photo in enumerate(photos_to_send_today, 1):
-        print(f"   {i}. {photo.name}")
+        # Verifica se a foto realmente existe antes de tentar processar
+        if not photo.exists():
+            print(f"   {i}. {photo.name} (ERRO: ARQUIVO NÃO ENCONTRADO!)")
+        else:
+            print(f"   {i}. {photo.name} (OK)")
+    print("="*60 + "\n")
+    # --- FIM DA MODIFICAÇÃO TEMPORÁRIA ---
+
 
     # Carrega as perguntas
     try:
@@ -435,6 +465,16 @@ def main():
 
     # Processa cada foto do dia
     for photo_path in photos_to_send_today:
+        
+        # --- Adicionado Verificação de Existência ---
+        if not photo_path.exists():
+            print(f"\n{'='*60}")
+            print(f"📷 ERRO FATAL: Arquivo não encontrado em {photo_path}")
+            print(f"   Pulando esta imagem.")
+            print(f"{'='*60}")
+            continue
+        # --- Fim da Verificação ---
+
         # Busca as perguntas específicas para esta foto
         questions_for_photo = photo_questions_map.get(photo_path.name, [])
 
