@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T00:45:20.256738",
+    "date": "2025-11-12",
+    "response": "Com base na imagem, esta é uma foto de um ambiente interno, provavelmente um cômodo de uma casa.\n\nAqui estão os elementos principais:\n\n*   **Primeiro plano:** Uma superfície escura e brilhante, que parece ser uma mesa ou um balcão. Sobre ela, há um frasco branco com uma tampa roxa, semelhante a um pote de vitaminas ou suplementos.\n*   **Plano de fundo:** Uma parede de cor clara e uma janela dupla com persianas brancas. A luz que entra pela janela é muito forte, criando um grande contraste com o interior mais escuro do cômodo. O piso parece ser de cerâmica ou um material similar em tons de bege.\n\nA foto em si está um pouco escura e granulada, e o cômodo parece estar vazio ou com poucos móveis.",
+    "latency_seconds": 15.00139832496643
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T00:45:20.256738",
+    "date": "2025-11-12",
+    "response": "A imagem mostra um ambiente interno, provavelmente uma sala ou cozinha, com uma mesa ou bancada na frente. Em cima da superfície, há um pequeno recipiente, possivelmente um frasco ou lata, mas não dá para identificar o que é pelo rótulo. Além disso, há duas janelas ao fundo que permitem a entrada de luz natural no ambiente.",
+    "latency_seconds": 7.787611246109009
+}

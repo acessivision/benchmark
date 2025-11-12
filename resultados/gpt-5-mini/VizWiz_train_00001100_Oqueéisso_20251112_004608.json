@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T00:45:20.256738",
+    "date": "2025-11-12",
+    "response": "Parece um pequeno frasco cilíndrico com tampa roxa — tipo daqueles de comprimidos/vitaminas ou suplemento. A etiqueta está desfocada na foto, então não dá para ler o que tem escrito.\n\nQuer que eu tente identificar com mais precisão? Se sim, faça uma foto mais próxima e nítida da etiqueta.",
+    "latency_seconds": 5.612946510314941
+}
