@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T01:13:12.258661",
+    "date": "2025-11-12",
+    "response": "Com base na imagem, esta é uma fotografia de um ambiente interno. Aqui está uma descrição detalhada:\n\n*   **Primeiro plano:** Vemos a borda de uma mesa ou balcão de cor escura e superfície brilhante. Em cima dela, há um frasco cilíndrico branco com uma tampa roxa ou azul escura, semelhante a um pote de vitaminas ou suplementos.\n*   **Plano de fundo:** Ao fundo, há uma parede de cor clara e uma janela dupla com persianas brancas. A luz que entra pela janela é muito intensa, ofuscando a visão do exterior. O piso parece ser de azulejo ou laminado de cor bege claro.\n*   **Composição geral:** A foto foi tirada de um ângulo baixo, focando na mesa e no frasco. A iluminação é de alto contraste, com a área da janela muito clara e o primeiro plano bastante escuro. O cômodo parece estar vazio ou com poucos móveis.",
+    "latency_seconds": 14.736745119094849
+}

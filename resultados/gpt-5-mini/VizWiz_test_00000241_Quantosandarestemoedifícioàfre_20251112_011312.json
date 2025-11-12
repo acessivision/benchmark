@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-12T01:12:16.043074",
+    "date": "2025-11-12",
+    "response": "Contando os pavimentos visíveis (incluindo o térreo), são 8 andares.",
+    "latency_seconds": 7.790254592895508
+}
