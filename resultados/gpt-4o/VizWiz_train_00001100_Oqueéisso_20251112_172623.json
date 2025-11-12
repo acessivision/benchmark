@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T17:23:19.129689",
+    "date": "2025-11-12",
+    "response": "A imagem mostra um frasco ou pote em cima de uma superfície. Está perto de uma janela com persianas. A foto está um pouco escura e desfocada, então não dá para identificar exatamente o que é o frasco. Pode ser um pote de suplemento, de especiarias ou de medicamentos.",
+    "latency_seconds": 102.58597922325134
+}

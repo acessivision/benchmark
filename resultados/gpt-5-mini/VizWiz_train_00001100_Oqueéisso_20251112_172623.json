@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T17:23:19.129689",
+    "date": "2025-11-12",
+    "response": "Parece ser um frasco de comprimidos/suplemento (um pote pequeno com tampa roxa) apoiado no topo de um eletrodoméstico. A imagem está um pouco desfocada, então não dá para ler o rótulo. Quer que eu recorte/amplie a área do frasco ou que envie uma foto mais próxima do rótulo para identificar melhor?",
+    "latency_seconds": 10.707268238067627
+}

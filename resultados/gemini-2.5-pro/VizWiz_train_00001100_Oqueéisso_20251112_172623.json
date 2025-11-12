@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T17:23:19.129689",
+    "date": "2025-11-12",
+    "response": "Com base na imagem, esta é a descrição do que pode ser visto:\n\nEsta é uma foto tirada de dentro de um cômodo, provavelmente uma casa ou apartamento.\n\nEm primeiro plano, há uma superfície escura e brilhante, que parece ser o canto de uma mesa ou um balcão. Sobre essa superfície, há:\n\n*   **Um frasco branco com tampa roxa:** É o objeto mais proeminente. Parece ser um pote de suplementos, vitaminas ou algum produto similar. O rótulo é visível, mas o texto não está nítido.\n*   **Um objeto preto em forma de anel:** Está um pouco mais ao fundo, sobre a mesa.\n\nAo fundo, podemos ver:\n\n*   **Uma parede branca.**\n*   **Duas janelas com persianas brancas:** A luz do dia entra com força pelas janelas, o que faz com que a parte da frente da foto (a mesa) fique escura (em contraluz). Através da janela da direita, é possível ver a silhueta de algumas árvores ou plantas.\n*   **O chão:** Parece ser de azulejo ou cerâmica em um tom claro, talvez bege.\n\nEm resumo, é uma foto do interior de um ambiente doméstico, com foco em um frasco sobre uma mesa, tendo uma janela bem iluminada ao fundo.",
+    "latency_seconds": 52.01075339317322
+}
