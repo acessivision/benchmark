@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T21:21:32.523986",
+    "date": "2025-11-12",
+    "response": "A imagem está um pouco escura, mas parece mostrar um frasco ou recipiente no topo de uma superfície, que pode ser uma mesa ou bancada. Não é possível identificar exatamente o que é o frasco só pela imagem.",
+    "latency_seconds": 3.515002965927124
+}

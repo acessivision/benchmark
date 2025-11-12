@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "calendario.jpeg",
+    "question_original_pt": "Quais os feriados desse mês",
+    "timestamp_sent_utc": "2025-11-12T21:22:03.523934",
+    "date": "2025-11-12",
+    "response": "No calendário da imagem estão marcados:\n- 12 de outubro — Nossa Senhora Aparecida (feriado);\n- 28 de outubro — Dia do Servidor Público (marcado no calendário).\n\nObservação: 12/10 é feriado nacional; o dia 28 está sinalizado no calendário, mas pode não ser feriado nacional em todos os locais. Quer que eu verifique se há ponto facultativo ou feriado municipal/estadual para sua cidade?",
+    "latency_seconds": 7.992965936660767
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-12T21:20:54.123389",
+    "date": "2025-11-12",
+    "response": "Com base na imagem, podemos contar os andares visíveis do edifício.\n\nContando os níveis principais (faixas horizontais de janelas e varandas) a partir do solo:\n\n1.  Andar Térreo (Base)\n2.  1º Andar (acima do térreo)\n3.  2º Andar\n4.  3º Andar\n5.  4º Andar\n6.  5º Andar\n7.  6º Andar\n8.  7º Andar\n\nO edifício possui **8 andares** principais de ocupação (contando o térreo como o primeiro nível), além da estrutura de telhado/casa de máquinas na parte superior.",
+    "latency_seconds": 4.90127158164978
+}
