@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T09:24:04.161607",
+    "date": "2025-11-12",
+    "response": "A imagem está um pouco desfocada, mas parece haver um recipiente cilíndrico em cima de uma superfície. Pode ser um frasco de medicamento ou suplemento. Note que qualquer identificação precisa depende de uma imagem mais clara ou informações adicionais.",
+    "latency_seconds": 3.054497718811035
+}

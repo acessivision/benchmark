@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "calendario.jpeg",
+    "question_original_pt": "Quais os feriados desse mês",
+    "timestamp_sent_utc": "2025-11-12T09:24:49.717827",
+    "date": "2025-11-12",
+    "response": "Com base no calendário de **Outubro** da imagem, os feriados indicados são:\n\n1. **Nossa Senhora Aparecida:** dia **12**\n2. **Dia do Servidor Público:** dia **28**\n\n*(Nota: O calendário parece ser um calendário institucional da Justiça Federal TRF1, e pode indicar feriados e pontos facultativos específicos para este órgão.)*",
+    "latency_seconds": 1.1222128868103027
+}

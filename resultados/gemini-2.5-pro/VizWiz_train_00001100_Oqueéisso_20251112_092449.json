@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T09:24:04.161607",
+    "date": "2025-11-12",
+    "response": "Com base na imagem, esta é uma fotografia de um ambiente interno, provavelmente um cômodo de uma casa.\n\nAqui estão os elementos visíveis:\n\n*   **Primeiro plano:** Uma superfície escura e brilhante, que parece ser um móvel como uma mesa, um balcão ou um suporte de TV.\n*   **Sobre o móvel:** Há um frasco branco com uma tampa roxa. Parece ser um pote de vitaminas, suplementos, ou talvez um recipiente de lenços de limpeza. Ao lado dele, há um pequeno objeto preto em forma de anel.\n*   **Fundo:** Uma parede clara com duas janelas lado a lado, ambas com persianas. Através da janela da direita, é possível ver a silhueta de algumas árvores.\n*   **Piso:** O chão parece ser de azulejo ou um piso frio de cor clara.\n\nA foto está um pouco escura e com a luz vindo do fundo (contra-luz), o que deixa os objetos da frente mais sombreados.",
+    "latency_seconds": 13.516316175460815
+}

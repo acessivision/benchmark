@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T09:24:04.161607",
+    "date": "2025-11-12",
+    "pergunta_translated_en": "What is that?",
+    "response_original_en": "A dark cylindrical container, possibly a spice or food storage jar, sits on a dark surface near a window with blinds partially drawn. The container is positioned slightly off-center, facing the window. The background shows an unfurnished room with light-colored walls and floor tiles. The lighting suggests daytime, with sunlight streaming through the window.",
+    "response_translated_pt": "Um recipiente cilíndrico escuro, possivelmente um pote de armazenamento de temperos ou alimentos, fica em uma superfície escura perto de uma janela com as persianas parcialmente fechadas. O contêiner está posicionado ligeiramente descentralizado, voltado para a janela. O fundo mostra uma sala sem mobília com paredes e pisos de cores claras. A iluminação sugere dia, com a luz do sol entrando pela janela.",
+    "latency_seconds": 3.646169662475586
+}

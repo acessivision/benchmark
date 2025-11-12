@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T09:24:04.161607",
+    "date": "2025-11-12",
+    "response": "Parece um frasco pequeno — provavelmente um frasco de comprimidos/vitaminas/suplemento (frasco plástico com tampa). A foto está um pouco borrada, então não dá para ler o rótulo e dizer exatamente o que tem dentro.\n\nSe for um medicamento e você não tiver certeza do que é, não tome sem confirmar: verifique o rótulo, validade e consulte um farmacêutico ou médico. Quer que eu tente ampliar ou recortar a imagem para tentar ler o rótulo?",
+    "latency_seconds": 7.438169240951538
+}
