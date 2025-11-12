@@ -91,19 +91,19 @@
     ]
   },
   {
-    "arquivo_imagem": "VizWiz_train_00000132.jpg",
+    "arquivo_imagem": "VizWiz_test_00000132.jpg",
     "pergunta": [
       "O que diz esta camisa?"
     ]
   },
   {
-    "arquivo_imagem": "VizWiz_train_00000219.jpg",
+    "arquivo_imagem": "VizWiz_test_00000219.jpg",
     "pergunta": [
       "Qual é o contexto da declaração de missão?"
     ]
   },
   {
-    "arquivo_imagem": "VizWiz_train_00000241.jpg",
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
     "pergunta": [
       "Quantos andares tem o edifício à frente?"
     ]
@@ -391,7 +391,7 @@
     ]
   },
   {
-    "arquivo_imagem": "cupom_fiscal_eletronico.jpg",
+    "arquivo_imagem": "cupom_fiscal_eletronico.png",
     "pergunta": [
       "Qual o valor total?"
     ]
