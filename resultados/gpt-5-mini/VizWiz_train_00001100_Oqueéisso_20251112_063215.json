@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T06:31:45.057896",
+    "date": "2025-11-12",
+    "response": "Parece ser um frasco cilíndrico com tampa roxa apoiado no canto de um eletrodoméstico (talvez o topo de uma geladeira ou fogão). Pode ser, por exemplo:\n- um frasco de comprimidos/vitaminas, ou\n- um pequeno pote de tempero/condimento, ou\n- um frasco plástico de suplemento.\n\nA foto está um pouco desfocada e o rótulo não é legível — se quiser eu tento identificar melhor se enviar uma foto mais próxima e nítida do rótulo.",
+    "latency_seconds": 6.730465888977051
+}

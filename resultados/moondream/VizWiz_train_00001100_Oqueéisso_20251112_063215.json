@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T06:31:45.057896",
+    "date": "2025-11-12",
+    "pergunta_translated_en": "What is that?",
+    "response_original_en": "A dark cylindrical container, possibly a spice jar or canister, sits on a dark wooden table in a room with light-colored tiled flooring and two windows letting in natural light.",
+    "response_translated_pt": "Um recipiente cilíndrico escuro, possivelmente um pote ou lata de especiarias, fica sobre uma mesa de madeira escura em uma sala com piso de azulejos de cor clara e duas janelas que permitem a entrada de luz natural.",
+    "latency_seconds": 3.281050443649292
+}

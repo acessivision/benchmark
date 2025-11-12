@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T06:31:45.057896",
+    "date": "2025-11-12",
+    "response": "A imagem está um pouco escura e desfocada, mas parece mostrar um ambiente interno com uma janela ao fundo. Em primeiro plano, sobre uma superfície, há um pequeno frasco ou pote, possivelmente de algum produto. Não é possível identificar exatamente o que é com base apenas nessa imagem.",
+    "latency_seconds": 4.111072778701782
+}

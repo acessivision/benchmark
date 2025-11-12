@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T06:31:45.057896",
+    "date": "2025-11-12",
+    "response": "Esta é uma fotografia tirada em um ambiente interno, que parece ser um cômodo vazio ou em processo de arrumação.\n\nA foto é caracterizada por um forte contraste, onde o interior está escuro (subexposto) e o fundo está extremamente iluminado.\n\n**Principais Elementos na Imagem:**\n\n1.  **Fundo:** Dominado por **duas janelas grandes** com persianas horizontais brancas, de onde entra a luz intensa. Do lado de fora, é possível ver um pouco de vegetação através da janela direita.\n2.  **Superfície em Primeiro Plano:** Uma grande superfície escura e altamente reflexiva (parece ser uma mesa, balcão ou cômoda com acabamento em laca ou vidro).\n3.  **Objetos:**\n    *   **Frasco/Pote:** Em destaque no centro-direita, há um frasco cilíndrico (provavelmente de plástico) com uma **tampa roxa** escura. O corpo do frasco é branco e tem um rótulo com texto denso, característico de embalagens de suplementos, vitaminas ou medicamentos.\n    *   **Anel:** Atrás do frasco, há um pequeno objeto escuro e circular, que pode ser um anel de borracha, um cabo enrolado, ou um chaveiro.\n    *   **Objeto à Esquerda:** Parcialmente cortado na extremidade esquerda, há um objeto escuro e fino, possivelmente um controle remoto ou um acessório.\n4.  **Piso:** O piso visível na parte inferior direita é claro, composto por lajotas ou azulejos grandes e quadrados.\n\nEm resumo, a foto mostra um **frasco de suplemento/medicamento sobre uma superfície escura em uma sala com janelas muito iluminadas ao fundo.**",
+    "latency_seconds": 6.813820838928223
+}
