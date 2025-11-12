@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T00:33:51.834908",
+    "date": "2025-11-12",
+    "response": "Parece ser um frasco ou pote em cima de uma superfície. Como a imagem está desfocada, não dá para identificar exatamente o que é ou qual é o seu propósito. Pode estar em cima de uma mesa ou balcão.",
+    "latency_seconds": 2.8727128505706787
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T00:33:51.834908",
+    "date": "2025-11-12",
+    "response": "Com base na imagem, esta é uma fotografia tirada dentro de um cômodo.\n\nAqui estão os elementos principais:\n\n*   **Primeiro plano:** Há uma superfície escura e brilhante, provavelmente uma mesa ou um balcão. Sobre ela, há um frasco branco com uma tampa roxa, que se assemelha a um pote de vitaminas, suplementos ou remédios.\n*   **Plano de fundo:** Ao fundo, vemos uma parede clara com duas janelas. As janelas têm persianas e deixam entrar bastante luz, o que cria um forte contraste com o primeiro plano mais escuro.\n*   **Ambiente:** O cômodo parece estar relativamente vazio ou pouco mobiliado, e o chão aparenta ser de azulejo claro.\n\nEm resumo, é a foto de um frasco sobre uma mesa em um cômodo com janelas ao fundo.",
+    "latency_seconds": 14.707267999649048
+}
