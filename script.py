@@ -407,7 +407,6 @@ def main():
         "VizWiz_train_00000132.jpg",
         "VizWiz_train_00000219.jpg",
         "VizWiz_train_00000241.jpg",
-        "VizWiz_train_00000446.jpg",
         "VizWiz_train_00001100.jpg",
         "calendario.jpeg",
         "cupom_fiscal_eletronico.jpg"
