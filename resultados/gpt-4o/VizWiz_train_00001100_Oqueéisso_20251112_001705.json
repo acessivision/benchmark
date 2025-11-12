@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T00:16:19.742741",
+    "date": "2025-11-12",
+    "response": "A imagem mostra uma embalagem pequena, que parece ser um frasco ou pote, sobre uma superfície. Não posso identificar a marca ou o tipo exato de produto com certeza, mas geralmente esses frascos podem conter vitaminas, suplementos ou outros produtos em comprimidos ou cápsulas. Se você puder ler as etiquetas ou tem mais informações, isso pode ajudar a identificar melhor o que é.",
+    "latency_seconds": 5.644825220108032
+}
