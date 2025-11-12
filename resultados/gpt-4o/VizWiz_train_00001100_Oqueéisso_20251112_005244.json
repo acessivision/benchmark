@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T00:51:56.045500",
+    "date": "2025-11-12",
+    "response": "A imagem está meio desfocada e escura, mas parece que há um pote em cima de uma superfície, possivelmente uma mesa. Sem ver detalhes do rótulo, é difícil identificar exatamente o que é o item. Parece ser algo como um pote de suplemento ou tempero.",
+    "latency_seconds": 3.754642963409424
+}
