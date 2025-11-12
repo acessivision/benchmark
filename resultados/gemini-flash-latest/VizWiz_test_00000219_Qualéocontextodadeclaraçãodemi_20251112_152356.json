@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000219.jpg",
+    "question_original_pt": "Qual é o contexto da declaração de missão?",
+    "timestamp_sent_utc": "2025-11-12T15:22:32.480859",
+    "date": "2025-11-12",
+    "response": "Erro ao chamar a API: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.",
+    "latency_seconds": 6.486883878707886
+}

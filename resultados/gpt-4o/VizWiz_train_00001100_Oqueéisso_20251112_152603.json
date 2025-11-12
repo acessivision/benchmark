@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T15:24:47.674690",
+    "date": "2025-11-12",
+    "response": "Essa é uma imagem de um ambiente interno com uma superfície de bancada e um pequeno recipiente/copo no topo. A imagem está um pouco escura e desfocada, o que dificulta a identificação do objeto exato na superfície. A janela ao fundo deixa entrar luz, iluminando parcialmente o espaço.",
+    "latency_seconds": 14.437541007995605
+}

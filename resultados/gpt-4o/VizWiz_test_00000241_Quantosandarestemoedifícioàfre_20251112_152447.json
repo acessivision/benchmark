@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-12T15:23:56.071288",
+    "date": "2025-11-12",
+    "response": "O edifício na imagem possui nove andares.",
+    "latency_seconds": 3.3227312564849854
+}
