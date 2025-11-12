@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T02:44:19.229160",
+    "date": "2025-11-12",
+    "pergunta_translated_en": "What is that?",
+    "response_original_en": "A dark cylindrical container, possibly a spice or condiment jar, sits on a dark table near a window. The container is mostly white with dark text or markings. The window is bright and shows some greenery outside. The floor is light-colored tile.",
+    "response_translated_pt": "Um recipiente cilíndrico escuro, possivelmente um pote de especiarias ou condimentos, fica sobre uma mesa escura perto de uma janela. O contêiner é quase todo branco com texto ou marcações escuras. A janela é clara e mostra alguma vegetação lá fora. O piso é de ladrilho de cor clara.",
+    "latency_seconds": 2.7233614921569824
+}

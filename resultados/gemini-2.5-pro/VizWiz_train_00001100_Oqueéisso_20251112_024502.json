@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-12T02:44:19.229160",
+    "date": "2025-11-12",
+    "response": "Com base na imagem fornecida, esta é uma foto tirada dentro de um cômodo que parece estar com poucos móveis.\n\nAqui estão os elementos principais da imagem:\n\n*   **Em primeiro plano:** A quina de um móvel escuro e brilhante, como uma mesa, um balcão ou talvez a parte de cima de um piano.\n*   **Sobre o móvel:** Há um frasco branco com uma tampa roxa ou azul-escura, semelhante a um pote de vitaminas, suplementos ou remédios. Atrás dele, há um objeto preto em formato de anel.\n*   **Ao fundo:** Uma parede clara com duas janelas com persianas, por onde entra bastante luz. O chão parece ser de azulejo em um tom claro, bege ou creme.\n\nA foto está um pouco escura e com baixa resolução, o que dá um aspecto granulado e dificulta a identificação de mais detalhes.",
+    "latency_seconds": 12.789993047714233
+}

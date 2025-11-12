@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-12T02:43:34.455064",
+    "date": "2025-11-12",
+    "response": "Com base na análise visual da imagem, o edifício possui **8** andares claramente visíveis (contando as filas de janelas e as varandas, do rés-do-chão até ao último piso com janelas padrão).\n\nAcima do oitavo andar, há uma estrutura superior (que pode ser um andar técnico, casa das máquinas ou um nono andar parcial), mas a estrutura principal de andares ocupáveis totaliza 8.",
+    "latency_seconds": 5.65009880065918
+}
