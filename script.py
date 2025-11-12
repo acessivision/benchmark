@@ -404,12 +404,12 @@ def main():
 
     # Lista de imagens que a célula de debug reportou como faltantes
     imagens_faltantes = [
-        "VizWiz_train_00000132.jpg",
-        "VizWiz_train_00000219.jpg",
-        "VizWiz_train_00000241.jpg",
+        "VizWiz_test_00000132.jpg",
+        "VizWiz_test_00000219.jpg",
+        "VizWiz_test_00000241.jpg",
         "VizWiz_train_00001100.jpg",
         "calendario.jpeg",
-        "cupom_fiscal_eletronico.jpg"
+        "cupom_fiscal_eletronico.png"
     ]
 
     # Sobrescreve a variável 'photos_to_send_today'
