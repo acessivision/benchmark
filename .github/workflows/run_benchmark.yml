@@ -10,44 +10,52 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Busca todo o histórico para evitar conflitos
+          ### MUDANÇA 1: FORÇA O CHECKOUT DO ÚLTIMO COMMIT ###
+          ref: 'main' 
+          fetch-depth: 0 
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+          
+      ### MUDANÇA 2: PASSO DE DEBUG (VERIFICA O SCRIPT) ###
+      - name: Verifica a versao do script.py
+        run: |
+          echo "--- Verificando qual lista o script.py vai rodar ---"
+          grep "imagens_faltantes" script.py
+          echo "----------------------------------------------------"
+
       # --- Bloco de configuração do Node.js ---
       - name: Configura Node.js 20
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      
+       
       - name: Instala dependências do Node.js
         run: npm install
       # --- Fim do bloco Node.js ---
-      
+       
       # --- Bloco de configuração do Python ---
       - name: Configura Python 3.10
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      
+       
       - name: Instala dependências do Python
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       # --- Fim do bloco Python ---
-      
+       
       - name: Roda script python
         env:
-          # Passa os segredos do GitHub para o script como variáveis de ambiente
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           MOONDREAM_API_KEY: ${{ secrets.MOONDREAM_API_KEY }}
         run: python script.py
-      
+       
       - name: Configura Git
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'github-actions-bot@github.com'
-      
+       
       - name: Commit e push dos resultados com retry
         run: |
           # Verifica se há mudanças para commitar
@@ -56,7 +64,6 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "📊 Adiciona novos resultados de benchmark"
             
-            # Tenta fazer push com retry em caso de conflito
             max_attempts=5
             attempt=1
             
