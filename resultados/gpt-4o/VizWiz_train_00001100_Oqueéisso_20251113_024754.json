@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T02:47:25.351437",
+    "date": "2025-11-13",
+    "response": "A imagem mostra um ambiente interno com um frasco pequeno sobre uma superfície, provavelmente uma mesa ou balcão. A iluminação vem das janelas ao fundo. O frasco parece ser de algum produto, mas está fora de foco, então não é possível identificar detalhes específicos.",
+    "latency_seconds": 3.8413591384887695
+}

@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-13T02:50:16.035413",
+    "date": "2025-11-13",
+    "pergunta_translated_en": "What's in front of me and the wall?",
+    "response_original_en": "In front of me and the wall is a black storage bin containing toys.",
+    "response_translated_pt": "Na minha frente e na parede há uma caixa preta contendo brinquedos.",
+    "latency_seconds": 3.2644143104553223
+}

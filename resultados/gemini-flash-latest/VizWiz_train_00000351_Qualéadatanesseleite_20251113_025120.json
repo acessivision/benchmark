@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000351.jpg",
+    "question_original_pt": "Qual é a data nesse leite?",
+    "timestamp_sent_utc": "2025-11-13T02:50:50.471450",
+    "date": "2025-11-13",
+    "response": "Com base na imagem, a data de validade (\"USE BY:\") impressa no topo da embalagem do leite de amêndoa (Blue Diamond Almond Breeze) é:\n\n**FEB 08 13**\n\nOu seja, **8 de fevereiro de 2013**.\n\nA linha completa de informações impressas é:\n**USE BY: FEB 08 13 05:44 M 51-4109**\n(Onde 05:44 provavelmente é a hora e o restante são códigos de lote e produção).",
+    "latency_seconds": 1.7273409366607666
+}

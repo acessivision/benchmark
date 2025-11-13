@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000219.jpg",
+    "question_original_pt": "Qual é o contexto da declaração de missão?",
+    "timestamp_sent_utc": "2025-11-13T02:45:50.698427",
+    "date": "2025-11-13",
+    "pergunta_translated_en": "What is the context of the mission statement?",
+    "response_original_en": "The mission statement outlines the council's commitment to empowering people with disabilities and advocating for issues impacting them.",
+    "response_translated_pt": "A declaração de missão descreve o compromisso do conselho em capacitar as pessoas com deficiência e defender as questões que as afetam.",
+    "latency_seconds": 31.547245025634766
+}
