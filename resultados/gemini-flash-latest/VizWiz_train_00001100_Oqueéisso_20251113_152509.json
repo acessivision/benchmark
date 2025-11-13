@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T15:24:10.217099",
+    "date": "2025-11-13",
+    "response": "Esta imagem mostra o interior de um cômodo, provavelmente uma sala ou quarto, com foco em alguns objetos no primeiro plano.\n\nAqui está uma descrição detalhada do que se vê:\n\n1.  **Primeiro Plano (Foreground):**\n    *   Uma superfície escura, lisa e altamente refletiva (parece ser o topo de uma mesa, armário ou escrivaninha).\n    *   O objeto mais visível é um **recipiente cilíndrico** (um pote) com uma tampa escura (possivelmente roxa ou preta). Pelo formato e pelo rótulo com texto listrado (ilegível), este é provavelmente um pote de **vitaminas, suplementos ou medicamentos**.\n    *   À esquerda do pote, há um pequeno objeto circular e escuro refletido na superfície (pode ser um anel, um cabo enrolado ou uma peça de borracha).\n    *   No canto esquerdo, há um objeto fino e alongado, apenas parcialmente visível.\n\n2.  **Fundo (Background):**\n    *   A parede do fundo é clara (branca ou cinza).\n    *   Há duas **janelas grandes** que estão muito claras devido à forte luz natural vinda de fora (sobre-expostas). As janelas possuem **persianas horizontais** (venezianas).\n    *   O chão parece ser de azulejo claro ou tábuas largas de madeira/laminado.\n\nEm resumo, a foto é uma vista de uma **mesa em um cômodo com pouca mobília, onde o objeto central é um pote de suplementos ou remédios** em frente a janelas bem iluminadas.",
+    "latency_seconds": 7.530689239501953
+}

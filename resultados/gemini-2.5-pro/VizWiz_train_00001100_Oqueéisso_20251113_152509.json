@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T15:24:10.217099",
+    "date": "2025-11-13",
+    "response": "Com base na imagem, esta é uma fotografia tirada dentro de um cômodo, provavelmente uma sala ou quarto.\n\nAqui está uma descrição detalhada do que se vê:\n\n*   **Em primeiro plano:** Há um móvel escuro com uma superfície brilhante, como uma mesa, um balcão ou talvez a parte de cima de um piano.\n*   **Sobre o móvel:** Há um pote ou frasco branco com uma tampa roxa. Parece um recipiente de suplementos, vitaminas ou algum produto similar. Ao lado dele, há um objeto pequeno, preto e circular.\n*   **Ao fundo:** Vê-se uma parede de cor clara e uma janela dupla com persianas brancas. A luz que entra pela janela é muito forte, o que causa o efeito de contraluz e deixa a parte da frente da foto mais escura.\n*   **O chão:** Parece ser de piso frio ou azulejo de cor clara, talvez bege.\n\nEm resumo, é uma foto casual de um objeto sobre um móvel dentro de uma casa, tirada contra a luz de uma janela.",
+    "latency_seconds": 19.572551250457764
+}

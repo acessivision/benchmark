@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-13T15:31:08.779215",
+    "date": "2025-11-13",
+    "response": "I'm sorry, but I can't determine the contents of the image accurately.",
+    "latency_seconds": 12.169240951538086
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-13T15:33:14.951187",
+    "date": "2025-11-13",
+    "response": "Com base na imagem, o produto é um pacote de copos de gelatina (gelatin cups) com dois sabores diferentes.\n\nOs sabores são:\n\n1. **Laranja (Orange)**\n2. **Limão-Lima (Lemon-Lime)**\n\nA caixa contém **2 copos de Laranja** e **4 copos de Limão-Lima**.",
+    "latency_seconds": 1.1122522354125977
+}

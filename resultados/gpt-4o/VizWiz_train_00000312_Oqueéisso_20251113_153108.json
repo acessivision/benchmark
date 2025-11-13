@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T15:28:52.733395",
+    "date": "2025-11-13",
+    "response": "A imagem mostra uma lata de sopa colocada sobre uma superfície próxima a um fogão. É uma lata de \"pot pie\" soup, que é um tipo de sopa que imita o sabor de uma torta de frango.",
+    "latency_seconds": 3.724107503890991
+}

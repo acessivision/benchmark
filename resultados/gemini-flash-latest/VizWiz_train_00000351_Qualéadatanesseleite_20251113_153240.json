@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000351.jpg",
+    "question_original_pt": "Qual é a data nesse leite?",
+    "timestamp_sent_utc": "2025-11-13T15:31:56.085167",
+    "date": "2025-11-13",
+    "response": "Com base na imagem, a data de consumo preferencial (\"USE BY\") no leite de amêndoa é:\n\n**08 de fevereiro de 2013** (FEB 08 13)\n\nA linha completa impressa é: **USE BY: FEB 08 13 05:44**",
+    "latency_seconds": 3.8424675464630127
+}
