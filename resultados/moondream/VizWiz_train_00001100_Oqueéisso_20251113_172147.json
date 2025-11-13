@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T17:21:14.768189",
+    "date": "2025-11-13",
+    "pergunta_translated_en": "What is that?",
+    "response_original_en": "A dark cylindrical container, possibly a spice or condiment jar, sits on a dark table in a room with light-colored flooring and bright windows.",
+    "response_translated_pt": "Um recipiente cilíndrico escuro, possivelmente um pote de especiarias ou condimentos, fica sobre uma mesa escura em uma sala com piso de cor clara e janelas claras.",
+    "latency_seconds": 2.1183595657348633
+}

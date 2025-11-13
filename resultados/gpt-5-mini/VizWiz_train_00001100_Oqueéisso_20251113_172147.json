@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T17:21:14.768189",
+    "date": "2025-11-13",
+    "response": "Parece ser um frasco pequeno cilíndrico com tampa roxa apoiado sobre uma superfície preta (talvez um fogão, micro‑ondas ou bancada). Pelo formato, pode ser um frasco de comprimidos/suplemento ou um pote de tempero, mas a imagem está um pouco desfocada e o rótulo não dá para ler, então não dá para afirmar com certeza.\n\nQuer que eu tente aproximar/recortar a área para ver melhor? Se puder tirar outra foto mais próxima e nítida do rótulo, eu ajudo a identificar.",
+    "latency_seconds": 7.571658134460449
+}

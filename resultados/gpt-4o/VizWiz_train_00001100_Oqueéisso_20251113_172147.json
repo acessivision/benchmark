@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T17:21:14.768189",
+    "date": "2025-11-13",
+    "response": "A imagem mostra um ambiente interno com uma janela ao fundo e um recipiente cilíndrico em cima de uma superfície plana, possivelmente uma bancada ou mesa. A imagem está desfocada, dificultando a identificação precisa do objeto. Pode ser um frasco de suplemento, tempero ou outro item semelhante.",
+    "latency_seconds": 4.760759592056274
+}

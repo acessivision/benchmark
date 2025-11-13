@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T17:23:44.295545",
+    "date": "2025-11-13",
+    "response": "A imagem mostra um fogão com uma lata em cima. A lata parece ser de algum alimento enlatado, como uma sopa ou ensopado.",
+    "latency_seconds": 6.505112886428833
+}

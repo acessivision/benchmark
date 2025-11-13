@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T17:23:44.295545",
+    "date": "2025-11-13",
+    "response": "Esta é uma fotografia tirada em uma cozinha.\n\nOs principais objetos visíveis são:\n\n1.  **Uma Lata de Comida:** O objeto mais claramente identificado é uma lata de conserva. O rótulo indica que é uma **\"Pot Pie Style Soup\"** (Sopa Estilo Torta/Empadão), e a marca parece ser **Marie Callender's**.\n2.  **Um Fogão:** A lata está ao lado de uma superfície de cozimento preta, que é um fogão (provavelmente a gás), com as grades de suporte e um queimador visíveis.\n3.  **Uma Bancada:** A lata está apoiada em uma bancada de madeira clara.\n\nA imagem, portanto, mostra uma lata de sopa Marie Callender's Pot Pie sobre uma bancada de cozinha, ao lado de um fogão.",
+    "latency_seconds": 5.629637956619263
+}

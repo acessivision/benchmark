@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-13T17:20:29.547389",
+    "date": "2025-11-13",
+    "response": "Com base na análise da imagem, o edifício à frente possui **7 andares** (pisos) habitáveis, sem contar a estrutura mais robusta do telhado/parapeito no topo.\n\nVocê pode contar 7 faixas horizontais distintas de janelas ou varandas.",
+    "latency_seconds": 4.689754247665405
+}

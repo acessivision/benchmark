@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000033.jpg",
+    "question_original_pt": "Isso é uma garrafa de medicação e eu só gostaria de saber se tem uma etiqueta e informações de dosagem visíveis. Obrigado.",
+    "timestamp_sent_utc": "2025-11-13T17:22:46.962792",
+    "date": "2025-11-13",
+    "response": "Há sim uma etiqueta no frasco, mas a imagem está fora de foco e pequena demais para ler qualquer texto ou informação de dosagem. Não é possível confirmar instruções ou valores de dose a partir desta foto.\n\nSe quiser, tire outra foto com essas dicas para eu tentar ler a etiqueta:\n- Aproxime-se e foque a câmera na etiqueta (evite muito zoom digital).\n- Boa iluminação sem reflexo sobre a etiqueta (luz difusa).\n- Segure a câmera firme ou use suporte/mesa para reduzir tremidos.\n- Foto em alta resolução, com a etiqueta voltada diretamente para a câmera.\n- Tire várias fotos de ângulos diferentes (frente e laterais da etiqueta).\n\nSe for algo urgente ou relacionado a medicação de prescrição, consulte o rótulo original/receita ou fale com o farmacêutico/profissional de saúde.",
+    "latency_seconds": 9.404898405075073
+}
