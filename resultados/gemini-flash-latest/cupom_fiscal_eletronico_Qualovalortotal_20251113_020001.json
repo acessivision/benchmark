@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "cupom_fiscal_eletronico.png",
+    "question_original_pt": "Qual o valor total?",
+    "timestamp_sent_utc": "2025-11-13T01:59:30.192143",
+    "date": "2025-11-13",
+    "response": "Com base no cupom fiscal eletrônico (SAT) apresentado, o valor total da compra é:\n\n**R$ 207,88** (Duzentos e sete reais e oitenta e oito centavos)",
+    "latency_seconds": 3.706484794616699
+}

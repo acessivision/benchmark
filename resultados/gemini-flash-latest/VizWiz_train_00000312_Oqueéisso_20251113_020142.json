@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T02:00:58.308415",
+    "date": "2025-11-13",
+    "response": "Esta imagem mostra uma cena de cozinha com alguns objetos principais:\n\n1.  **Fogão de Cozinha:** À esquerda, há uma parte de um fogão ou cooktop preto, com as grades de metal sobre o queimador.\n2.  **Lata de Sopa:** No canto superior direito, há uma lata de alimento. A etiqueta identifica o produto como **\"Pot Pie Style Soup\"** (Sopa Estilo Torta de Pote) da marca **Marie Callender's**.\n3.  **Bancada/Armário:** A lata está apoiada em uma bancada de madeira clara.\n4.  **Outros Elementos:** Na parte inferior, é possível ver o chão de azulejo e a parte inferior das pernas de uma pessoa.\n\nEm resumo, é uma foto de uma **lata de sopa Marie Callender's** em cima de um fogão e bancada de cozinha.",
+    "latency_seconds": 5.714094161987305
+}

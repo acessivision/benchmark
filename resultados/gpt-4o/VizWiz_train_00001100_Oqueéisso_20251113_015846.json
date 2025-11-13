@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T01:58:01.732804",
+    "date": "2025-11-13",
+    "response": "Parece ser um frasco, possivelmente de um produto como tempero ou suplemento, em cima de uma superfície. A imagem está um pouco desfocada, então é difícil identificar exatamente o que é.",
+    "latency_seconds": 19.800408124923706
+}

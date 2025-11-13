@@ -162,5 +162,12 @@
         "data/imagens/embalagem_bis.jpeg",
         "data/imagens/VizWiz_train_00000335.jpg",
         "data/imagens/VizWiz_train_00000572.jpg"
+    ],
+    "2025-11-13": [
+        "data/imagens/VizWiz_train_00001097.jpg",
+        "data/imagens/VizWiz_train_00000152.jpg",
+        "data/imagens/cardapio_burguers.jpg",
+        "data/imagens/VizWiz_train_00001174.jpg",
+        "data/imagens/cha_groselha_e_cha_limao.jpeg"
     ]
 }

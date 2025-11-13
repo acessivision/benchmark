@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-13T01:56:41.337262",
+    "date": "2025-11-13",
+    "response": "O edifício à frente possui **9 andares** visíveis.\n\nA contagem inclui:\n*   O piso térreo (nível de base).\n*   Mais 8 andares acima do térreo, que são claramente definidos pelas fileiras de janelas e pelas estruturas de escada de incêndio externas.\n\nAcima do último andar de janelas, há uma estrutura de telhado ou casa de máquinas, mas os níveis ocupados principais totalizam 9.",
+    "latency_seconds": 5.560122013092041
+}
