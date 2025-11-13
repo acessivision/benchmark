@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T06:35:34.374108",
+    "date": "2025-11-13",
+    "response": "Com base na imagem, esta é uma foto tirada em uma cozinha que mostra:\n\n*   **Uma lata de sopa:** É uma sopa estilo \"Pot Pie\" da marca Marie Callender's.\n*   **Um fogão a gás:** A lata está na beirada de um fogão preto, que parece ter algumas migalhas ou sujeira.\n*   **Uma bancada:** À direita do fogão, há uma bancada de madeira.\n\nA foto foi tirada de cima para baixo, e é possível ver parte do chão de azulejos e a perna da pessoa que está tirando a foto na parte inferior da imagem.",
+    "latency_seconds": 19.565223932266235
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-13T06:31:57.310032",
+    "date": "2025-11-13",
+    "response": "Com base na análise visual da imagem, o edifício à frente possui **7 andares** (ou pisos) de espaço habitável (com janelas) acima do nível do solo.\n\nAcima do sétimo andar, há uma estrutura de cobertura que abriga equipamentos (como as antenas visíveis), mas que geralmente não é contada como um andar principal.",
+    "latency_seconds": 4.699461936950684
+}

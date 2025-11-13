@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000219.jpg",
+    "question_original_pt": "Qual é o contexto da declaração de missão?",
+    "timestamp_sent_utc": "2025-11-13T06:30:30.659093",
+    "date": "2025-11-13",
+    "pergunta_translated_en": "What is the context of the mission statement?",
+    "response_original_en": "Erro ao chamar a API Moondream: HTTP Error 500: Internal Server Error",
+    "response_translated_pt": "Erro ao chamar a API Moondream: HTTP Error 500: Internal Server Error",
+    "latency_seconds": 42.70521354675293
+}
