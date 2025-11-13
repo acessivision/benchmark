@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "calendario.jpeg",
+    "question_original_pt": "Quais os feriados desse mês",
+    "timestamp_sent_utc": "2025-11-13T21:24:32.079519",
+    "date": "2025-11-13",
+    "pergunta_translated_en": "What are the holidays this month?",
+    "response_original_en": "The month shown on the calendar is October. The calendar lists several holidays: Domingo, Segunda, Terça, Quarta, Quinta, Sexta, Sábado.",
+    "response_translated_pt": "O mês mostrado no calendário é outubro. O calendário lista vários feriados: Domingo, Segunda, Terça, Quarta, Quinta, Sexta, Sábado.",
+    "latency_seconds": 2.061100959777832
+}

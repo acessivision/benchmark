@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T21:26:31.864500",
+    "date": "2025-11-13",
+    "pergunta_translated_en": "What is that?",
+    "response_original_en": "A can of pot pie sitting on the edge of a stove.",
+    "response_translated_pt": "Uma lata de torta na beira do fogão.",
+    "latency_seconds": 1.6041259765625
+}

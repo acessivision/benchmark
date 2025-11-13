@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000152.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-11-13T21:26:06.951650",
+    "date": "2025-11-13",
+    "response": "Parece ser um frasco de melatonina — um suplemento usado como auxílio para dormir (no rótulo aparece “100% Drug Free Sleep Aid”).  \n\nNão posso ter certeza absoluta só pela foto; confirme lendo o rótulo/ingrédients, dosagem e validade. Atenção: siga a dose recomendada no rótulo e consulte um médico ou farmacêutico se você toma outros medicamentos, está grávida/amamentando ou tem alguma condição de saúde, porque melatonina pode causar sonolência e interagir com outros tratamentos.",
+    "latency_seconds": 7.911813020706177
+}

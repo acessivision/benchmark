@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-13T21:27:06.940053",
+    "date": "2025-11-13",
+    "response": "Parece que você está em uma sala de estar. Na sua frente, há um móvel de madeira com uma TV e alguns equipamentos eletrônicos. Ao lado, há uma caixa ou baú que parece conter brinquedos. À direita, parte de um sofá colorido está visível. O chão é coberto por carpete verde.",
+    "latency_seconds": 14.273393154144287
+}

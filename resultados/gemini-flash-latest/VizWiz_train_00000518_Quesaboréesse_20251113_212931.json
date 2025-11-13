@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-13T21:28:54.177989",
+    "date": "2025-11-13",
+    "response": "Com base na imagem, o produto tem dois sabores:\n\n1.  **Laranja** (Orange)\n2.  **Limão-lima** (Lemon-Lime)\n\nÉ uma caixa de **copos de gelatina de baixa caloria** que contém 2 unidades de laranja e 4 unidades de limão-lima.",
+    "latency_seconds": 3.0127673149108887
+}

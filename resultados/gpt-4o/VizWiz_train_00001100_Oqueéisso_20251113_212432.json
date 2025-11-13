@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T21:23:44.545193",
+    "date": "2025-11-13",
+    "response": "A imagem mostra um ambiente interno com uma janela ao fundo. Em primeiro plano, há um objeto sobre uma superfície, que parece ser um recipiente ou frasco, possivelmente de plástico, com uma tampa. Sem mais detalhes visíveis, não posso identificar exatamente o conteúdo ou a finalidade desse frasco.",
+    "latency_seconds": 22.621063232421875
+}
