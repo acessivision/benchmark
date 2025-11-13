@@ -410,6 +410,16 @@ def main():
         "VizWiz_train_00001100.jpg",
         "calendario.jpeg",
         "cupom_fiscal_eletronico.png"
+        "VizWiz_train_00000033.jpg"
+        "VizWiz_train_00000152.jpg"
+        "VizWiz_train_00000241.jpg"
+        "VizWiz_train_00000312.jpg"
+        "VizWiz_train_00000313.jpg"
+        "VizWiz_train_00000351.jpg"
+        "VizWiz_train_00000446.jpg"
+        "VizWiz_train_00000509.jpg"
+        "VizWiz_train_00000518.jpg"
+        "cupom_fiscal_eletronico.jpg"
     ]
 
     # Sobrescreve a variável 'photos_to_send_today'
