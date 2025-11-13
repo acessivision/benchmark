@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-13T09:28:23.045318",
+    "date": "2025-11-13",
+    "response": "Com base na imagem, aqui está o que está na sua frente e junto à parede:\n\n*   **No chão:** Um carpete de cor verde ou azul-petróleo.\n*   **Junto à parede:**\n    *   Um grande **móvel de madeira** para entretenimento (estante/rack).\n    *   Dentro do móvel, há uma **televisão** e outros aparelhos eletrônicos abaixo dela.\n    *   Ao lado do móvel, há uma **caixa de armazenamento** escura, que parece ser um baú de brinquedos.\n*   **À direita:** Parte de um **sofá estampado** em tons de vermelho e verde.\n\nNo primeiro plano da foto, bem na frente, está o seu joelho coberto por uma calça jeans.",
+    "latency_seconds": 18.59629797935486
+}

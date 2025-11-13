@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000033.jpg",
+    "question_original_pt": "Isso é uma garrafa de medicação e eu só gostaria de saber se tem uma etiqueta e informações de dosagem visíveis. Obrigado.",
+    "timestamp_sent_utc": "2025-11-13T09:26:30.203066",
+    "date": "2025-11-13",
+    "response": "Com base na imagem fornecida, posso oferecer a seguinte análise:\n\n**1. É uma garrafa de medicação?**\nSim, o formato e o tipo de etiqueta sugerem que se trata de uma pequena embalagem, provavelmente de medicamento de venda livre (OTC), vitaminas ou um suplemento.\n\n**2. A etiqueta e as informações de dosagem estão visíveis?**\n**A etiqueta está visível** no frasco (a parte colorida), mas a imagem está extremamente **desfocada (fora de foco)**.\n\nPortanto, é **impossível ler** qualquer texto na etiqueta, incluindo o nome do produto, os ingredientes ativos ou as instruções de dosagem. Não consigo confirmar as informações específicas que você procura.",
+    "latency_seconds": 4.152899980545044
+}

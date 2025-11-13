@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "calendario.jpeg",
+    "question_original_pt": "Quais os feriados desse mês",
+    "timestamp_sent_utc": "2025-11-13T09:25:25.213738",
+    "date": "2025-11-13",
+    "response": "Com base no calendário de **Outubro** da Justiça Federal (TRF1) na imagem, os feriados/dias não úteis listados são:\n\n1.  **Nossa Senhora Aparecida:** Dia **12** (Domingo)\n2.  **Dia do Servidor Público:** Dia **28** (Terça-feira)\n\n**(Observação:** O calendário utiliza o símbolo de diamante (♦) para o feriado nacional e a seta (▶) para o Dia do Servidor Público, que geralmente é um ponto facultativo ou recesso administrativo no serviço público.)",
+    "latency_seconds": 3.6256816387176514
+}

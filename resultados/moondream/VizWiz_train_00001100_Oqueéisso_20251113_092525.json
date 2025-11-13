@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-13T09:24:05.589533",
+    "date": "2025-11-13",
+    "pergunta_translated_en": "What is that?",
+    "response_original_en": "A dark-colored container, possibly a spice jar or canister, sitting on a dark surface near a window. The container has white text on its label, though the text is not legible. The background shows a white wall with two windows letting in natural light. The floor is light-colored tile.",
+    "response_translated_pt": "Um recipiente de cor escura, possivelmente um pote ou vasilha de temperos, colocado em uma superfície escura perto de uma janela. O contêiner possui texto branco em seu rótulo, embora o texto não seja legível. O fundo mostra uma parede branca com duas janelas que permitem a entrada de luz natural. O piso é de ladrilho de cor clara.",
+    "latency_seconds": 18.405739545822144
+}

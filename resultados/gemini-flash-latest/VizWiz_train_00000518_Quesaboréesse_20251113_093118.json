@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-13T09:30:45.586973",
+    "date": "2025-11-13",
+    "response": "Com base na embalagem do produto, este é um pacote com dois sabores diferentes de gelatina de baixa caloria:\n\n1.  **Laranja** (Orange)\n2.  **Limão-Lima** (Lemon-Lime)\n\nA caixa contém 2 copos de gelatina sabor Laranja e 4 copos de gelatina sabor Limão-Lima.",
+    "latency_seconds": 3.2466611862182617
+}

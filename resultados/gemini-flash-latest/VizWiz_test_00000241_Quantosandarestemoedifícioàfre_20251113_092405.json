@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-13T09:23:09.276642",
+    "date": "2025-11-13",
+    "response": "Com base na análise da imagem, o edifício principal possui **9 andares** (nove andares) de área útil.\n\nÉ possível contar nove fileiras distintas de janelas e varandas (níveis) empilhadas verticalmente, começando da base e indo até a laje superior. Acima disso, há uma estrutura de cobertura, mas o corpo principal do edifício consiste em 9 níveis de piso.",
+    "latency_seconds": 4.499959707260132
+}
