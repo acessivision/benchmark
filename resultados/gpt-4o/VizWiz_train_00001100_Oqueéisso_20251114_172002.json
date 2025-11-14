@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T17:19:19.420239",
+    "date": "2025-11-14",
+    "response": "A imagem mostra um ambiente interno com janelas ao fundo. No primeiro plano, há um objeto que parece ser um pequeno recipiente ou frasco sobre uma superfície. A qualidade da imagem e a iluminação tornam difícil determinar o que exatamente é o recipiente. Parece ser algum tipo de produto doméstico, possivelmente um frasco de spray ou de comprimidos.",
+    "latency_seconds": 3.870424270629883
+}

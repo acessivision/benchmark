@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000152.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-11-14T17:22:09.213969",
+    "date": "2025-11-14",
+    "response": "Pelo rótulo, é um frasco de melatonina — um suplemento usado como auxílio para o sono (marca aparenta ser Nature’s Bounty, diz “100% Drug Free Sleep Aid”).  \n\nNão consigo abrir a garrafa pela foto, mas provavelmente contém comprimidos ou cápsulas de melatonina. Siga as instruções do rótulo e consulte um médico ou farmacêutico antes de usar (especialmente se estiver grávida, amamentando, tiver doenças crônicas ou tomar outros medicamentos).",
+    "latency_seconds": 7.092059373855591
+}

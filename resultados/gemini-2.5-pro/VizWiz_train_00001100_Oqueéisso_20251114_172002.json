@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T17:19:19.420239",
+    "date": "2025-11-14",
+    "response": "Com base na imagem, esta é uma fotografia tirada dentro de um cômodo com iluminação um pouco escura. A cena inclui:\n\n*   **Em primeiro plano:** O canto de um móvel escuro e com superfície brilhante, como uma mesa ou um piano.\n*   **Sobre o móvel:** Um frasco branco com uma tampa roxa, que parece ser um pote de remédios, vitaminas ou suplementos. Ao lado e um pouco mais atrás, há um objeto preto em formato de anel.\n*   **Ao fundo:** Uma parede clara com duas janelas que têm persianas. A luz do dia que entra pelas janelas está muito forte, criando um contraluz que escurece o primeiro plano. O chão parece ser de azulejo ou um piso claro.\n\nEm resumo, é a foto de um cômodo com um frasco sobre um móvel escuro, tirada contra a luz de uma janela.",
+    "latency_seconds": 15.418369770050049
+}

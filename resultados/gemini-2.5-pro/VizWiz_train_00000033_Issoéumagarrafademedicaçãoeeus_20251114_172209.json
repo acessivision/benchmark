@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000033.jpg",
+    "question_original_pt": "Isso é uma garrafa de medicação e eu só gostaria de saber se tem uma etiqueta e informações de dosagem visíveis. Obrigado.",
+    "timestamp_sent_utc": "2025-11-14T17:21:24.225620",
+    "date": "2025-11-14",
+    "response": "Olá.\n\nSim, a garrafa de medicação na imagem tem uma etiqueta visível.\n\nNo entanto, a imagem está muito desfocada e a qualidade é baixa, o que torna impossível ler qualquer texto na etiqueta. Por isso, **não consigo confirmar as informações de dosagem**.\n\n**Para sua segurança, é muito importante que você verifique as informações de dosagem diretamente na embalagem física do medicamento ou consulte o seu médico ou farmacêutico se tiver alguma dúvida.**",
+    "latency_seconds": 11.277901649475098
+}

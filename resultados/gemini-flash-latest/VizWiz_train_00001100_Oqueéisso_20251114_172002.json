@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T17:19:19.420239",
+    "date": "2025-11-14",
+    "response": "Esta é uma imagem que mostra um **ambiente interno** (cômodo ou quarto), caracterizado por uma forte luz de fundo (backlight), que cria alto contraste e deixa os objetos em primeiro plano muito escuros.\n\nAqui está o que é visível:\n\n1.  **Fundo:**\n    *   **Duas janelas grandes** são o principal foco de luz. Elas estão equipadas com persianas horizontais (venetian blinds), que estão parcialmente abertas, permitindo a passagem de luz intensa.\n    *   Pode-se ver vagamente folhagem (árvores ou arbustos) através da janela da direita.\n    *   As paredes são de cor clara (branca ou bege muito claro).\n\n2.  **Primeiro Plano:**\n    *   Uma **superfície escura e reflexiva** domina a parte inferior da foto (provavelmente o tampo de uma mesa, balcão ou móvel).\n    *   **O Objeto Principal:** Em cima desta superfície, há um **pote cilíndrico** (frasco ou garrafa) com um corpo claro e uma tampa escura (aparentemente roxa ou azul escura). O lado do pote tem um rótulo com texto denso e pequeno, o que indica ser um **frasco de suplementos, vitaminas ou medicamentos** (pílulas ou cápsulas).\n    *   **Outros Objetos:** Um objeto pequeno, escuro e **em formato de anel ou círculo** é visível no reflexo da mesa, atrás do pote. Há também uma ponta de outro objeto escuro entrando na imagem pelo canto esquerdo.\n\nEm resumo, a imagem é de um **pote de vitaminas/suplementos em cima de uma mesa escura** em um cômodo com janelas grandes no fundo.",
+    "latency_seconds": 7.802934169769287
+}
