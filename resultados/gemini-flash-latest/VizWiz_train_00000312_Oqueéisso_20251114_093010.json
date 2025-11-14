@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T09:29:07.257931",
+    "date": "2025-11-14",
+    "response": "Esta imagem mostra uma cena em uma cozinha.\n\nOs elementos principais são:\n\n1.  **Uma Lata de Sopa:** O produto é claramente visível. O rótulo indica que é uma **\"Pot Pie Style Soup\"** (Sopa no estilo Torta/Empadão), possivelmente da marca **Marie Callender's** (o nome da marca é parcialmente visível).\n2.  **Um Fogão/Cozinha:** A lata está apoiada perto de um fogão preto, onde é possível ver a grade e a boca de um queimador.\n3.  **Um Balcão/Mesa:** Há uma superfície de madeira clara (balcão ou bancada) no lado direito da imagem.\n4.  **Piso e Pessoa:** Na parte inferior, vê-se o piso de azulejos claros e a perna/roupa escura (azul) de quem tirou a foto.\n\nEm resumo, **é uma lata de sopa pronta (estilo Pot Pie) em cima ou perto de um fogão em uma cozinha.**",
+    "latency_seconds": 4.6543495655059814
+}

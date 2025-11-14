@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-14T09:30:10.121956",
+    "date": "2025-11-14",
+    "response": "Com base na imagem, aqui está o que está visível na sua frente e perto da parede:\n\n1.  **Móvel de Entretenimento/Armário:** Um grande móvel de madeira (aparentemente pinho) com várias seções.\n    *   Possui uma prateleira ou nicho na esquerda (parcialmente visível).\n    *   Tem um espaço central para uma **Televisão (TV)**.\n    *   Abaixo da TV, há equipamentos eletrônicos (como um DVD player ou VCR).\n    *   Na parte inferior, há um armário com **duas portas de madeira** e puxadores dourados.\n2.  **Alto-falante/Caixa Escura:** À esquerda e à frente do móvel de madeira principal, há uma caixa preta, provavelmente um **alto-falante ou subwoofer** do sistema de som.\n3.  **Baú/Caixa de Armazenamento:** À direita do móvel de madeira, encostado na parede, há uma **caixa ou baú de armazenamento** grande e escura (cor marrom escuro ou preto), que parece conter alguns objetos (brinquedos ou itens diversos) no topo.\n4.  **Parede:** A parede ao fundo é de cor neutra clara (creme ou bege pálido).\n5.  **Chão:** O chão está coberto por um **carpete grosso de cor verde-água/turquesa**.\n\nPortanto, o principal que está entre você e a parede é o **móvel de madeira** (com TV e eletrônicos) e o **baú de armazenamento**.",
+    "latency_seconds": 2.8385372161865234
+}

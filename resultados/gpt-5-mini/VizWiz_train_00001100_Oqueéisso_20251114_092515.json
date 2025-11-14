@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T09:24:14.533084",
+    "date": "2025-11-14",
+    "response": "Parece um frasco cilíndrico — provavelmente um frasco de comprimidos/suplemento/vitamina ou um pote pequeno de algum produto (tem rótulo e tampa). A foto está desfocada e longe do rótulo, então não dá para ler o que é com certeza.\n\nSe quiser que eu identifique exatamente:\n- Faça uma foto mais próxima e focada do rótulo (boa iluminação).\n- Mostre o texto do rótulo ou o código de barras.\n\nObservação de segurança: se for um medicamento, não tome nada sem ter certeza do que é.",
+    "latency_seconds": 7.383726596832275
+}

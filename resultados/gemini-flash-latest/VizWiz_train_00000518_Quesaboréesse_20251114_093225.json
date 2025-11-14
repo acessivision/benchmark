@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-14T09:32:00.827906",
+    "date": "2025-11-14",
+    "response": "Com base na imagem, o produto são **copos de gelatina de baixa caloria** que contêm dois sabores:\n\n1.  **Laranja (Orange)**\n2.  **Limão-Lima (Lemon-Lime)**\n\nA caixa indica que há **2 copos de laranja** e **4 copos de limão-lima**.",
+    "latency_seconds": 2.462125539779663
+}

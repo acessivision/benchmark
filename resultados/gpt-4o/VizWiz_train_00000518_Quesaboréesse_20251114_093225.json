@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-14T09:32:00.827906",
+    "date": "2025-11-14",
+    "response": "O sabor é de laranja e limão-lima, conforme indicado na embalagem dos potes de gelatina.",
+    "latency_seconds": 2.459644317626953
+}

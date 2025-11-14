@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000152.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-11-14T09:28:05.702356",
+    "date": "2025-11-14",
+    "response": "Com base na imagem, a garrafa contém **Melatonina**.\n\nO produto é da marca **Nature's Bounty** e é um **auxiliar de sono** (Sleep Aid), descrito como **100% livre de drogas** (100% Drug Free).\n\nA Melatonina é um hormônio que ajuda a regular o ciclo sono-vigília. É frequentemente usada como suplemento para ajudar as pessoas a adormecerem ou a ajustarem seus ritmos circadianos.",
+    "latency_seconds": 1.0662121772766113
+}

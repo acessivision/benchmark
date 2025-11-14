@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T09:24:14.533084",
+    "date": "2025-11-14",
+    "response": "Com base na imagem fornecida, esta é a descrição do que ela mostra:\n\nEsta é uma foto do interior de um cômodo, com foco em objetos sobre uma mesa escura.\n\nAqui estão os detalhes:\n\n*   **Primeiro plano:** Há uma mesa ou balcão escuro, possivelmente preto, com uma superfície brilhante. Em cima dela, está um frasco branco com uma tampa roxa, que se assemelha a um pote de vitaminas ou suplementos. Há também um pequeno anel preto e parte de outro objeto escuro à esquerda.\n*   **Fundo:** Ao fundo, vemos uma parede de cor clara e um piso de azulejos também claros. Há duas janelas com persianas brancas, por onde entra uma luz forte, indicando que é dia. Através de uma das janelas, é possível notar a silhueta de árvores ou vegetação.\n\nEm resumo, é uma foto casual tirada dentro de uma casa, mostrando uma cena do cotidiano.",
+    "latency_seconds": 31.2504460811615
+}

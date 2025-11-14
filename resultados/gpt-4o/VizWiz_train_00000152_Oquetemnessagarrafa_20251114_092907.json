@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000152.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-11-14T09:28:05.702356",
+    "date": "2025-11-14",
+    "response": "A garrafa contém suplementos de melatonina. A melatonina é frequentemente utilizada como auxílio para dormir, ajudando a regular o ciclo do sono.",
+    "latency_seconds": 26.224853515625
+}

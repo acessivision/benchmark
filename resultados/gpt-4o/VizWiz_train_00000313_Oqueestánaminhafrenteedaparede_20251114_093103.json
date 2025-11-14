@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-14T09:30:10.121956",
+    "date": "2025-11-14",
+    "response": "Na sua frente, há um tapete verde no chão. Perto da parede, há um armário de madeira com portas e prateleiras abertas, contendo aparelhos eletrônicos como uma TV. Ao lado, há uma caixa ou baú escuro que parece ter brinquedos ou outros itens dentro. A foto também mostra parte de um sofá colorido à direita.",
+    "latency_seconds": 10.520401954650879
+}

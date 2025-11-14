@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000509.jpg",
+    "question_original_pt": "De que cor é essa calça?",
+    "timestamp_sent_utc": "2025-11-14T09:31:38.655406",
+    "date": "2025-11-14",
+    "pergunta_translated_en": "What color are these pants?",
+    "response_original_en": "The pants are green.",
+    "response_translated_pt": "As calças são verdes.",
+    "latency_seconds": 1.9784259796142578
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-14T09:23:05.060741",
+    "date": "2025-11-14",
+    "response": "Com base na análise visual da imagem, o edifício principal possui **8 andares** (pisos) visíveis acima do nível do solo, contando as faixas horizontais distintas com janelas.\n\nO último nível é a estrutura do telhado, que não é um andar de escritório completo.",
+    "latency_seconds": 4.032514333724976
+}

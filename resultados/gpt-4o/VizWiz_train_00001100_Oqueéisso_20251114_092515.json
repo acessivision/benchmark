@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T09:24:14.533084",
+    "date": "2025-11-14",
+    "response": "Na imagem, há um frasco sobre uma superfície, possivelmente uma mesa ou balcão. O ambiente parece ser um espaço interno com uma janela ao fundo. Devido à qualidade da imagem, não é possível identificar exatamente o que é o frasco ou seu conteúdo.",
+    "latency_seconds": 2.129840135574341
+}
