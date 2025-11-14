@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "calendario.jpeg",
+    "question_original_pt": "Quais os feriados desse mês",
+    "timestamp_sent_utc": "2025-11-14T06:32:14.589804",
+    "date": "2025-11-14",
+    "response": "Com base no calendário de **Outubro** da Justiça Federal TRF1 (Tribunal Regional Federal da 1ª Região) que aparece na imagem, os feriados e datas comemorativas que geralmente resultam em dia livre são:\n\n1.  **Dia 12 (Domingo):** **Nossa Senhora Aparecida** (Feriado Nacional).\n2.  **Dia 28 (Terça-feira):** **Dia do Servidor Público** (Geralmente considerado ponto facultativo ou feriado nos órgãos públicos, como a Justiça Federal).",
+    "latency_seconds": 4.673580646514893
+}

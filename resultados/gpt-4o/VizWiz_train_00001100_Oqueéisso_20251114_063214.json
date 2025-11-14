@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T06:31:44.909805",
+    "date": "2025-11-14",
+    "response": "Parece ser uma embalagem ou frasco em cima de uma superfície, mas a imagem está um pouco desfocada, dificultando a identificação exata do objeto. Pode ser um tubo ou um recipiente, possivelmente de algum produto de uso doméstico.",
+    "latency_seconds": 3.7652595043182373
+}

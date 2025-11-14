@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T06:34:41.485173",
+    "date": "2025-11-14",
+    "response": "Com base na imagem, a cena é de uma cozinha e mostra os seguintes elementos:\n\n1.  **Fogão (Stovetop):** Uma parte de um fogão (provavelmente a gás, de cor preta) está em destaque no lado esquerdo, mostrando as grelhas e o queimador.\n2.  **Alimento Enlatado (Canned Food):** No lado direito, sobre um balcão de madeira, há uma lata de alimento. O rótulo é parcialmente visível e indica que é um produto da marca **Marie Callender's**, especificamente uma **Sopa estilo \"Pot Pie\"** (Pot Pie Style Soup).\n3.  **Outros Elementos:** O piso é de azulejos claros e a parte inferior da foto mostra as pernas de uma pessoa (usando roupa escura).\n\n**Em resumo, a imagem mostra uma lata de sopa da marca Marie Callender's sobre um balcão, ao lado de um fogão.**",
+    "latency_seconds": 5.085407257080078
+}

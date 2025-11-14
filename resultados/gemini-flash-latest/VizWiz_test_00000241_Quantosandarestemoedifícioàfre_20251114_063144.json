@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-14T06:31:01.107046",
+    "date": "2025-11-14",
+    "response": "O edifício à frente tem **8** andares principais (incluindo o térreo e 7 andares acima dele).\n\nÉ possível contar 7 níveis repetitivos de janelas/fachada acima do nível do solo, mais o piso térreo (totalizando 8). Há também uma pequena estrutura de cobertura/mecânica no topo.",
+    "latency_seconds": 5.318934679031372
+}
