@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T15:20:54.551794",
+    "date": "2025-11-14",
+    "response": "Parece ser um pequeno frasco cilíndrico de plástico com tampa roxa e rótulo branco — provavelmente um frasco de comprimidos/vitaminas ou um pote de tempero. A foto está um pouco desfocada, então não dá para ler o rótulo.\n\nSe quiser que eu confirme, tire uma foto mais próxima e nítida do rótulo (ou vire o frasco para mostrar o topo/etiqueta).",
+    "latency_seconds": 9.244704246520996
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T15:26:42.194987",
+    "date": "2025-11-14",
+    "response": "A imagem mostra uma **lata de sopa** em uma cozinha, descansando sobre um **fogão** preto, ao lado de um **balcão de madeira**.\n\nO produto na lata é identificável:\n\n1.  **Produto:** Sopa (Soup).\n2.  **Estilo/Sabor:** \"Pot Pie Style Soup\" (Sopa estilo Empadão/Torta).\n3.  **Marca:** Parece ser da marca \"Marie Callender's\" (parcialmente visível).\n\nEm resumo, é uma foto de uma lata de sopa enlatada em cima de um fogão.",
+    "latency_seconds": 4.778197765350342
+}

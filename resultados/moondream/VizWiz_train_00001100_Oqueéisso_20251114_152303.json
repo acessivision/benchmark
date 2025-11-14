@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T15:20:54.551794",
+    "date": "2025-11-14",
+    "pergunta_translated_en": "What is that?",
+    "response_original_en": "A dark cylindrical container with text or graphics on its side, placed on a dark surface near a window.",
+    "response_translated_pt": "Um recipiente cilíndrico escuro com texto ou gráficos na lateral, colocado em uma superfície escura perto de uma janela.",
+    "latency_seconds": 2.4755947589874268
+}

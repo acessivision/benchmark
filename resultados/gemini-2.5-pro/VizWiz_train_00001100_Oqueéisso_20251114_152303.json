@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T15:20:54.551794",
+    "date": "2025-11-14",
+    "response": "Com base na imagem fornecida, aqui está uma descrição do que ela mostra:\n\nEsta é uma foto tirada dentro de um cômodo, provavelmente em uma casa ou apartamento. A imagem tem pouca luz e é um pouco granulada.\n\nOs principais elementos na imagem são:\n\n*   **Em primeiro plano:** Há uma superfície escura e brilhante, que parece ser o topo de uma mesa, um balcão ou talvez um piano. Sobre essa superfície, há um **frasco branco com uma tampa roxa ou azul escura**. Parece ser um pote de pílulas, vitaminas ou suplementos. Ao lado e atrás do frasco, há outros objetos escuros, incluindo um com formato de anel.\n*   **Ao fundo:** Há uma **janela dupla com persianas brancas**. A luz que entra pela janela é muito forte, fazendo com que ela fique superexposta (muito clara). Através da janela da direita, é possível ver a silhueta de algumas árvores.\n*   **O ambiente:** O cômodo parece estar relativamente vazio, com paredes claras e um piso de azulejo de cor clara.\n\nEm resumo, é a foto de um frasco (provavelmente de remédio ou vitamina) sobre um móvel escuro, dentro de um cômodo com uma janela muito clara ao fundo.",
+    "latency_seconds": 25.456823348999023
+}

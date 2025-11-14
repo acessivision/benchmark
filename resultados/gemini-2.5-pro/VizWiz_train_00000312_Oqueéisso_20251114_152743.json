@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T15:26:42.194987",
+    "date": "2025-11-14",
+    "response": "Com base na imagem, isto é:\n\nUma **lata de sopa** sobre um **fogão a gás**.\n\nMais detalhadamente:\n\n*   **O objeto principal:** É uma lata de sopa da marca **Marie Callender's**, do tipo \"Pot Pie Style Soup\" (sopa estilo torta salgada).\n*   **A cena:** A lata está equilibrada na beirada de um fogão preto, que parece um pouco sujo. Ao lado do fogão, há uma bancada de madeira.\n*   **A perspectiva:** A foto é tirada de cima para baixo, e no canto inferior é possível ver parte do corpo (pernas e pés) da pessoa que está tirando a foto sobre um piso de azulejo claro.",
+    "latency_seconds": 27.713212966918945
+}

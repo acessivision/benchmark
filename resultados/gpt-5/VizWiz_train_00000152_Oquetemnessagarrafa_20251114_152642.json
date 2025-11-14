@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000152.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-11-14T15:25:47.284054",
+    "date": "2025-11-14",
+    "response": "É um frasco de melatonina — um suplemento usado como auxiliar do sono (parece da marca Nature’s Bounty, “Maximum Strength”). Verifique o rótulo para a dosagem e advertências; se tiver dúvidas, consulte um profissional de saúde.",
+    "latency_seconds": 12.59470534324646
+}

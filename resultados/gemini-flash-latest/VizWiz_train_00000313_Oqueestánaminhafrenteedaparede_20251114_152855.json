@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-14T15:27:43.791607",
+    "date": "2025-11-14",
+    "response": "Com base na imagem, os objetos que estão na sua frente e perto da parede são (da esquerda para a direita, perto da parede):\n\n1. **Um armário de madeira (ou estante/rack) para entretenimento:**\n    * Contém uma **televisão (TV)** no centro superior.\n    * Abaixo da TV, há equipamentos eletrônicos, como um **DVD/Blu-ray player** e outros componentes de áudio/vídeo.\n    * Na parte inferior, possui **portas de madeira com puxadores**.\n    * À esquerda do armário principal, há uma seção de **prateleiras abertas** com itens diversos.\n2. **Um objeto preto (possivelmente um alto-falante grande ou um móvel baixo)** está à esquerda e um pouco à frente do armário de madeira.\n3. **Uma caixa ou baú de armazenamento escuro (preto ou marrom muito escuro):** Este objeto está entre o armário de madeira e o canto da parede. Parece conter alguns objetos soltos, possivelmente brinquedos ou artigos diversos.\n\nEm resumo, a área da parede apresenta principalmente um **conjunto de móveis de entretenimento** e uma **caixa de armazenamento**.",
+    "latency_seconds": 2.549886703491211
+}

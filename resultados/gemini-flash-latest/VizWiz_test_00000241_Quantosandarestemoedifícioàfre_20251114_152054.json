@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-14T15:19:21.813878",
+    "date": "2025-11-14",
+    "response": "O edifício à frente possui **8** andares (oito andares) visíveis, definidos pelas linhas de janelas e pela estrutura da escada externa em zigue-zague.",
+    "latency_seconds": 3.988091468811035
+}

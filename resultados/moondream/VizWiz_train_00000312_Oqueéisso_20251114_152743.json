@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T15:26:42.194987",
+    "date": "2025-11-14",
+    "pergunta_translated_en": "What is that?",
+    "response_original_en": "A can of pot pie placed on a kitchen counter next to a black gas stove.",
+    "response_translated_pt": "Uma lata de torta colocada em um balcão da cozinha ao lado de um fogão a gás preto.",
+    "latency_seconds": 1.8269598484039307
+}
