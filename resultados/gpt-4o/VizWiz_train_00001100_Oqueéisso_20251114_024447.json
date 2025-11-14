@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T02:44:16.640675",
+    "date": "2025-11-14",
+    "response": "A imagem mostra um ambiente interno com uma janela ao fundo e um frasco ou recipiente em cima de uma superfície. Devido à qualidade da imagem, mais detalhes não são claros. Parece ser uma cena em um quarto ou sala.",
+    "latency_seconds": 2.4122023582458496
+}

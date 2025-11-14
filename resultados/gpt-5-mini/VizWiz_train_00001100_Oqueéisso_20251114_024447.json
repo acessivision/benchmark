@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T02:44:16.640675",
+    "date": "2025-11-14",
+    "response": "Parece ser um frasco pequeno com tampa roxa apoiado sobre um eletrodoméstico (talvez um micro-ondas ou geladeira). Pelo rótulo e formato, pode ser um frasco de comprimidos/vitaminas ou um pote de tempero — mas a imagem está um pouco desfocada, então não dá para ler o rótulo com certeza.\n\nQuer que eu tente identificar melhor? Se sim, tire uma foto mais próxima e nítida do rótulo (boa iluminação e foco) e eu dou uma olhada.",
+    "latency_seconds": 6.401320457458496
+}

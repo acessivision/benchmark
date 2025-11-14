@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T02:47:02.896920",
+    "date": "2025-11-14",
+    "response": "A imagem mostra uma cena em uma cozinha.\n\nO objeto em destaque é uma **lata de comida**, que parece ser da marca **Marie Callender's** (visível como \"rie Callender's\") e o produto é uma **Pot Pie Style Soup** (Sopa Estilo Torta Salgada/Empadão).\n\nA lata está apoiada na borda de um **fogão a gás preto** (onde a grelha e o queimador são visíveis) e um **balcão de cozinha de madeira clara**.",
+    "latency_seconds": 4.701781749725342
+}

@@ -169,5 +169,12 @@
         "data/imagens/cardapio_burguers.jpg",
         "data/imagens/VizWiz_train_00001174.jpg",
         "data/imagens/cha_groselha_e_cha_limao.jpeg"
+    ],
+    "2025-11-14": [
+        "data/imagens/placa_SQS113.jpeg",
+        "data/imagens/VizWiz_train_00000507.jpg",
+        "data/imagens/VizWiz_train_00000370.jpg",
+        "data/imagens/VizWiz_test_00000132.jpg",
+        "data/imagens/VizWiz_train_00000733.jpg"
     ]
 }
