@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-14T21:23:19.372239",
+    "date": "2025-11-14",
+    "response": "Parece que há um rack de madeira encostado na parede, com uma televisão e alguns aparelhos eletrônicos. À direita, tem uma caixa de brinquedos ou armazenamento. O chão é coberto por um carpete verde, e há também um sofá estampado no canto da imagem.",
+    "latency_seconds": 4.227295398712158
+}

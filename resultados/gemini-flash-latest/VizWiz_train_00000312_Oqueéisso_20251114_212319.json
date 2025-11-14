@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-14T21:22:47.787733",
+    "date": "2025-11-14",
+    "response": "A imagem mostra uma cena de cozinha. Os elementos principais visíveis são:\n\n1.  **Um Fogão (Stovetop):** Uma parte de um fogão, provavelmente a gás, com grades pretas sobre um queimador. A superfície do fogão parece estar um pouco suja.\n2.  **Uma Lata de Comida:** Uma lata de alimento enlatado está apoiada na bancada de madeira, ao lado do fogão. A embalagem indica que o produto é uma sopa estilo **\"Pot Pie\" (Torta de Frango)**, e a marca parece ser **Marie Callender's**.\n3.  **Bancada de Madeira:** A lata está sobre uma bancada de cozinha de cor clara ou madeira.\n4.  **Chão e Roupa:** No primeiro plano, é possível ver as pernas de uma pessoa (vestindo uma calça escura) e o chão de azulejos claros da cozinha.\n\nEm resumo, é uma foto tirada de cima mostrando uma **lata de sopa Marie Callender's** ao lado de um **fogão**.",
+    "latency_seconds": 6.142791271209717
+}

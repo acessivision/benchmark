@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "calendario.jpeg",
+    "question_original_pt": "Quais os feriados desse mês",
+    "timestamp_sent_utc": "2025-11-14T21:20:17.592883",
+    "date": "2025-11-14",
+    "response": "Erro ao chamar a API: Error code: 400 - {'error': {'message': 'Could not finish the message because max_tokens or model output limit was reached. Please try again with higher max_tokens.', 'type': 'invalid_request_error', 'param': None, 'code': None}}",
+    "latency_seconds": 15.732519149780273
+}

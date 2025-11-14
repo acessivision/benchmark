@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-14T21:19:10.542399",
+    "date": "2025-11-14",
+    "response": "O edifício à frente possui **9** andares (nove andares).\n\nÉ possível contar nove níveis distintos de janelas e varandas, começando do andar térreo (o primeiro nível visível) até o topo, antes da estrutura do telhado/casa de máquinas.",
+    "latency_seconds": 5.1964945793151855
+}
