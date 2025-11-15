@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-15T02:31:21.056092",
+    "date": "2025-11-15",
+    "response": "Com base na imagem, os principais objetos que estão na sua frente e próximos à parede são:\n\n1.  **Móvel de Entretenimento de Madeira:** Um grande armário ou estante de madeira, na cor marrom claro/carvalho, que fica encostado na parede central.\n    *   Ele abriga uma **televisão** (TV) na parte superior.\n    *   Abaixo da TV, há **equipamentos de áudio/vídeo** (como um DVD player ou receptor).\n    *   A parte inferior do móvel possui armários com portas de madeira.\n    *   À esquerda do armário central, há prateleiras abertas com itens diversos.\n\n2.  **Caixa de Armazenamento Escura (Cesto/Baú):** Localizada no chão, entre o armário de madeira e o sofá. É um recipiente retangular escuro (preto ou marrom muito escuro), possivelmente usado para guardar brinquedos ou cobertores, com alguns itens visíveis em seu interior.\n\n3.  **Alto-falante/Caixa Preta (Canto Esquerdo):** Um objeto retangular preto, provavelmente um alto-falante grande ou um subwoofer, posicionado no chão, à esquerda do móvel de entretenimento.\n\n4.  **O Sofá/Poltrona (Lado Direito):** Embora não esteja encostado na parede, grande parte do móvel onde você está sentado (ou que está próximo a você) domina o lado direito da imagem. É um sofá com estofado de padrão colorido (vermelho, verde e padrões geométricos).\n\nO chão é coberto por um **carpete** de cor verde-água/turquesa. No canto superior direito, há uma **janela** com cortina clara, por onde entra a luz.",
+    "latency_seconds": 7.667292594909668
+}

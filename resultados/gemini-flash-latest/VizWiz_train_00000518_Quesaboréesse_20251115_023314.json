@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-15T02:32:56.107040",
+    "date": "2025-11-15",
+    "response": "Com base na imagem, os sabores são **Laranja** (**Orange**) e **Limão-Lima** (**Lemon-Lime**).\n\nA caixa indica que contém:\n\n*   **2 copos de Gelatina sabor Laranja**\n*   **4 copos de Gelatina sabor Limão-Lima**\n\nÉ um mix de sabores de frutas cítricas.",
+    "latency_seconds": 1.2537448406219482
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-15T02:28:44.616084",
+    "date": "2025-11-15",
+    "response": "A imagem mostra uma sala com duas janelas e um objeto que parece ser um frasco em cima de uma superfície. O frasco tem um rótulo, mas não é possível identificar o que está escrito devido à qualidade da imagem. Pode ser um produto de limpeza ou medicamento, mas sem detalhes específicos, é difícil determinar exatamente o que é.",
+    "latency_seconds": 3.299821138381958
+}

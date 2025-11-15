@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-15T02:30:51.343022",
+    "date": "2025-11-15",
+    "response": "Com base na imagem, posso identificar vários itens:\n\n1. **Fogão/Cooktop:** A maior parte da imagem mostra a superfície preta de um fogão ou cooktop a gás. É possível ver a grade de suporte (trempe) e o queimador no centro.\n2. **Lata de Comida:** No canto superior direito, há uma lata de comida. O rótulo é parcialmente visível e diz \"Marie Callender's\" (marca) e \"Pot Pie Style Soup\" (Sopa Estilo Torta/Empadão).\n3. **Bancada/Armário:** A lata está apoiada em uma superfície de madeira clara (uma bancada ou topo de armário).\n4. **Chão:** A parte inferior da imagem mostra um piso de azulejos claros.\n5. **Parte de uma Pessoa:** Na parte inferior, é visível uma parte das pernas de alguém vestindo algo azul marinho (talvez calças ou shorts) e pés no chão (sapatos ou meias claras).\n\n**Em resumo, a imagem mostra uma lata de Sopa Estilo Torta (Pot Pie Soup) da marca Marie Callender's sobre uma bancada, próxima a um fogão de cozinha.**",
+    "latency_seconds": 2.4766244888305664
+}

@@ -176,5 +176,12 @@
         "data/imagens/VizWiz_train_00000370.jpg",
         "data/imagens/VizWiz_test_00000132.jpg",
         "data/imagens/VizWiz_train_00000733.jpg"
+    ],
+    "2025-11-15": [
+        "data/imagens/VizWiz_train_00000296.jpg",
+        "data/imagens/VizWiz_train_00001174.jpg",
+        "data/imagens/tabela_climatica.png",
+        "data/imagens/VizWiz_train_00001232.jpg",
+        "data/imagens/propolis_imagem_cortada.jpeg"
     ]
 }
