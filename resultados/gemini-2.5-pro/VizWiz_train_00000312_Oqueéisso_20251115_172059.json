@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-15T17:20:16.925515",
+    "date": "2025-11-15",
+    "response": "Com base na imagem, isto é uma cena em uma cozinha.\n\nAqui estão os elementos principais na foto:\n\n*   **Uma lata de sopa:** É o objeto mais proeminente, além do fogão. A etiqueta mostra que é uma sopa estilo \"Pot Pie\" da marca **Marie Callender's**. A lata está na beirada de uma bancada de madeira.\n*   **Um fogão:** Um fogão preto, do tipo a gás, com grades de metal. Parece um pouco sujo, com algumas migalhas.\n*   **Uma cozinha:** O ambiente geral é uma cozinha, como indicado pelo fogão, a bancada e o piso de azulejo visível na parte inferior.\n*   **Uma pessoa:** A parte inferior da imagem mostra as pernas de uma pessoa (provavelmente quem tirou a foto) vestindo calças azuis.\n\nEm resumo, é uma foto de uma lata de sopa em uma bancada de cozinha, ao lado de um fogão.",
+    "latency_seconds": 20.038779258728027
+}

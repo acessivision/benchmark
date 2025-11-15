@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000033.jpg",
+    "question_original_pt": "Isso é uma garrafa de medicação e eu só gostaria de saber se tem uma etiqueta e informações de dosagem visíveis. Obrigado.",
+    "timestamp_sent_utc": "2025-11-15T17:18:58.808867",
+    "date": "2025-11-15",
+    "pergunta_translated_en": "This is a bottle of medication and I would just like to know if it has a visible label and dosage information. Thanks.",
+    "response_original_en": "The bottle does not have a visible label or dosage information in the image.",
+    "response_translated_pt": "O frasco não possui rótulo visível ou informações de dosagem na imagem.",
+    "latency_seconds": 3.5083024501800537
+}

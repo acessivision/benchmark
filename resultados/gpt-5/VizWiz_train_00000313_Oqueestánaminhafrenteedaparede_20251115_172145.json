@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-15T17:20:59.915436",
+    "date": "2025-11-15",
+    "response": "Uma TV em um móvel de madeira encostado na parede.",
+    "latency_seconds": 11.317305564880371
+}

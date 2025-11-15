@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-15T17:17:06.292299",
+    "date": "2025-11-15",
+    "response": "Com base na imagem, esta é uma fotografia tirada dentro de um cômodo que parece estar pouco mobiliado ou vazio.\n\nAqui estão os principais elementos da imagem:\n\n*   **Primeiro plano:** Uma superfície escura e brilhante, provavelmente uma mesa ou um balcão. Sobre ela, há um frasco branco com uma tampa roxa, que pode ser um pote de vitaminas, suplementos ou algum tipo de produto de limpeza.\n*   **Fundo:** Uma parede de cor clara e um piso de cerâmica ou porcelanato. Há duas janelas com persianas brancas, por onde entra uma luz muito forte, deixando o ambiente em contraluz e dificultando a visão do que há do lado de fora, embora seja possível perceber a silhueta de algumas árvores.\n\nA foto tem um aspecto casual e foi tirada em condições de pouca luz interna, com a principal fonte de iluminação vindo das janelas ao fundo.",
+    "latency_seconds": 15.46950888633728
+}
