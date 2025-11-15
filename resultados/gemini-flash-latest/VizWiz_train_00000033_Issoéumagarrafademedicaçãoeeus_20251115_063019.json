@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000033.jpg",
+    "question_original_pt": "Isso é uma garrafa de medicação e eu só gostaria de saber se tem uma etiqueta e informações de dosagem visíveis. Obrigado.",
+    "timestamp_sent_utc": "2025-11-15T06:29:45.260629",
+    "date": "2025-11-15",
+    "response": "Com base na imagem fornecida, posso confirmar o seguinte:\n\n1.  **É uma garrafa de medicação/produto:** Sim, parece ser um pequeno frasco (de cor verde-azulada) com uma tampa branca, o que é comum para medicamentos ou produtos de saúde.\n2.  **Tem uma etiqueta visível:** Sim, há uma etiqueta afixada ao redor da garrafa, distinguível pelas cores (parece ter seções em vermelho e letras escuras).\n\n**No entanto, a imagem está extremamente desfocada (fora de foco). Por causa disso, não é possível ler nenhum texto na etiqueta, o que significa que as informações de dosagem, nome do medicamento ou outras informações cruciais não estão visíveis ou legíveis.**",
+    "latency_seconds": 5.4587178230285645
+}

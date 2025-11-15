@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-15T06:33:34.381655",
+    "date": "2025-11-15",
+    "response": "Com base na embalagem visível na imagem, este é um pacote misto de gelatinas (copos de gelatina de baixa caloria).\n\nOs sabores inclusos são:\n\n1.  **Laranja** (Orange)\n2.  **Limão-Lima** (Lemon-Lime)\n\nA caixa contém 2 copos sabor Laranja e 4 copos sabor Limão-Lima.",
+    "latency_seconds": 4.771238803863525
+}

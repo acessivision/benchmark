@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-15T06:28:32.492552",
+    "date": "2025-11-15",
+    "response": "A imagem mostra o interior de um ambiente com uma janela ao fundo. Em primeiro plano, parece haver um objeto em cima de uma superfície escura, possivelmente um pote ou um frasco. A resolução não permite identificar detalhes específicos do objeto, mas pela forma, pode ser algum tipo de embalagem.",
+    "latency_seconds": 2.476016044616699
+}

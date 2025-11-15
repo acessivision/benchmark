@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-15T06:31:15.572517",
+    "date": "2025-11-15",
+    "response": "Com base na imagem, os principais itens que estão visíveis entre a sua perspectiva (o observador) e a parede, no plano médio e de fundo, são:\n\n1. **Um tapete/carpete verde-azulado** que cobre todo o chão.\n2. **Um armário de madeira (Rack/Estante de TV):** Este móvel está encostado na parede e abriga uma televisão e outros equipamentos eletrônicos (como um DVD player ou decodificador) e tem armários na parte inferior.\n3. **Um alto-falante/caixa de som preta:** Localizada no canto esquerdo, ao lado do armário de madeira.\n4. **Um baú ou caixa de armazenamento escura (possivelmente preta ou marrom-escura):** Localizada à direita do armário de madeira, encostada na parede, e que parece conter alguns objetos ou brinquedos.\n\nNo plano mais próximo, mas fora do eixo central, também está visível:\n\n5. **Um sofá ou poltrona grande:** Localizado à direita, com um estofamento de padrão xadrez ou tribal nas cores vermelho, verde e preto.\n\nE no primeiro plano (o que está mais próximo da câmera):\n\n6. **A perna de alguém (vestida com calça jeans):** Indica a perspectiva do observador.",
+    "latency_seconds": 2.8660342693328857
+}

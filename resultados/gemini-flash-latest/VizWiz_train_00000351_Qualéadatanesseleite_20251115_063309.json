@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000351.jpg",
+    "question_original_pt": "Qual é a data nesse leite?",
+    "timestamp_sent_utc": "2025-11-15T06:32:38.221992",
+    "date": "2025-11-15",
+    "response": "Com base na imagem, a data de validade (\"USE BY\") impressa na parte superior da caixa de leite de amêndoa é:\n\n**FEB 08 13**\n\nOu seja, **08 de fevereiro de 2013.**\n\nO carimbo também inclui a hora: **05:44** (5 horas e 44 minutos da manhã).",
+    "latency_seconds": 3.192023992538452
+}
