@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-15T21:17:16.054831",
+    "date": "2025-11-15",
+    "response": "A imagem mostra um frasco em uma superfície, provavelmente parte de um móvel. Não consigo identificar exatamente que produto é, pois o rótulo não está legível na foto. Poderia ser um frasco de suplemento, medicamento ou algum produto de limpeza.",
+    "latency_seconds": 3.2277727127075195
+}

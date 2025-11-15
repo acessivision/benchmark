@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000033.jpg",
+    "question_original_pt": "Isso é uma garrafa de medicação e eu só gostaria de saber se tem uma etiqueta e informações de dosagem visíveis. Obrigado.",
+    "timestamp_sent_utc": "2025-11-15T21:18:40.094964",
+    "date": "2025-11-15",
+    "response": "Com base na imagem, sim, há um frasco de medicamento (ou o que parece ser um pote/garrafa de produto farmacêutico) no balcão.\n\n**No entanto, a imagem está extremamente fora de foco (embaçada).**\n\nEmbora seja possível ver que há um rótulo na garrafa, **não é possível ler nenhuma informação específica, incluindo o nome do medicamento ou as instruções de dosagem.**\n\nO frasco parece ser de cor verde-escura com uma tampa branca, e o rótulo tem cores vermelhas e brancas, mas o texto é completamente ilegível devido à qualidade da foto.",
+    "latency_seconds": 5.082168340682983
+}

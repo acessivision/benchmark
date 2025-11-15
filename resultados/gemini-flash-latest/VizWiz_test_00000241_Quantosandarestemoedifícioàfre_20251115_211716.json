@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-15T21:16:40.079429",
+    "date": "2025-11-15",
+    "response": "O edifício à frente (o bloco alto) possui **10** andares visíveis, contando desde o nível mais baixo até o último andar habitável antes da estrutura do telhado.",
+    "latency_seconds": 5.309334754943848
+}

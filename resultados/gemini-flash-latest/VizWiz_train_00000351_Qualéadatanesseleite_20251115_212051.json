@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000351.jpg",
+    "question_original_pt": "Qual é a data nesse leite?",
+    "timestamp_sent_utc": "2025-11-15T21:20:24.216126",
+    "date": "2025-11-15",
+    "response": "A data que está impressa no topo da embalagem, sob a indicação \"USE BY:\" (Usar até), é:\n\n**FEB 08 13**\n\nOu seja: **08 de fevereiro de 2013.**\n\nO carimbo completo é: **FEB 08 13 05:44** (8 de fevereiro de 2013, 05:44 da manhã).",
+    "latency_seconds": 3.098360300064087
+}

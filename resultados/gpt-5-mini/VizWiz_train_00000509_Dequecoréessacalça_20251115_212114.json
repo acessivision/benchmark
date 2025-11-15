@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000509.jpg",
+    "question_original_pt": "De que cor é essa calça?",
+    "timestamp_sent_utc": "2025-11-15T21:20:51.135644",
+    "date": "2025-11-15",
+    "response": "Parece cinza escuro (quase grafite). A iluminação amarelada da foto pode fazer a cor parecer um pouco diferente, mas é basicamente um tom escuro de cinza.",
+    "latency_seconds": 4.385581016540527
+}
