@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-15T15:22:48.544924",
+    "date": "2025-11-15",
+    "response": "Com base na imagem, esta é uma foto tirada em uma cozinha que mostra:\n\n*   **Uma lata de sopa:** A lata é da marca **Marie Callender's** e o sabor é **\"Pot Pie Style Soup\"** (Sopa Estilo Torta).\n*   **Um fogão a gás:** A lata está apoiada na beirada de uma bancada de madeira, ao lado de um fogão preto.\n\nA foto parece ser tirada de um ponto de vista de cima para baixo, mostrando também o chão de azulejos e parte das pernas de quem está tirando a foto.",
+    "latency_seconds": 28.194038152694702
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-15T15:23:38.665093",
+    "date": "2025-11-15",
+    "response": "Com base na imagem, na sua frente (e encostado na parede) você tem vários objetos principais em uma sala de estar:\n\n1.  **Um Centro de Entretenimento de Madeira:** Um armário grande e alto feito de madeira de cor clara (pinho ou carvalho), que abriga:\n    *   Uma **Televisão** de tela plana.\n    *   Aparelhos eletrônicos (como um DVD player ou decodificador) abaixo da TV.\n    *   Armários com portas de madeira na parte inferior e prateleiras abertas na lateral.\n\n2.  **Uma Caixa de Armazenamento/Baú Escuro:** À direita do centro de entretenimento, há uma caixa ou baú de armazenamento grande de cor escura (preta ou marrom escuro), que parece estar guardando brinquedos ou outros itens domésticos.\n\n3.  **Um Alto-falante/Caixa de Som Preto:** Imediatamente à esquerda do centro de entretenimento, há um objeto quadrado preto, provavelmente uma caixa de som ou subwoofer.\n\n4.  **O Carpete:** Todo o chão é coberto por um carpete de cor verde-água ou azul-turquesa.\n\n*(No canto superior direito, também é visível parte de um sofá ou poltrona com estampa xadrez ou em padrões coloridos (vermelho, verde e escuro).)*",
+    "latency_seconds": 6.6094019412994385
+}

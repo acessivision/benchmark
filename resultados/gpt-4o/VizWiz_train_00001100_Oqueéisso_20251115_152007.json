@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-15T15:19:22.407363",
+    "date": "2025-11-15",
+    "response": "A imagem parece mostrar um ambiente interno, possivelmente uma sala, com uma pequena lata ou frasco sobre uma superfície. Devido à qualidade da imagem, não é possível identificar exatamente o que está no frasco. Poderia ser um produto de limpeza ou algo semelhante, mas sem mais detalhes visíveis, não dá para ter certeza.",
+    "latency_seconds": 3.459261417388916
+}
