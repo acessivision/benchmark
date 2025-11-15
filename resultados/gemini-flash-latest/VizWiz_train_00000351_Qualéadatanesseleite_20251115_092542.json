@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000351.jpg",
+    "question_original_pt": "Qual é a data nesse leite?",
+    "timestamp_sent_utc": "2025-11-15T09:25:08.251956",
+    "date": "2025-11-15",
+    "response": "Com base na imagem, a data de validade (USE BY) é:\n\n**FEB 08 13**\n\nOu seja, **8 de fevereiro de 2013**.\n\nA embalagem também indica a hora: **05:44**.",
+    "latency_seconds": 1.4113621711730957
+}

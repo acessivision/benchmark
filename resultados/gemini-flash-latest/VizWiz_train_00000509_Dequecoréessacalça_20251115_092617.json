@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000509.jpg",
+    "question_original_pt": "De que cor é essa calça?",
+    "timestamp_sent_utc": "2025-11-15T09:25:42.224554",
+    "date": "2025-11-15",
+    "response": "A calça (ou a peça de roupa na perna) é de cor **verde escura**, um tom que se assemelha a **verde-oliva** ou **verde militar**.",
+    "latency_seconds": 3.641369104385376
+}

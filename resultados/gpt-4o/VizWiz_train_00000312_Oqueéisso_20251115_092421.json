@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-15T09:23:44.272107",
+    "date": "2025-11-15",
+    "response": "Esta é uma foto de uma lata de sopa colocada sobre um fogão. A lata parece ser de uma sopa que imita uma torta. O fogão tem queimadores a gás.",
+    "latency_seconds": 1.8280723094940186
+}

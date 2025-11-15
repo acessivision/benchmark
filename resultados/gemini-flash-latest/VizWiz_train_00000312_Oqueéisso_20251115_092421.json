@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-15T09:23:44.272107",
+    "date": "2025-11-15",
+    "response": "A imagem mostra uma cena em uma cozinha. Os principais elementos visíveis são:\n\n1.  **Um fogão (cooktop):** A parte superior de um fogão, provavelmente a gás, de cor preta, com as grades sobre os queimadores.\n2.  **Uma lata de comida:** Uma lata de conserva, que parece ser da marca **Marie Callender's**. O rótulo indica que o conteúdo é uma sopa estilo \"Pot Pie\" (Pot Pie Style Soup).\n3.  **Uma bancada/balcão de madeira:** Onde a lata está apoiada.\n4.  **Piso:** Um piso de azulejos claros na parte inferior.\n\nEm resumo, é uma foto da parte de cima de um fogão com uma lata de sopa enlatada em uma bancada de cozinha.",
+    "latency_seconds": 4.652919769287109
+}

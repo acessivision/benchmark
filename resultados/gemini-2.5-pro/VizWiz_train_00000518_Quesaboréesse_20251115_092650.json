@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-15T09:26:17.507627",
+    "date": "2025-11-15",
+    "response": "Com base na imagem, a embalagem contém gelatinas de dois sabores diferentes:\n\n*   **Laranja** (Orange)\n*   **Lima-Limão** (Lemon-Lime)\n\nEspecificamente, a caixa diz \"2 ORANGE & 4 LEMON-LIME\", o que significa que vem com 2 copinhos de gelatina de laranja e 4 copinhos de gelatina de lima-limão.",
+    "latency_seconds": 13.04573369026184
+}

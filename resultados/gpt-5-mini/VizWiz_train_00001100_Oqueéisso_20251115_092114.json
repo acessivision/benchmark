@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-15T09:20:29.819794",
+    "date": "2025-11-15",
+    "response": "Parece um frasco cilíndrico pequeno com tampa roscada — provavelmente um frasco de comprimidos/vitaminas/suplemento ou um pote de tempero. A imagem está um pouco desfocada e não dá para ler o rótulo, então não consigo identificar exatamente o conteúdo.\n\nQuer que eu tente ampliar/recortar a imagem para ver melhor? Ou pode tirar outra foto mais próxima e focada no rótulo que eu tento ler/ajudar a identificar.",
+    "latency_seconds": 6.066103219985962
+}

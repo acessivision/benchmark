@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-15T09:19:29.687248",
+    "date": "2025-11-15",
+    "response": "Com base na imagem, o edifício principal parece ter **8 andares** (incluindo o piso térreo).\n\nPodemos contar 8 faixas horizontais distintas de janelas/estrutura antes de chegar ao telhado.",
+    "latency_seconds": 4.832735300064087
+}

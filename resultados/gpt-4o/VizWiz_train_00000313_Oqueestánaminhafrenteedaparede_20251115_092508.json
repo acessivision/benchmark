@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-15T09:24:21.604551",
+    "date": "2025-11-15",
+    "response": "Na sua frente, há um joelho visível na parte inferior da imagem. Perto da parede, há uma estante de madeira que contém uma televisão e outros dispositivos eletrônicos. Ao lado, há uma caixa grande que parece conter brinquedos ou objetos diversos. Um sofá colorido também é visível no canto direito da imagem.",
+    "latency_seconds": 3.4165732860565186
+}

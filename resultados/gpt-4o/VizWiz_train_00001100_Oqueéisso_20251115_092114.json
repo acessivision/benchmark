@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-15T09:20:29.819794",
+    "date": "2025-11-15",
+    "response": "A imagem está um pouco escura, mas parece mostrar um pote ou frasco em cima de uma superfície. O ambiente parecer ser uma sala com piso de cerâmica e uma janela ao fundo. É difícil identificar exatamente o que está no frasco sem detalhes visíveis.",
+    "latency_seconds": 2.1062099933624268
+}

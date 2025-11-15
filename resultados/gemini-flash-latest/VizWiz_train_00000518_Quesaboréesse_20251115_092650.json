@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-15T09:26:17.507627",
+    "date": "2025-11-15",
+    "response": "Com base na imagem, que mostra a caixa de um produto de gelatina (gelatin cups), os sabores incluídos são:\n\n**Laranja (Orange)** e **Limão-Lima (Lemon-Lime)**.\n\nA embalagem especifica: \"2 Orange & 4 Lemon-Lime Low Calorie Gelatin Cups\". (2 copos de gelatina de Laranja e 4 copos de gelatina de Limão-Lima de Baixas Calorias).",
+    "latency_seconds": 1.2735061645507812
+}
