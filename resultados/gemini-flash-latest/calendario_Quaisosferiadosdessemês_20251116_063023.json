@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "calendario.jpeg",
+    "question_original_pt": "Quais os feriados desse mês",
+    "timestamp_sent_utc": "2025-11-16T06:29:59.362913",
+    "date": "2025-11-16",
+    "response": "Com base na imagem do calendário do mês de **Outubro**, os feriados e datas administrativas destacadas são:\n\n1.  **Nossa Senhora Aparecida:** Dia **12** (Feriado Nacional, indicado pelo símbolo $\\diamond$).\n2.  **Dia do Servidor Público:** Dia **28** (Data administrativa que geralmente resulta em suspensão de expediente/ponto facultativo, indicada pelo símbolo $\\triangleright$).",
+    "latency_seconds": 4.310386896133423
+}

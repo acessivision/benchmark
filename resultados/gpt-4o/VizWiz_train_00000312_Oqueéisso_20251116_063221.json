@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T06:31:55.249791",
+    "date": "2025-11-16",
+    "response": "Esta é uma imagem de uma lata de sopa \"Pot Pie\" sobre uma bancada ao lado de um fogão. Está posicionada de forma que parte do rótulo é visível, e parece estar em uma cozinha.",
+    "latency_seconds": 2.8643555641174316
+}

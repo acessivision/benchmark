@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-16T06:28:55.864969",
+    "date": "2025-11-16",
+    "response": "O edifício à frente possui **9 andares** visíveis.\n\nContando a partir da base até o telhado:\n\n1.  **Térreo/Base** (o nível de acesso principal)\n2.  **1º Andar**\n3.  **2º Andar**\n4.  **3º Andar**\n5.  **4º Andar**\n6.  **5º Andar**\n7.  **6º Andar**\n8.  **7º Andar**\n9.  **Andar superior/Nível Técnico** (o topo do prédio onde estão as antenas e a estrutura do telhado).\n\nPortanto, são 9 níveis horizontais distintos.",
+    "latency_seconds": 5.9332435131073
+}

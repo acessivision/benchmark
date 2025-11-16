@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000509.jpg",
+    "question_original_pt": "De que cor é essa calça?",
+    "timestamp_sent_utc": "2025-11-16T06:33:11.249150",
+    "date": "2025-11-16",
+    "response": "A cor dessa calça é um tom de **verde escuro** ou **verde-oliva** (também chamado de verde militar).\n\nÉ um verde bem desaturado e opaco, que pode parecer quase cinza-esverdeado sob certas luzes.",
+    "latency_seconds": 3.994382381439209
+}

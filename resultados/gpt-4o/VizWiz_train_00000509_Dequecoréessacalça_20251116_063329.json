@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000509.jpg",
+    "question_original_pt": "De que cor é essa calça?",
+    "timestamp_sent_utc": "2025-11-16T06:33:11.249150",
+    "date": "2025-11-16",
+    "response": "A calça parece ser de cor verde escuro.",
+    "latency_seconds": 2.0155622959136963
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T06:29:27.836060",
+    "date": "2025-11-16",
+    "response": "Parece ser um frasco cilíndrico com tampa roxa — provavelmente um frasco de comprimidos, vitaminas ou suplemento. Está apoiado numa superfície escura (parece o tampo de um fogão ou bancada). Ao fundo há janelas e um piso de azulejo.  \n\nQuer que eu aproxime/corte a imagem para tentar ler o rótulo?",
+    "latency_seconds": 7.442394256591797
+}
