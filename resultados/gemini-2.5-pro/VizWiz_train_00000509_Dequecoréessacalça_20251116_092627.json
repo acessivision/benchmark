@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000509.jpg",
+    "question_original_pt": "De que cor é essa calça?",
+    "timestamp_sent_utc": "2025-11-16T09:25:56.298359",
+    "date": "2025-11-16",
+    "response": "Com base na imagem, a calça parece ser **verde-escura**.\n\nPode ser descrita mais especificamente como um tom de **verde-musgo** ou **verde-oliva**. A iluminação do ambiente, que é um pouco amarelada, pode influenciar a percepção da cor, mas o tom predominante é verde.",
+    "latency_seconds": 14.174969911575317
+}

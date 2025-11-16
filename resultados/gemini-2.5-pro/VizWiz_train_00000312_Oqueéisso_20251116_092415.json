@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T09:23:32.779805",
+    "date": "2025-11-16",
+    "response": "Com base na imagem, isto é uma foto de uma cozinha, mostrando os seguintes elementos:\n\n*   **Uma lata de sopa:** É uma sopa estilo \"Pot Pie\" (um tipo de torta salgada) da marca Marie Callender's. A lata está apoiada na borda do fogão.\n*   **Um fogão a gás:** O fogão é preto e parece ter algumas migalhas ou sujeira na superfície.\n*   **O ambiente:** A foto é tirada de uma perspectiva de cima para baixo. Ao lado do fogão, há uma bancada de madeira. No chão, é possível ver azulejos claros e a parte de baixo de uma pessoa (calças e pés).",
+    "latency_seconds": 22.41239881515503
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-16T09:19:46.798021",
+    "date": "2025-11-16",
+    "response": "Com base na análise da imagem, contando-se as fileiras de janelas e os patamares (balcões) claramente definidos que representam cada andar:\n\nO edifício possui **8** andares funcionais, além do nível do telhado (onde estão as antenas e equipamentos).",
+    "latency_seconds": 4.350073337554932
+}

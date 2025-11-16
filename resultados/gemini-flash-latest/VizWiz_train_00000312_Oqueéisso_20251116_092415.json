@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T09:23:32.779805",
+    "date": "2025-11-16",
+    "response": "Esta imagem mostra:\n\n1.  **Uma lata de sopa:** O objeto principal é uma lata (cilíndrica, de metal).\n2.  **Identificação da Sopa:** Pelo rótulo, é possível identificar que é da marca **Marie Callender's** (ou similar) e o sabor é **\"Pot Pie Style Soup\"** (Sopa Estilo Torta de Panela).\n3.  **O Ambiente:** A lata está apoiada na borda de um fogão preto (com a grelha e um queimador visíveis) e em uma bancada de madeira clara ou laminado. O ambiente é uma cozinha.",
+    "latency_seconds": 4.1624438762664795
+}

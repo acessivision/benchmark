@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T09:20:25.340253",
+    "date": "2025-11-16",
+    "response": "A imagem está um pouco desfocada, mas parece ser um recipiente ou pote em cima de uma superfície escura, possivelmente um balcão. Pode ser algum tipo de produto em uma embalagem cilíndrica.",
+    "latency_seconds": 1.7052180767059326
+}

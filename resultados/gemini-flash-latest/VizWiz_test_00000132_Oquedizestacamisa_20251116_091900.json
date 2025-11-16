@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000132.jpg",
+    "question_original_pt": "O que diz esta camisa?",
+    "timestamp_sent_utc": "2025-11-16T09:18:24.738352",
+    "date": "2025-11-16",
+    "response": "A camisa, que é verde de manga comprida, tem um logotipo e texto em branco.\n\nO que está escrito é:\n\n**sight**\n**connection**\n**living well with vision loss**\n\n(Além de um gráfico de folhas estilizadas ao lado do texto principal.)\n\n---\n**Tradução:**\n\n**conexão de visão**\n**vivendo bem com perda de visão**",
+    "latency_seconds": 3.6253812313079834
+}

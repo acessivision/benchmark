@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-16T09:19:46.798021",
+    "date": "2025-11-16",
+    "response": "Sete andares. Contando as faixas de janelas/balconies visíveis, há 7 pisos.",
+    "latency_seconds": 7.036238670349121
+}
