@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000351.jpg",
+    "question_original_pt": "Qual é a data nesse leite?",
+    "timestamp_sent_utc": "2025-11-16T17:22:31.366851",
+    "date": "2025-11-16",
+    "response": "A data no leite é \"FEB 08 13\".",
+    "latency_seconds": 1.3142597675323486
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T17:17:45.537688",
+    "date": "2025-11-16",
+    "response": "Com base na imagem, esta é uma foto tirada dentro de um cômodo com pouca luz.\n\nAqui estão os elementos visíveis:\n\n*   **Primeiro plano:** A borda de uma mesa ou balcão escuro e reflexivo. Sobre ele, há um pote branco com uma tampa roxa, que parece ser um frasco de suplementos, vitaminas ou um produto similar.\n*   **Fundo:** Duas janelas com persianas brancas, por onde entra muita luz, fazendo com que o interior do cômodo pareça escuro em comparação. O piso é de azulejo claro e as paredes também são de cor clara.\n\nEm resumo, é uma foto do interior de um cômodo, possivelmente uma cozinha ou sala, com um pote sobre uma superfície escura.",
+    "latency_seconds": 22.47059202194214
+}

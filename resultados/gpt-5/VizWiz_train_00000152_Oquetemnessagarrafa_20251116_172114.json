@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000152.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-11-16T17:20:34.993059",
+    "date": "2025-11-16",
+    "response": "Melatonina — é um frasco de suplemento de melatonina (auxiliar do sono).",
+    "latency_seconds": 5.673712491989136
+}

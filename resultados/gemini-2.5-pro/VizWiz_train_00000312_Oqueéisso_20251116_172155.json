@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T17:21:14.713792",
+    "date": "2025-11-16",
+    "response": "Com base na imagem, isto é:\n\nUma lata de sopa da marca **Marie Callender's**, sabor **\"Pot Pie Style Soup\"** (Sopa Estilo Torta Salgada), que está sobre uma bancada de madeira ao lado de um fogão a gás preto.\n\nA foto foi tirada de cima para baixo, em uma cozinha, e é possível ver também o chão de ladrilhos e os pés da pessoa que está fotografando.",
+    "latency_seconds": 20.852481842041016
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000509.jpg",
+    "question_original_pt": "De que cor é essa calça?",
+    "timestamp_sent_utc": "2025-11-16T17:22:50.651869",
+    "date": "2025-11-16",
+    "response": "Parece verde-oliva (um verde escuro acinzentado). A luz amarelada da foto pode deixar o tom um pouco diferente; à luz natural deve parecer um oliva/cinza‑esverdeado.",
+    "latency_seconds": 12.440020322799683
+}

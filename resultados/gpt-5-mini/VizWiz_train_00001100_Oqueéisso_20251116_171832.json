@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T17:17:45.537688",
+    "date": "2025-11-16",
+    "response": "Parece ser um frasco cilíndrico com tampa — provavelmente um frasco de comprimidos/suplemento/vitamina ou outro tipo de produto embalado (remédio, suplemento alimentar, etc.). Estou pouco confiante porque a foto está distante e o rótulo não aparece legível.\n\nQuer que eu tente identificar melhor? Duas opções:\n- tire e envie uma foto mais próxima e bem iluminada do rótulo (frente e verso);\n- ou descreva o que está escrito no rótulo (nome, ingredientes, dosagens).\n\nSe for um medicamento, cuidado ao abrir: só abra se for seu e tiver certeza do uso.",
+    "latency_seconds": 6.476888418197632
+}

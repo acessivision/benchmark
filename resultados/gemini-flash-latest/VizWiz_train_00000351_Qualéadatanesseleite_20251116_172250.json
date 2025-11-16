@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000351.jpg",
+    "question_original_pt": "Qual é a data nesse leite?",
+    "timestamp_sent_utc": "2025-11-16T17:22:31.366851",
+    "date": "2025-11-16",
+    "response": "A data de validade (\"USE BY\") impressa no topo da embalagem é:\n\n**FEB 08 13**\n\nOu seja: **8 de Fevereiro de 2013.**\n\n(O restante do código é a hora e o lote de produção: 05:44 M 51-4109.)",
+    "latency_seconds": 3.553084373474121
+}

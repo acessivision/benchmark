@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T17:17:45.537688",
+    "date": "2025-11-16",
+    "response": "A imagem está um pouco desfocada, mas parece ser um frasco ou recipiente em cima de uma superfície escura, talvez uma bancada. Não dá para identificar exatamente o produto ou objeto devido à qualidade da imagem.",
+    "latency_seconds": 1.8374764919281006
+}
