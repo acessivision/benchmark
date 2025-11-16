@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000132.jpg",
+    "question_original_pt": "O que diz esta camisa?",
+    "timestamp_sent_utc": "2025-11-16T15:17:10.506351",
+    "date": "2025-11-16",
+    "response": "A camisa é verde e tem um logotipo em branco.\n\nO texto principal em inglês diz:\n\n**sight connection**\n\nE abaixo, em letras menores, há um slogan:\n\n**living well with vision loss**\n\n---\n\n**Tradução para o português:**\n\n*   **sight connection:** conexão com a visão (ou \"Conexão Vista\")\n*   **living well with vision loss:** vivendo bem com a perda de visão",
+    "latency_seconds": 3.5429205894470215
+}

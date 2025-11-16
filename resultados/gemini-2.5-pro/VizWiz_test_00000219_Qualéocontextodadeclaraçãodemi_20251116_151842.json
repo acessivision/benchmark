@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000219.jpg",
+    "question_original_pt": "Qual é o contexto da declaração de missão?",
+    "timestamp_sent_utc": "2025-11-16T15:17:49.980840",
+    "date": "2025-11-16",
+    "response": "Com base na imagem, o contexto da declaração de missão é o seguinte:\n\nA declaração de missão pertence ao **Conselho Consultivo do Prefeito sobre Deficiência** (Mayor's Advisory Council on Disability).\n\nEla está listada no topo da **pauta de uma Reunião Plenária do Conselho**, datada de 15 de junho. A declaração de missão e a declaração de visão são apresentadas antes do início dos itens da agenda da reunião (como boas-vindas, revisão da ata, etc.).\n\nPortanto, o contexto é que esta declaração serve como o princípio orientador e o propósito fundamental do conselho, que são:\n\n1.  **Promover o empoderamento** de pessoas com deficiência na comunidade de Indianápolis.\n2.  **Aconselhar a Administração** da cidade sobre questões que impactam essa comunidade.",
+    "latency_seconds": 16.34400701522827
+}

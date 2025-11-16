@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-16T15:18:42.490819",
+    "date": "2025-11-16",
+    "response": "O edifício visível na imagem (o prédio mais alto) tem **10 andares** (ou pisos) acima do nível do solo, contando a partir da base até o topo estrutural onde se encontram as antenas.",
+    "latency_seconds": 4.2280871868133545
+}

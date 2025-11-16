@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T15:23:29.956601",
+    "date": "2025-11-16",
+    "response": "A imagem mostra uma cena de cozinha, focada em alguns objetos principais:\n\n1.  **Um Fogão (Stovetop):** A maior parte da imagem é ocupada por uma superfície preta de fogão a gás, incluindo a grade do queimador.\n2.  **Uma Lata de Sopa:** Há uma lata de comida na lateral direita, apoiada na junção do fogão com o balcão. A lata é da marca **Marie Callender's** e o produto é uma sopa no estilo **\"Pot Pie\" (Pot Pie Style Soup)**.\n3.  **Uma Bancada de Madeira:** Parte da bancada de cozinha de cor clara é visível no lado direito.\n\nEm resumo, é uma foto de uma **lata de sopa pronta (Marie Callender's) sobre um fogão de cozinha**.",
+    "latency_seconds": 5.107815980911255
+}

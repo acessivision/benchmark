@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T15:19:36.489277",
+    "date": "2025-11-16",
+    "response": "Com base na imagem, esta é uma fotografia tirada dentro de um cômodo com iluminação um pouco escura. Aqui está uma descrição dos elementos visíveis:\n\n*   **Primeiro plano:** Há uma superfície escura e reflexiva, provavelmente uma mesa, um balcão ou a parte superior de um móvel como um piano ou rack de TV. Sobre essa superfície, está um **frasco branco com uma tampa roxa**, que parece ser um pote de vitaminas, suplementos ou talvez lenços de limpeza. Atrás do frasco, há um objeto preto em forma de anel.\n*   **Fundo:** Ao fundo, vemos uma parede clara e duas janelas com persianas, por onde entra uma luz forte do dia. O piso parece ser de cerâmica ou um material similar, de cor clara.\n*   **Atmosfera geral:** O cômodo parece estar vazio ou pouco mobiliado. A qualidade da imagem é um pouco granulada e com pouca luz, sugerindo que foi tirada com um celular em condições de iluminação não ideais.\n\nEm resumo, é uma foto casual do interior de uma sala, com foco em um frasco sobre um móvel escuro.",
+    "latency_seconds": 45.21584153175354
+}
