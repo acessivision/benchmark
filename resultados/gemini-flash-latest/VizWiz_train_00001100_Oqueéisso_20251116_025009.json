@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T02:49:26.203742",
+    "date": "2025-11-16",
+    "response": "Esta é uma fotografia que mostra o **interior de um cômodo** (provavelmente uma sala ou quarto), focada em objetos no primeiro plano em contraste com uma janela iluminada no fundo.\n\n**Principais Elementos na Imagem:**\n\n1.  **Mesa/Superfície (Primeiro Plano):** A parte inferior e central da imagem é dominada por uma superfície **escura, preta e altamente reflexiva**, que parece ser o topo de uma mesa, escrivaninha ou balcão.\n2.  **Pote/Frasco:** Um objeto cilíndrico de cor clara (branco ou transparente) com uma tampa escura (roxo ou preto) está posicionado à direita da mesa. Parece ser um frasco de vitaminas, suplementos ou algum tipo de medicamento, devido ao texto denso no rótulo.\n3.  **Anel/Cabo:** Um objeto circular preto (possivelmente um anel solto ou um cabo/fio enrolado) está mais atrás na superfície, refletido pelo brilho da janela.\n4.  **Janelas (Fundo):** Duas janelas grandes e retangulares estão no centro do fundo, cobertas por persianas horizontais brancas. A luz intensa do dia entra pelas janelas, criando um forte contraste com o primeiro plano escuro. É possível ver levemente folhagem (árvores) através da janela direita.\n5.  **Paredes e Chão:** As paredes são de cor clara (branco ou cinza claro). O chão é de um material de cor bege claro, que parece ser piso de cerâmica ou madeira (tábua larga), estendendo-se pela sala.\n\nEm resumo, a foto é um registro de objetos simples colocados sobre uma mesa escura, tirado em um ambiente interno com iluminação natural intensa vinda das janelas.",
+    "latency_seconds": 7.36645245552063
+}

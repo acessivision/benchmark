@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T02:49:26.203742",
+    "date": "2025-11-16",
+    "response": "A imagem mostra um ambiente interno com uma janela ao fundo e um frasco em cima de uma superfície, possivelmente um eletrodoméstico. O frasco parece ser de algum tipo de produto, mas não é possível identificar exatamente qual é.",
+    "latency_seconds": 4.997730255126953
+}

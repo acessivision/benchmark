@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T02:49:26.203742",
+    "date": "2025-11-16",
+    "response": "Com base na imagem, esta é a descrição do que se vê:\n\nEsta é uma foto tirada dentro de um cômodo. Em primeiro plano, há uma superfície escura e brilhante, provavelmente uma mesa ou um balcão. Sobre essa superfície, há um frasco branco com uma tampa roxa, que se assemelha a um pote de vitaminas ou medicamentos.\n\nAo fundo, contra uma parede clara, há duas janelas com persianas que deixam entrar muita luz, criando um forte contraste com o resto do ambiente, que está mais escuro. O piso do cômodo é de cor clara, possivelmente de cerâmica. A imagem geral é um pouco escura e granulada.",
+    "latency_seconds": 13.59935975074768
+}

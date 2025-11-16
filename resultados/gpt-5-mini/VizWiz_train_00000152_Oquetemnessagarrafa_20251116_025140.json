@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000152.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-11-16T02:51:20.411631",
+    "date": "2025-11-16",
+    "response": "Parece ser um frasco de melatonina — um suplemento para ajudar a regular o sono (rótulo mostra “Melatonin”, 100% Drug Free Sleep Aid). Quer que eu leia alguma informação do rótulo (dosagem, instruções, advertências)?",
+    "latency_seconds": 4.742819786071777
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-16T02:52:20.630006",
+    "date": "2025-11-16",
+    "response": "À sua frente, encostados na parede, há um móvel de madeira para TV/áudio e, à direita dele, uma caixa/baú escuro (parece um baú de brinquedos).",
+    "latency_seconds": 6.362796783447266
+}

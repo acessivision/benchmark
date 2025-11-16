@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-16T02:52:20.630006",
+    "date": "2025-11-16",
+    "response": "Com base na imagem, os seguintes itens estão visíveis:\n\n**No Primeiro Plano (mais perto de quem tira a foto):**\n\n1.  **Perna/Joelha:** A parte inferior da foto mostra a perna de quem está sentado, coberta por uma calça jeans azul.\n2.  **Carpete:** O chão é coberto por um carpete felpudo de cor verde-água ou verde-azulado.\n\n**Junto à Parede e no Fundo:**\n\n3.  **Estante/Rack de Madeira:** Um grande móvel de madeira clara (tipo pinho ou similar), que serve como centro de entretenimento.\n4.  **Televisão (TV):** Uma televisão de tela plana embutida na estante.\n5.  **Aparelhos Eletrônicos:** Abaixo da TV, há prateleiras com aparelhos de mídia, como um tocador de DVD/Blu-ray ou um receptor de áudio.\n6.  **Armário Inferior:** A estante possui portas de armário de madeira na parte de baixo.\n7.  **Caixa/Baú de Armazenamento Escuro:** Um recipiente grande e escuro (preto ou marrom muito escuro) está encostado na parede, à direita da estante, e parece conter brinquedos ou outros objetos.\n8.  **Parede:** A parede do cômodo é de cor clara (bege ou branco).\n\n**No Plano Médio (à direita de quem tira a foto):**\n\n9.  **Sofá/Divã:** O lado de um sofá grande é visível, estofado com um tecido de padrão colorido (tons de vermelho, bordô, verde e desenhos geométricos).",
+    "latency_seconds": 6.820933818817139
+}

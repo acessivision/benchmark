@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T02:51:40.247189",
+    "date": "2025-11-16",
+    "response": "A imagem mostra uma cena em uma cozinha, destacando principalmente três elementos:\n\n1.  **Um fogão de cozinha preto:** Visível à esquerda, com as grades (grelhas) de um queimador (boca) de fogão a gás.\n2.  **Uma lata de comida:** Localizada no canto superior direito, encostada no fogão e na bancada.\n3.  **A bancada (balcão) de cozinha:** Feita de madeira clara, onde a lata está apoiada.\n\nO item mais específico é a **lata de comida**. Pelo rótulo, é possível identificar que se trata de:\n\n*   **Produto:** **Pot Pie Style Soup** (Sopa estilo Torta de Frango/Carne, referindo-se ao prato americano \"Pot Pie\").\n*   **Marca:** Parece ser **Marie Callender's** (uma marca conhecida nos EUA por tortas e refeições prontas).\n\n**Em resumo, a imagem principal é de uma lata de sopa pronta (Marie Callender's Pot Pie Style Soup) em uma bancada de cozinha, ao lado de um fogão.**",
+    "latency_seconds": 4.785125732421875
+}

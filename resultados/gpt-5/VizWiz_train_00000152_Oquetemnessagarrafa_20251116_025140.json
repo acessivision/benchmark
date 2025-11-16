@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000152.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-11-16T02:51:20.411631",
+    "date": "2025-11-16",
+    "response": "É um frasco de melatonina — um suplemento usado como auxiliar do sono.",
+    "latency_seconds": 6.7257208824157715
+}

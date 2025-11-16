@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T02:51:40.247189",
+    "date": "2025-11-16",
+    "response": "Esta imagem mostra uma cozinha com um fogão a gás e uma lata que parece ser de sopa ou outro alimento enlatado. A lata está em cima de uma superfície ao lado do fogão.",
+    "latency_seconds": 1.9994707107543945
+}

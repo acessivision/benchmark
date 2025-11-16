@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000509.jpg",
+    "question_original_pt": "De que cor é essa calça?",
+    "timestamp_sent_utc": "2025-11-16T02:53:08.212665",
+    "date": "2025-11-16",
+    "response": "A peça de roupa (que parece ser a manga de um casaco ou moletom, mas que você se refere como calça) é de cor **verde-oliva escuro** ou **verde musgo**.\n\nÉ um tom de verde escuro e apagado.",
+    "latency_seconds": 4.4728686809539795
+}
