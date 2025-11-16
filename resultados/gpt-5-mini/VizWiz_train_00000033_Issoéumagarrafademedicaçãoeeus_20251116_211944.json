@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000033.jpg",
+    "question_original_pt": "Isso é uma garrafa de medicação e eu só gostaria de saber se tem uma etiqueta e informações de dosagem visíveis. Obrigado.",
+    "timestamp_sent_utc": "2025-11-16T21:19:16.880245",
+    "date": "2025-11-16",
+    "response": "A garrafa parece ter uma etiqueta, mas a foto está fora de foco e muito distante: não consigo ler nenhum texto nem ver informações de dosagem.  \n\nSe quiser, tire outra foto seguindo estas dicas para que eu possa checar o rótulo:\n- Aproxime-se do rótulo (10–20 cm) e foque a câmera diretamente na etiqueta, não no frasco de cima.  \n- Use boa iluminação sem reflexo (luz natural lateral ou difusa é melhor; evite flash que cause brilho).  \n- Segure a câmera firme ou apoie-a para evitar tremores; tire várias fotos.  \n- Certifique-se de capturar toda a área com texto (incluindo bordas onde aparecem doses, nome e instruções).\n\nEnvie a nova foto e eu verifico novamente.",
+    "latency_seconds": 7.748503684997559
+}

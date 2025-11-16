@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000351.jpg",
+    "question_original_pt": "Qual é a data nesse leite?",
+    "timestamp_sent_utc": "2025-11-16T21:21:10.683181",
+    "date": "2025-11-16",
+    "response": "Na tampa está impresso: \"USE BY: FEB 08 13 05:44...\" — ou seja, 08 de fevereiro de 2013 (horário 05:44).",
+    "latency_seconds": 7.076957702636719
+}

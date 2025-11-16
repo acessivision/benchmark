@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-16T21:21:55.614431",
+    "date": "2025-11-16",
+    "response": "Com base na imagem, o produto é um mix de sabores. O pacote contém:\n\n*   **Laranja** (Orange)\n*   **Limão e Lima** (Lemon-Lime)\n\nÉ um pacote de copinhos de gelatina de baixa caloria.",
+    "latency_seconds": 2.8617234230041504
+}

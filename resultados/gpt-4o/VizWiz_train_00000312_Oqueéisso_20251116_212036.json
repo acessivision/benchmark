@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T21:20:09.784006",
+    "date": "2025-11-16",
+    "response": "A imagem mostra uma lata de sopa colocada ao lado de um fogão. Parece ser um tipo de sopa enlatada, com um rótulo indicando \"Pot Pie\".",
+    "latency_seconds": 2.211874008178711
+}

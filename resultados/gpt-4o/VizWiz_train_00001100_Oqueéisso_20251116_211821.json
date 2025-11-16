@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-16T21:17:55.929800",
+    "date": "2025-11-16",
+    "response": "A imagem mostra um frasco em cima de uma superfície, possivelmente um balcão ou mesa. O frasco parece ser de um produto, como suplemento ou medicamento, mas está desfocado, então não é possível identificar exatamente o que é ou a marca. Ao fundo, há uma janela que deixa entrar luz natural no ambiente.",
+    "latency_seconds": 3.014819383621216
+}
