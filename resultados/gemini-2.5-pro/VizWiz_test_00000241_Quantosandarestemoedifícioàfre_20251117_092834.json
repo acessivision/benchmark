@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-17T09:26:07.163883",
+    "date": "2025-11-17",
+    "response": "Com base na imagem, o edifício à frente tem **8 andares**.\n\nÉ possível contar 8 níveis com fileiras de janelas, além de uma estrutura adicional no telhado.",
+    "latency_seconds": 17.800678491592407
+}

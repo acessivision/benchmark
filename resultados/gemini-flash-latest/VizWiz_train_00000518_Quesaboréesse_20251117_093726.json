@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-17T09:36:43.111315",
+    "date": "2025-11-17",
+    "response": "Com base na embalagem visível, a caixa contém uma mistura de dois sabores:\n\n1.  **Laranja (Orange)**\n2.  **Limão-lima (Lemon-Lime)**\n\nA caixa é um pacote misto de copos de gelatina de baixa caloria.",
+    "latency_seconds": 3.018181562423706
+}

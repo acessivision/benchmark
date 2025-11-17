@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T09:28:34.595574",
+    "date": "2025-11-17",
+    "response": "Com base na imagem, esta é uma fotografia tirada dentro de um cômodo com pouca luz.\n\nEm primeiro plano, vemos a borda de uma mesa ou balcão de superfície escura e reflexiva. Sobre ela, há um frasco branco com um rótulo e uma tampa roxa ou azul escura, semelhante a um pote de vitaminas, suplementos ou condimentos.\n\nAo fundo, há uma parede branca com duas janelas que deixam entrar bastante luz. As janelas têm persianas. O piso parece ser de cerâmica ou porcelanato de cor clara. A qualidade da imagem é um pouco granulada e o foco não é muito nítido.",
+    "latency_seconds": 12.986764192581177
+}

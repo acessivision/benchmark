@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T09:28:34.595574",
+    "date": "2025-11-17",
+    "response": "A imagem mostra uma sala mal iluminada com uma janela ao fundo. Em primeiro plano, sobre uma superfície, há um frasco pequeno com uma tampa roxa. Parece ser um recipiente comum, possivelmente para comprimidos ou suplementos, mas a imagem não nos permite ver detalhes específicos do rótulo.",
+    "latency_seconds": 3.2002339363098145
+}

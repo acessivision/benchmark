@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-17T09:36:43.111315",
+    "date": "2025-11-17",
+    "response": "De acordo com o texto na embalagem, são dois sabores:\n\n*   **Laranja** (2 potes)\n*   **Limão-Lima** (4 potes)\n\nSão copos de gelatina de baixa caloria.",
+    "latency_seconds": 18.444339513778687
+}

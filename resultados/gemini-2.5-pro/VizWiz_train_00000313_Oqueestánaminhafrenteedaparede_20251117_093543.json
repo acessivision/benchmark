@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-17T09:34:49.417323",
+    "date": "2025-11-17",
+    "response": "Com base na imagem, na sua frente e em direção à parede estão os seguintes itens em uma sala de estar:\n\n*   **Um grande móvel de madeira para entretenimento:** Nele há uma televisão, outros aparelhos eletrônicos e prateleiras.\n*   **Uma caixa de armazenamento escura:** Fica entre o móvel e o sofá, e parece conter brinquedos.\n*   **Um sofá:** No lado direito, há um sofá com estampa em tons de vermelho e verde.\n*   **Um carpete:** O chão é todo coberto por um carpete de cor verde-azulado.\n\nEm primeiro plano, na parte de baixo da foto, está o que parece ser o seu joelho coberto por uma calça jeans.",
+    "latency_seconds": 16.08541250228882
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T09:33:58.443617",
+    "date": "2025-11-17",
+    "response": "Com base na imagem, isto é uma fotografia tirada em uma cozinha.\n\nOs objetos principais na foto são:\n\n1.  **Uma lata de sopa:** É uma lata de sopa estilo \"Pot Pie\" (um tipo de torta salgada cremosa) da marca **Marie Callender's**. A lata está na beirada do fogão.\n2.  **Um fogão a gás:** É um fogão de cor preta com grelhas de metal. A superfície do fogão parece um pouco suja, com algumas migalhas.\n\nA foto parece ter sido tirada do ponto de vista de uma pessoa em pé na frente do fogão, pois é possível ver parte das pernas e do chão da cozinha na parte inferior da imagem.",
+    "latency_seconds": 21.935889720916748
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-17T09:34:49.417323",
+    "date": "2025-11-17",
+    "response": "Na imagem, há um armário de madeira encostado na parede, que parece abrigar uma TV e outros dispositivos eletrônicos. Ao lado, há um cesto que parece conter alguns brinquedos. Em primeiro plano, vê-se parte de um sofá com um padrão colorido à direita e o joelho de uma pessoa à esquerda. O chão é coberto por um carpete verde.",
+    "latency_seconds": 4.317065238952637
+}
