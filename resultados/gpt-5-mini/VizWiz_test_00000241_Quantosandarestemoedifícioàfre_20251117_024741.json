@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-17T02:46:40.908077",
+    "date": "2025-11-17",
+    "response": "Pelo que eu contei, são 7 andares visíveis — contei sete faixas com janelas/balcões (sem contar o terraço/técnico no topo). Pode haver um térreo ou níveis escondidos pela vegetação que não aparecem claramente.",
+    "latency_seconds": 6.282891035079956
+}

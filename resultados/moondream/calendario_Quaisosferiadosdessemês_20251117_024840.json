@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "calendario.jpeg",
+    "question_original_pt": "Quais os feriados desse mês",
+    "timestamp_sent_utc": "2025-11-17T02:48:12.195694",
+    "date": "2025-11-17",
+    "pergunta_translated_en": "What are the holidays this month?",
+    "response_original_en": "The month shown on the calendar is October. The calendar indicates the following holidays: October 7th (CD Pro-Social), October 16th (CEA), October 25th (NOVA), and October 28th (Dia do Servidor Público).",
+    "response_translated_pt": "O mês mostrado no calendário é outubro. O calendário indica os seguintes feriados: 7 de outubro (CD Pró-Social), 16 de outubro (CEA), 25 de outubro (NOVA) e 28 de outubro (Dia do Servidor Público).",
+    "latency_seconds": 2.710925579071045
+}

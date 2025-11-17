@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T02:47:41.273483",
+    "date": "2025-11-17",
+    "response": "Parece um frasco pequeno de comprimidos/suplemento, com tampa roxa, em cima de um eletrodoméstico (talvez uma geladeira). A foto está um pouco desfocada, então não dá para identificar a marca.",
+    "latency_seconds": 10.252817153930664
+}

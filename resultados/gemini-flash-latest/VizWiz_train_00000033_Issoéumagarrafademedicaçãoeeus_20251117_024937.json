@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000033.jpg",
+    "question_original_pt": "Isso é uma garrafa de medicação e eu só gostaria de saber se tem uma etiqueta e informações de dosagem visíveis. Obrigado.",
+    "timestamp_sent_utc": "2025-11-17T02:49:03.004763",
+    "date": "2025-11-17",
+    "response": "Com base na imagem:\n\nSim, a garrafa de medicação **tem uma etiqueta** claramente visível e enrolada em torno do corpo do frasco.\n\nNo entanto, a imagem está **muito embaçada (borrada)**. Devido à falta de nitidez, **não é possível ler** as informações de dosagem ou qualquer outro texto na etiqueta (como o nome do produto ou os ingredientes). A etiqueta contém texto, mas ele não é legível.",
+    "latency_seconds": 4.302335262298584
+}

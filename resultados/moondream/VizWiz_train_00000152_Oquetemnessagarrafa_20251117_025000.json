@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000152.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-11-17T02:49:37.394386",
+    "date": "2025-11-17",
+    "pergunta_translated_en": "What's in that bottle?",
+    "response_original_en": "The bottle contains 100% drug-free sleep aid.",
+    "response_translated_pt": "O frasco contém soníferos 100% livres de medicamentos.",
+    "latency_seconds": 1.99013090133667
+}

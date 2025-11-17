@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T02:50:00.796631",
+    "date": "2025-11-17",
+    "response": "A imagem mostra uma cena típica de cozinha. Os principais elementos visíveis são:\n\n1.  **Um Fogão (ou Placa de Cozinha):** É um fogão preto, provavelmente a gás (devido ao design da grelha e do queimador), que está um pouco sujo.\n2.  **Uma Lata de Sopa/Comida Enlatada:** Uma lata está deitada sobre uma bancada de madeira, ao lado do fogão. O rótulo é legível, indicando que é da marca **Marie Callender's** e o produto é uma sopa estilo \"Pot Pie\".\n3.  **Ambiente:** Uma bancada de madeira clara e parte de um chão de azulejos claros.\n\nPortanto, **é uma fotografia de uma lata de sopa estilo Pot Pie da Marie Callender's em uma cozinha, ao lado de um fogão.**",
+    "latency_seconds": 5.233217716217041
+}

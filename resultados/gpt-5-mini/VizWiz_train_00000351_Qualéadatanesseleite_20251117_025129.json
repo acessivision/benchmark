@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000351.jpg",
+    "question_original_pt": "Qual é a data nesse leite?",
+    "timestamp_sent_utc": "2025-11-17T02:51:06.252579",
+    "date": "2025-11-17",
+    "response": "Está marcado \"USE BY: FEB 08 13 05:44 ...\". Ou seja, 08 de fevereiro de 2013 (às 05:44).",
+    "latency_seconds": 5.885929107666016
+}

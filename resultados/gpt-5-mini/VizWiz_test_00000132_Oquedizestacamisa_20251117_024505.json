@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000132.jpg",
+    "question_original_pt": "O que diz esta camisa?",
+    "timestamp_sent_utc": "2025-11-17T02:44:15.264556",
+    "date": "2025-11-17",
+    "response": "Está escrito em inglês: \"sight connection\" e, em letras menores, \"living well with vision loss\".\n\nTradução aproximada: \"conexão da visão\" e \"vivendo bem com a perda de visão\".",
+    "latency_seconds": 6.834630012512207
+}

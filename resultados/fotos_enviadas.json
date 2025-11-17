@@ -190,5 +190,12 @@
         "data/imagens/cha_groselha_e_cha_limao.jpeg",
         "data/imagens/VizWiz_train_00000628.jpg",
         "data/imagens/VizWiz_train_00000309.jpg"
+    ],
+    "2025-11-17": [
+        "data/imagens/aneis.jpeg",
+        "data/imagens/cupom_fiscal_eletronico.png",
+        "data/imagens/gescom_nota_fiscal.jpg",
+        "data/imagens/VizWiz_train_00000259.jpg",
+        "data/imagens/VizWiz_train_00001041.jpg"
     ]
 }
