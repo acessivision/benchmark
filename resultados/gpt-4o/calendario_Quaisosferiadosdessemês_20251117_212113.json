@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "calendario.jpeg",
+    "question_original_pt": "Quais os feriados desse mês",
+    "timestamp_sent_utc": "2025-11-17T21:20:36.753664",
+    "date": "2025-11-17",
+    "response": "No mês de outubro, os feriados são:\n\n- Dia 12: Nossa Senhora Aparecida\n- Dia 28: Dia do Servidor Público\n\nEssas datas estão marcadas em vermelho no calendário.",
+    "latency_seconds": 2.5001657009124756
+}

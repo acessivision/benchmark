@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "calendario.jpeg",
+    "question_original_pt": "Quais os feriados desse mês",
+    "timestamp_sent_utc": "2025-11-17T21:20:36.753664",
+    "date": "2025-11-17",
+    "response": "De acordo com a legenda no calendário de **Outubro**, os feriados e dias especiais são:\n\n### Feriados ( $\\diamond$ )\n\n*   **Dia 12:** Nossa Senhora Aparecida\n\n### Dia Especial (Institucional) ( $\\blacktriangleright$ )\n\n*   **Dia 28:** Dia do Servidor Público",
+    "latency_seconds": 4.236094951629639
+}

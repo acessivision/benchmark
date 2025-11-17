@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T21:22:28.014916",
+    "date": "2025-11-17",
+    "response": "Com base na imagem, posso identificar os seguintes objetos:\n\n1.  **Uma Lata de Sopa:** O objeto mais proeminente e específico é uma lata de comida. O rótulo sugere que é da marca **Marie Callender's** e o produto é uma **\"Pot Pie Style Soup\"** (Sopa Estilo Torta/Empadão).\n2.  **Um Fogão (Stovetop):** A lata está apoiada na superfície de um fogão preto, que parece ser um fogão a gás, visível pelas grades e pelo queimador.\n3.  **Uma Bancada:** À direita da lata, há uma superfície de madeira que se assemelha a uma bancada ou topo de armário de cozinha.\n4.  **Chão:** O chão é coberto por ladrilhos quadrados de cor clara.\n\nEm resumo, a imagem mostra uma **lata de sopa industrializada (Marie Callender's Pot Pie Style Soup)** em cima de um fogão em uma cozinha.",
+    "latency_seconds": 5.108118772506714
+}

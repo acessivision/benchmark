@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-17T21:22:51.628866",
+    "date": "2025-11-17",
+    "response": "Na sua frente, há o canto de um sofá com uma estampa colorida. Perto da parede, há um móvel de madeira com portas e uma televisão. Ao lado, há uma caixa de armazenamento que parece conter alguns brinquedos.",
+    "latency_seconds": 2.9517760276794434
+}

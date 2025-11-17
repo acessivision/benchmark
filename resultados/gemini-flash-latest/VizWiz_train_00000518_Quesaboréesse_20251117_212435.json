@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-17T21:24:16.255359",
+    "date": "2025-11-17",
+    "response": "Com base na imagem, esta embalagem contém **dois sabores** de gelatina:\n\n1.  **Laranja (Orange)**\n2.  **Limão e Lima (Lemon-Lime)**\n\nA caixa especifica que são 2 unidades de Laranja e 4 unidades de Limão-Lima.",
+    "latency_seconds": 2.8412206172943115
+}

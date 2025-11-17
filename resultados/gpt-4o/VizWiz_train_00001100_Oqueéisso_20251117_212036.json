@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T21:20:03.647372",
+    "date": "2025-11-17",
+    "response": "A imagem mostra um ambiente interno com uma janela ao fundo. Em primeiro plano, parece haver um frasco desfocado, possivelmente de um produto em spray ou um recipiente pequeno. A imagem está um pouco escura e desfocada, tornando difícil identificar detalhes específicos.",
+    "latency_seconds": 2.4917726516723633
+}

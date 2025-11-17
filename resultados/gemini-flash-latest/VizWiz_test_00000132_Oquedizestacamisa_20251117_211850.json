@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000132.jpg",
+    "question_original_pt": "O que diz esta camisa?",
+    "timestamp_sent_utc": "2025-11-17T21:18:11.132171",
+    "date": "2025-11-17",
+    "response": "A camisa, de cor verde, contém o nome e o slogan de uma organização (provavelmente dedicada a serviços de baixa visão ou oftalmologia) em letras brancas.\n\nO texto em inglês diz:\n\n1.  **sight**\n2.  **connection**\n3.  **living well with vision loss**\n\nHá também um logotipo de folhas ou pétalas estilizadas em branco ao lado do texto principal.\n\n### Tradução:\n\nO texto principal é **\"Sight Connection\"** (Conexão Visão/Vista).\n\nO slogan traduz-se como:\n\n**\"vivendo bem com a perda de visão\"** (ou \"vivendo bem com a baixa visão\").",
+    "latency_seconds": 4.53955340385437
+}

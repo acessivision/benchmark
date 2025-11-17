@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T21:20:03.647372",
+    "date": "2025-11-17",
+    "response": "Parece ser um pequeno frasco cilíndrico com tampa roxa e rótulo — provavelmente um frasco de comprimidos/vitaminas/medicamento ou um pote de tempero/condimento. A foto está longe e o rótulo não dá para ler, por isso não dá para identificar com certeza.\n\nQuer que eu recorte/amplie a área do frasco na imagem? Ou pode tirar outra foto mais próxima do rótulo (de frente) para eu tentar ler o texto. Se for um medicamento, não o use sem confirmar o que é e as instruções.",
+    "latency_seconds": 8.483311653137207
+}
