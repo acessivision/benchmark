@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000132.jpg",
+    "question_original_pt": "O que diz esta camisa?",
+    "timestamp_sent_utc": "2025-11-17T17:19:03.890789",
+    "date": "2025-11-17",
+    "pergunta_translated_en": "What does this shirt say?",
+    "response_original_en": "Erro ao chamar a API Moondream: HTTP Error 500: Internal Server Error",
+    "response_translated_pt": "Erro ao chamar a API Moondream: HTTP Error 500: Internal Server Error",
+    "latency_seconds": 127.41598868370056
+}

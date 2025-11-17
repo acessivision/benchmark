@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-17T17:43:30.326421",
+    "date": "2025-11-17",
+    "response": "Na frente de você, em primeiro plano, aparece seu joelho (calça jeans) e o chão com carpete verde. Mais adiante há um sofá à direita.\n\nNa parede, há um móvel/estante de madeira com uma TV e aparelhos eletrônicos, e ao lado um baú/caixa (provavelmente de brinquedos) encostado na parede. Quer que eu aponte esses itens na imagem?",
+    "latency_seconds": 6.619200706481934
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-17T17:24:55.654751",
+    "date": "2025-11-17",
+    "response": "O edifício à frente possui **9** andares visíveis de espaço utilizável (contando as filas de janelas e varandas, da base até o topo).\n\nAlém disso, há um nível de cobertura (telhado) que pode conter equipamento técnico, mas os andares habitáveis claramente definidos são 9.",
+    "latency_seconds": 4.032594203948975
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T17:28:02.710459",
+    "date": "2025-11-17",
+    "response": "Com base na imagem, esta é a descrição do que se vê:\n\nÉ uma fotografia tirada de dentro de um cômodo.\n\n*   **Em primeiro plano:** Há a borda de uma mesa ou balcão de cor escura e superfície brilhante. Em cima deste móvel, há um frasco cilíndrico, possivelmente de suplementos ou remédios, com um rótulo branco e uma tampa roxa. Um pouco mais atrás, sobre a mesa, há também um pequeno objeto preto em forma de anel.\n*   **Ao fundo:** Vê-se uma parede de cor clara e um piso que parece ser de cerâmica ou vinil. Há também duas janelas com persianas, através das quais entra uma luz intensa do exterior.\n\nA foto parece ser casual, tirada com iluminação natural vinda das janelas, o que deixa o primeiro plano mais escuro.",
+    "latency_seconds": 11.845938444137573
+}

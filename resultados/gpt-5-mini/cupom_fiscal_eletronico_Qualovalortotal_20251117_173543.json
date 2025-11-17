@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "cupom_fiscal_eletronico.png",
+    "question_original_pt": "Qual o valor total?",
+    "timestamp_sent_utc": "2025-11-17T17:33:03.440574",
+    "date": "2025-11-17",
+    "response": "O total é R$ 207,88 — aparece ao lado de \"Total R$\" no cupom.",
+    "latency_seconds": 6.919473171234131
+}

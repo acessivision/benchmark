@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T17:40:55.440878",
+    "date": "2025-11-17",
+    "response": "Esta imagem mostra um close-up de uma cozinha, com vários elementos visíveis:\n\n1.  **Uma lata de comida (Canned Food):** Este é o item mais nítido e proeminente. O rótulo sugere que é uma **sopa estilo \"Pot Pie\"** (torta salgada), provavelmente da marca **Marie Callender's**.\n2.  **Um fogão (Stovetop):** A lata está apoiada sobre ou perto de um fogão preto, que parece ser a gás. É possível ver a grade do queimador e um botão de controle no canto inferior esquerdo (marcado como \"OFF\").\n3.  **Uma bancada (Countertop):** Na lateral direita, é visível uma bancada de cozinha de madeira clara.\n\nPortanto, a imagem é essencialmente uma foto de uma **lata de sopa** de Pot Pie em cima de um fogão em uma cozinha.",
+    "latency_seconds": 5.7025675773620605
+}

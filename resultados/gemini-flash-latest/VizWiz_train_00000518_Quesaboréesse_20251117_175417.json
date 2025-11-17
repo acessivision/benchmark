@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-17T17:51:32.229802",
+    "date": "2025-11-17",
+    "response": "Com base na imagem, que mostra o rótulo de uma caixa de gelatinas de baixas calorias, os sabores são:\n\n*   **Laranja** (Orange)\n*   **Limão-Lima** (Lemon-Lime)\n\nA caixa contém 2 potes de laranja e 4 potes de limão-lima.",
+    "latency_seconds": 2.6654105186462402
+}

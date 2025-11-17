@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T17:28:02.710459",
+    "date": "2025-11-17",
+    "pergunta_translated_en": "What is that?",
+    "response_original_en": "Erro ao chamar a API Moondream: HTTP Error 502: Bad Gateway",
+    "response_translated_pt": "Erro ao chamar a API Moondream: HTTP Error 502: Bad Gateway",
+    "latency_seconds": 80.78797817230225
+}

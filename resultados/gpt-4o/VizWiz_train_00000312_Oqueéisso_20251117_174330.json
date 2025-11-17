@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T17:40:55.440878",
+    "date": "2025-11-17",
+    "response": "A imagem mostra uma lata de comida em cima de um fogão. Parece ser uma lata de sopa ou similar. O fogão é do tipo a gás, com queimadores e grades de ferro.",
+    "latency_seconds": 3.4735846519470215
+}

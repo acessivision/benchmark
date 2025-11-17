@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-17T17:24:55.654751",
+    "date": "2025-11-17",
+    "response": "Com base na imagem, o edifício à frente tem **8 andares** principais com janelas.\n\nAcima desses 8 andares, há uma estrutura adicional no topo, que parece ser um andar técnico ou de serviço (onde estão as antenas), o que poderia levar a contagem a 9 níveis no total. No entanto, visualmente, são 8 andares de ocupação regular.",
+    "latency_seconds": 15.576554775238037
+}

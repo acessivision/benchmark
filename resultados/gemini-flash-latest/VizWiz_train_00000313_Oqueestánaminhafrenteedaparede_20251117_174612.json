@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-17T17:43:30.326421",
+    "date": "2025-11-17",
+    "response": "Com base na imagem, os objetos que estão na sua frente e perto da parede são:\n\n1.  **Um grande móvel/armário de entretenimento de madeira (estante de TV)**: Este é o objeto central na parede.\n    *   Ele contém uma **televisão (TV)**.\n    *   Abaixo da TV, há **componentes eletrônicos** (como um aparelho de DVD ou receptor).\n    *   Na parte inferior, há duas **portas de armário** de madeira.\n    *   No lado esquerdo do móvel principal, há prateleiras com alguns objetos.\n2.  **Uma caixa ou baú de armazenamento escuro/preto**: Este está localizado entre o armário de TV e o sofá. Parece conter brinquedos ou outros itens.\n3.  **A lateral e o braço de um sofá grande**: O sofá, com um estofamento estampado em tons de vermelho e verde, está visível no lado direito da imagem.\n4.  **Um alto-falante ou caixa preta** (parcialmente visível) ao lado esquerdo do armário de TV.\n\nNo chão, entre você e os móveis, há um **carpete** de cor verde-água (teal).",
+    "latency_seconds": 5.871714115142822
+}
