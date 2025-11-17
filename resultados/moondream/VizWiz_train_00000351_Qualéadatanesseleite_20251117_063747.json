@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000351.jpg",
+    "question_original_pt": "Qual é a data nesse leite?",
+    "timestamp_sent_utc": "2025-11-17T06:37:26.502648",
+    "date": "2025-11-17",
+    "pergunta_translated_en": "What is the date on that milk?",
+    "response_original_en": "February 8, 2013",
+    "response_translated_pt": "8 de fevereiro de 2013",
+    "latency_seconds": 3.76122784614563
+}

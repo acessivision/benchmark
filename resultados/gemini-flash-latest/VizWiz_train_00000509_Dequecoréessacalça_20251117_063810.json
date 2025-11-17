@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000509.jpg",
+    "question_original_pt": "De que cor é essa calça?",
+    "timestamp_sent_utc": "2025-11-17T06:37:47.600687",
+    "date": "2025-11-17",
+    "response": "A cor da calça é um **verde oliva escuro** ou **verde musgo**.\n\nParece ser uma cor utilitária e bem escura, quase cinza ou marrom em algumas sombras, mas claramente puxando para o verde.",
+    "latency_seconds": 3.781890630722046
+}

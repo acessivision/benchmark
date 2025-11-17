@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T06:33:57.029772",
+    "date": "2025-11-17",
+    "response": "Parece ser um frasco cilíndrico de plástico com tampa roxa — provavelmente um frasco de comprimidos/vitaminas/suplemento ou algum produto semelhante. Está apoiado sobre o canto de um eletrodoméstico ou balcão.\n\nNão dá para ler o rótulo na foto. Se quiser que eu identifique com mais precisão, envie um close da etiqueta ou descreva o texto/ logo; e se for medicação, não tome nada sem confirmar o que é.",
+    "latency_seconds": 5.5861570835113525
+}

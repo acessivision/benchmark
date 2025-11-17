@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-17T06:31:52.442592",
+    "date": "2025-11-17",
+    "pergunta_translated_en": "How many floors does the building in front have?",
+    "response_original_en": "The building in front has eight floors.",
+    "response_translated_pt": "O prédio em frente tem oito andares.",
+    "latency_seconds": 93.63053750991821
+}

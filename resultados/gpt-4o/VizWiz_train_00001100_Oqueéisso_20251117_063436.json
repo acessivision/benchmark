@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T06:33:57.029772",
+    "date": "2025-11-17",
+    "response": "A imagem está um pouco embaçada, mas parece ser um frasco ou pote cilíndrico em cima de uma superfície. A luz vinda da janela ao fundo pode estar dificultando a visualização dos detalhes. Se precisar de informações específicas, talvez uma foto mais clara ou próxima ajude.",
+    "latency_seconds": 2.3111119270324707
+}

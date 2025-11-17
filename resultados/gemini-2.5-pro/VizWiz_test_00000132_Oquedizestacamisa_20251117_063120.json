@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000132.jpg",
+    "question_original_pt": "O que diz esta camisa?",
+    "timestamp_sent_utc": "2025-11-17T06:30:37.128119",
+    "date": "2025-11-17",
+    "response": "Com base na imagem, a camisa verde tem um texto e um logotipo em branco que dizem o seguinte:\n\nO texto principal é:\n**sight connection**\n\nE abaixo, em letras menores:\n**living well with vision loss**\n\nA tradução para o português é:\n**sight connection** (o nome de uma organização, que pode ser traduzido como \"Conexão da Visão\")\n**vivendo bem com a perda de visão**\n\nPortanto, a camisa é de uma organização que apoia pessoas com deficiência visual.",
+    "latency_seconds": 10.589589595794678
+}
