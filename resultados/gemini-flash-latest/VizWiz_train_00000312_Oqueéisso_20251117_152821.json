@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T15:27:27.901218",
+    "date": "2025-11-17",
+    "response": "Esta é uma imagem de uma **cena de cozinha**.\n\nOs principais elementos visíveis na foto são:\n\n1.  **Um fogão (ou placa de cozinha):** De cor preta, com grades de metal sobre o queimador.\n2.  **Uma lata de comida:** Esta é o item mais específico. A lata é da marca **Marie Callender's** e o produto é uma **Pot Pie Style Soup** (Sopa Estilo Torta de Frango/Pot Pie).\n3.  **Uma bancada/armário:** Feita de madeira clara ou laminado, onde a lata está apoiada.\n4.  **Parte de uma pessoa:** Na parte inferior da imagem, é possível ver as pernas de alguém vestindo roupas escuras (azul marinho).\n5.  **O chão:** Um piso de azulejos claros, em formato quadrado.",
+    "latency_seconds": 4.646108388900757
+}

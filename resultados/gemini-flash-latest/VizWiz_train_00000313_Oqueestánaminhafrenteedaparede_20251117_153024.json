@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-17T15:28:21.932329",
+    "date": "2025-11-17",
+    "response": "Com base na imagem, os objetos localizados na frente do observador (na direção da parede) são:\n\n1.  **O Chão (Carpete):** Um carpete verde/azul-turquesa que cobre toda a área visível.\n2.  **A Perna do Observador:** Parte da perna do observador (vestida com jeans) está visível em primeiro plano.\n3.  **O Sofá (ou Poltrona):** Um sofá grande (ou a lateral de uma poltrona) de cor vermelha/verde com estampa xadrez ou nativa americana, localizado à direita do observador.\n4.  **Caixa/Baú de Armazenamento:** Um grande baú ou caixa de armazenamento escura (possivelmente preta ou marrom escura) encostada na parede, à direita do centro.\n5.  **Estante/Móvel de Entretenimento:** Um grande móvel de madeira (cor de pinho ou carvalho claro) no centro-esquerda.\n    *   Este móvel contém uma **Televisão (TV)** na parte superior.\n    *   Também contém vários **Componentes Eletrônicos** (como um reprodutor de DVD/Blu-ray e outros equipamentos de áudio/vídeo) em prateleiras abaixo da TV.\n    *   Possui **Portas de Armário** na parte inferior.\n6.  **Alto-Falante/Caixa Escura:** Uma caixa preta (provavelmente um alto-falante ou subwoofer) está no chão, à esquerda do móvel de entretenimento.\n7.  **A Parede:** A superfície vertical de cor clara (bege ou creme) no fundo.\n8.  **Janela/Luz:** Há uma fonte de luz vinda da direita, indicando a presença de uma janela (embora a janela em si não esteja totalmente visível).",
+    "latency_seconds": 2.8778812885284424
+}

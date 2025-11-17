@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000033.jpg",
+    "question_original_pt": "Isso é uma garrafa de medicação e eu só gostaria de saber se tem uma etiqueta e informações de dosagem visíveis. Obrigado.",
+    "timestamp_sent_utc": "2025-11-17T15:26:10.916781",
+    "date": "2025-11-17",
+    "response": "Parece haver um rótulo na garrafa, mas a imagem está desfocada e não dá para ler nenhuma informação — não vejo dosagem ou instruções legíveis.\n\nSe puder, tire outra foto:\n- mais próxima do rótulo, com boa iluminação frontal\n- toque na tela para focar no texto e evite o zoom digital excessivo\n- mantenha o frasco parado numa superfície e o rótulo voltado para a câmera\n\nSe preferir, pode digitar aqui o que está escrito no rótulo. E não use a medicação sem confirmar a dosagem nas instruções ou com um profissional de saúde.",
+    "latency_seconds": 16.04600715637207
+}

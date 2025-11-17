@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T15:27:27.901218",
+    "date": "2025-11-17",
+    "response": "Com base na imagem, isto é uma cena de uma cozinha.\n\nOs principais elementos na imagem são:\n\n1.  **Um fogão a gás preto:** A parte superior do fogão é o foco principal. Ele parece um pouco sujo, com algumas migalhas visíveis.\n2.  **Uma lata de sopa:** Ao lado do fogão, em uma bancada de madeira, há uma lata de sopa da marca **Marie Callender's**. O sabor é \"Pot Pie Style Soup\" (Sopa Estilo Torta Salgada).\n3.  **Perspectiva:** A foto foi tirada de cima para baixo, provavelmente pela pessoa que está de pé na frente do fogão, pois é possível ver a parte inferior de suas calças e o chão de azulejos.\n\nEm resumo, é uma foto de uma lata de sopa ao lado de um fogão em uma cozinha.",
+    "latency_seconds": 23.13993763923645
+}

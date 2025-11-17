@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T15:24:22.315987",
+    "date": "2025-11-17",
+    "response": "A imagem mostra uma embalagem colocada sobre uma superfície. Devido à falta de clareza, não é possível identificar o produto. Poderia ser um frasco de suplemento, medicamento, tempero ou algo similar.",
+    "latency_seconds": 3.1072001457214355
+}

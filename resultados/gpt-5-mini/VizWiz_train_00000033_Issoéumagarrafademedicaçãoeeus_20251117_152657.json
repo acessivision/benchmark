@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000033.jpg",
+    "question_original_pt": "Isso é uma garrafa de medicação e eu só gostaria de saber se tem uma etiqueta e informações de dosagem visíveis. Obrigado.",
+    "timestamp_sent_utc": "2025-11-17T15:26:10.916781",
+    "date": "2025-11-17",
+    "response": "Há uma etiqueta na garrafa, mas a foto está borrada e as letras não ficam legíveis — não é possível ver nenhuma informação de dosagem. \n\nSe quiser, tire outra foto com estas dicas para eu tentar ler a etiqueta:\n- Aproxime-se o suficiente para que a etiqueta ocupe a maior parte do enquadramento.\n- Ilumine bem (luz natural ou lâmpada) e evite reflexos no rótulo.\n- Foque a câmera na etiqueta (toque na tela onde está o texto antes de fotografar).\n- Segure a câmera firme ou apoie-a para evitar tremores; faça mais de uma foto e de ângulos diferentes (frente e laterais do rótulo).\n\nSe precisar de ajuda imediata com medicação, consulte um farmacêutico ou profissional de saúde em pessoa.",
+    "latency_seconds": 7.360803604125977
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-17T15:23:27.955373",
+    "date": "2025-11-17",
+    "response": "O edifício à frente possui **9 andares** visíveis.\n\nEssa contagem inclui:\n\n1.  O andar térreo (base).\n2.  Oito andares superiores completos, claramente demarcados pelas varandas e escadas externas.\n3.  O último nível (topo) que se encontra abaixo da linha do telhado, totalizando 9 níveis horizontais.",
+    "latency_seconds": 4.879462242126465
+}

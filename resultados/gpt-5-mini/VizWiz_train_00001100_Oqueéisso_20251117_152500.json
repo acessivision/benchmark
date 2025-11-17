@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-17T15:24:22.315987",
+    "date": "2025-11-17",
+    "response": "Parece ser um frasco cilíndrico pequeno — provavelmente um pote de comprimidos/vitamina ou um frasco de suplemento, com tampa roxa e rótulo com texto. A foto está um pouco desfocada, então não dá para ler o rótulo. Quer que eu tente identificar melhor se você enviar um close do rótulo?",
+    "latency_seconds": 4.419861555099487
+}

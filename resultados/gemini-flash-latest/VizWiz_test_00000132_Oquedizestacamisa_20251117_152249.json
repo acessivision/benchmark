@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000132.jpg",
+    "question_original_pt": "O que diz esta camisa?",
+    "timestamp_sent_utc": "2025-11-17T15:22:09.104959",
+    "date": "2025-11-17",
+    "response": "A camisa, que é verde, contém o seguinte texto em inglês (cor branca):\n\n**Texto principal:**\n**sight connection**\n\n**Slogan (em letras menores, abaixo):**\n**living well with vision loss**\n\n(Em português, o slogan significa: \"vivendo bem com a perda de visão\".)\n\nA camisa também apresenta um logotipo estilizado ao lado direito, que se parece com uma flor ou um conjunto de folhas brancas.",
+    "latency_seconds": 2.866037368774414
+}

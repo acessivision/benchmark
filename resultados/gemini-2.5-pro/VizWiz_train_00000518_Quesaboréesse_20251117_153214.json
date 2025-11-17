@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-17T15:31:32.590176",
+    "date": "2025-11-17",
+    "response": "De acordo com o texto na embalagem, há dois sabores:\n\n*   **Laranja** (Orange)\n*   **Lima-Limão** (Lemon-Lime)\n\nA embalagem contém 2 potes de gelatina de laranja e 4 de lima-limão, ambos de baixa caloria.",
+    "latency_seconds": 13.815615892410278
+}
