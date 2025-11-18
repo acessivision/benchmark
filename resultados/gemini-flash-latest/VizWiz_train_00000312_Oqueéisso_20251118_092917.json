@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-18T09:28:39.865984",
+    "date": "2025-11-18",
+    "response": "Esta imagem mostra principalmente uma **lata de sopa enlatada** em cima ou ao lado de um **fogão** (cooktop) em uma cozinha.\n\nDetalhando o que é visível:\n\n1.  **A Lata de Comida:** É o item mais focado à direita.\n    *   É uma lata de sopa.\n    *   O rótulo indica a marca **Marie Callender's** e o tipo de produto como **\"Pot Pie Style Soup\"** (Sopa Estilo Torta/Empadão).\n\n2.  **O Fogão:** O lado esquerdo da imagem mostra a superfície preta de um fogão/cooktop.\n    *   É possível ver as grades (suporte para panelas) de um queimador.\n    *   Um botão de controle do fogão, marcado como \"OFF\" (Desligado), é visível na parte inferior esquerda.\n\n3.  **O Ambiente:** A lata está apoiada perto de um balcão de madeira (ou tábua de corte). O piso visível é de ladrilhos claros e quadrados. A parte inferior da imagem mostra a roupa (tecido azul escuro) e os pés da pessoa que tirou a foto.\n\nEm resumo: É uma foto de uma **lata de sopa Marie Callender's** em uma cozinha.",
+    "latency_seconds": 5.441179275512695
+}

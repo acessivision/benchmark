@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-18T09:23:23.495311",
+    "date": "2025-11-18",
+    "response": "Na imagem, há um frasco colocado sobre o que parece ser uma superfície plana. Não dá para ver exatamente o tipo de produto devido à qualidade e distância do foco. Pode ser um recipiente comum para produtos como temperos, medicamentos ou suplementos, mas sem mais detalhes não é possível identificar com certeza.",
+    "latency_seconds": 16.851012706756592
+}
