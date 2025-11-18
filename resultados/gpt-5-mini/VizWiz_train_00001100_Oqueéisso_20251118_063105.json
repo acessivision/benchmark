@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-18T06:30:37.748722",
+    "date": "2025-11-18",
+    "response": "Parece um frasco cilíndrico com tampa (provavelmente um frasco de comprimidos/suplemento ou remédio). A foto está meio desfocada e não dá para ler o rótulo, então não dá para dizer exatamente o que é.\n\nQuer que eu amplie/corte a imagem para ver melhor? Se for medicamento, não tome nada sem confirmar o rótulo ou perguntar a um profissional de saúde.",
+    "latency_seconds": 5.209813833236694
+}

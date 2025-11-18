@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-18T06:30:37.748722",
+    "date": "2025-11-18",
+    "response": "A imagem mostra um recipiente em cima de uma superfície escura, provavelmente uma bancada ou mesa. A iluminação é baixa, dificultando a identificação precisa do item. O design pode sugerir que seja um frasco de suplemento ou remédio.",
+    "latency_seconds": 2.473986864089966
+}

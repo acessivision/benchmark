@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-18T06:32:36.438793",
+    "date": "2025-11-18",
+    "response": "A imagem mostra um fogão e uma lata de sopa sobre uma bancada. Parece ser uma sopa de \"pot pie\" enlatada, pronta para ser preparada ou consumida.",
+    "latency_seconds": 2.4700889587402344
+}

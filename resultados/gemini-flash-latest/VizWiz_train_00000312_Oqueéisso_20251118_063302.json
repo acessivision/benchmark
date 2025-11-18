@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-18T06:32:36.438793",
+    "date": "2025-11-18",
+    "response": "A imagem mostra uma cena de cozinha, com vários elementos comuns desse ambiente.\n\nOs principais itens visíveis são:\n\n1.  **Um Fogão (Cooktop):** Uma parte de um fogão de cozinha preto (provavelmente a gás) é visível no lado esquerdo.\n2.  **Uma Lata de Sopa:** No lado direito, repousando sobre uma bancada de madeira clara, há uma lata de alimento. O rótulo é legível e indica que é uma **\"Pot Pie Style Soup\"** (Sopa Estilo Torta de Pote), da marca **Marie Callender's**.\n3.  **Bancada e Chão:** A lata está em cima de uma bancada de madeira. O chão, na parte inferior, parece ter ladrilhos quadrados de cor clara.\n4.  **Pessoa (Parcialmente):** A parte inferior da foto mostra as pernas/colo de uma pessoa vestindo uma roupa azul escura, indicando que a foto foi tirada de cima, olhando para o chão/balcão.\n\nEm resumo, é uma foto de uma **lata de sopa pronta (Marie Callender's Pot Pie Style Soup)** na beira de um fogão de cozinha.",
+    "latency_seconds": 5.824248552322388
+}

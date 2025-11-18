@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000033.jpg",
+    "question_original_pt": "Isso é uma garrafa de medicação e eu só gostaria de saber se tem uma etiqueta e informações de dosagem visíveis. Obrigado.",
+    "timestamp_sent_utc": "2025-11-18T06:31:51.090979",
+    "date": "2025-11-18",
+    "response": "Parece haver uma etiqueta na garrafa, sim, mas o texto está borrado e não dá para ler. Não vejo nenhuma informação de dosagem claramente visível.\n\nSe quiser, tente outra foto:\n- Mais luz e sem reflexo.\n- Aproxime a câmera e toque para focar na etiqueta.\n- Mantenha o celular apoiado para não tremer.\n- Fotografe o painel principal da etiqueta e os lados.\n\nPode enviar a nova imagem e tento ler para você.",
+    "latency_seconds": 10.207183599472046
+}
