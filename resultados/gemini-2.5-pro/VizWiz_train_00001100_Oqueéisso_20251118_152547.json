@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-18T15:24:56.886807",
+    "date": "2025-11-18",
+    "response": "Com base na imagem, esta é uma fotografia tirada dentro de um cômodo. A qualidade da imagem é um pouco baixa e a iluminação é escura.\n\nAqui estão os elementos visíveis:\n\n*   **Primeiro plano:** Uma superfície escura e brilhante, que parece ser o canto de uma mesa ou balcão. Sobre ela, há um frasco branco com uma tampa roxa.\n*   **Plano de fundo:** Um cômodo com paredes claras e piso de cerâmica. Há duas janelas com persianas, por onde entra uma luz muito forte, ofuscando a vista para o exterior.\n\nA foto parece ser de um ambiente doméstico, possivelmente uma cozinha ou sala de estar, mas o cômodo parece estar vazio ou com poucos móveis.",
+    "latency_seconds": 19.193819522857666
+}

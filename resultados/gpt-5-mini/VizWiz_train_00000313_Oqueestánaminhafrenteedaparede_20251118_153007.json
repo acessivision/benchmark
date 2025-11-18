@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "question_original_pt": "O que está na minha frente e da parede?",
+    "timestamp_sent_utc": "2025-11-18T15:29:19.460283",
+    "date": "2025-11-18",
+    "response": "Na sua frente, encostado na parede, há um móvel de madeira com uma televisão e aparelhos de áudio/vídeo. À direita, também junto à parede, há uma caixa/baú (provavelmente de brinquedos) e um sofá estampado; no chão há um carpete verde e, em primeiro plano, aparece seu joelho.",
+    "latency_seconds": 8.452224731445312
+}

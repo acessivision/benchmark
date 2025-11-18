@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-18T15:24:56.886807",
+    "date": "2025-11-18",
+    "response": "Parece ser um frasco cilíndrico com tampa roxa apoiado na borda de um móvel/contátop. A foto está um pouco fora de foco e o rótulo não dá para ler, mas pode ser um frasco de remédio/suplemento ou um potinho de tempero.\n\nQuer que eu aproxime/recorte a imagem para tentar ler o rótulo?",
+    "latency_seconds": 6.74215841293335
+}

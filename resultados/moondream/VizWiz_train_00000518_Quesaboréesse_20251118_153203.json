@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "question_original_pt": "Que sabor é esse?",
+    "timestamp_sent_utc": "2025-11-18T15:31:21.728550",
+    "date": "2025-11-18",
+    "pergunta_translated_en": "What flavor is that?",
+    "response_original_en": "Orange and lemon-lime",
+    "response_translated_pt": "Laranja e limão",
+    "latency_seconds": 1.601274013519287
+}

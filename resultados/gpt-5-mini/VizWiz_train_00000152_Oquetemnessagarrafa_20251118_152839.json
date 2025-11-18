@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000152.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-11-18T15:28:04.294849",
+    "date": "2025-11-18",
+    "response": "Parece ser uma garrafa de melatonina (suplemento para sono) — dá pra ver a palavra \"Melatonin\" e o selo \"100% Drug Free Sleep Aid\".  \n\nO que é e precauções rápidas:\n- A melatonina é um hormônio/suplemento usado para ajudar a ajustar o sono (jet lag, insônia leve, etc.).  \n- Doses comuns variam (por exemplo 0,5–5 mg); siga sempre a instrução do rótulo.  \n- Consulte um médico antes de usar se estiver grávida, amamentando, tiver doenças crônicas ou usar outros medicamentos (interações são possíveis).  \n- Evite dirigir ou operar máquinas se sentir sonolência.\n\nSe quiser, posso ler o rótulo com mais detalhe se enviar uma foto mais nítida da parte com a composição e dosagem.",
+    "latency_seconds": 8.86329960823059
+}

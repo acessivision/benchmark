@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001100.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-18T15:24:56.886807",
+    "date": "2025-11-18",
+    "response": "A imagem está um pouco desfocada, mas parece ser um frasco ou recipiente em cima de um balcão. Não dá para identificar claramente o que contém ou qual é o produto.",
+    "latency_seconds": 2.358961343765259
+}
