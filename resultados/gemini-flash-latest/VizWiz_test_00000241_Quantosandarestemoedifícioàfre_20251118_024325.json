@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000241.jpg",
+    "question_original_pt": "Quantos andares tem o edifício à frente?",
+    "timestamp_sent_utc": "2025-11-18T02:42:51.353381",
+    "date": "2025-11-18",
+    "response": "O edifício visível na imagem principal tem **9 andares** (ou pisos) principais, contando os níveis de janelas acima do nível do solo e abaixo do telhado/estrutura técnica.\n\n(Se contarmos o nível do telhado onde estão as antenas como um nível técnico, o total é 9 andares de ocupação.)",
+    "latency_seconds": 4.87847375869751
+}

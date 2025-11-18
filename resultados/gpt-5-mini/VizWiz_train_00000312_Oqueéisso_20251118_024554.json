@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-11-18T02:45:31.102448",
+    "date": "2025-11-18",
+    "response": "Parece ser uma lata de comida enlatada — especificamente uma lata de sopa do tipo \"pot pie\" (provavelmente sabor frango/Chicken Pot Pie). Está apoiada na borda do fogão. Quer que eu leia o rótulo com mais detalhes (fazer OCR) para confirmar a marca e o sabor?",
+    "latency_seconds": 6.1678783893585205
+}

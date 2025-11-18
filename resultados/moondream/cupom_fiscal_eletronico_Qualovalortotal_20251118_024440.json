@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "cupom_fiscal_eletronico.png",
+    "question_original_pt": "Qual o valor total?",
+    "timestamp_sent_utc": "2025-11-18T02:44:17.219821",
+    "date": "2025-11-18",
+    "pergunta_translated_en": "What is the total value?",
+    "response_original_en": "207.88",
+    "response_translated_pt": "207,88",
+    "latency_seconds": 1.3272104263305664
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000152.jpg",
+    "question_original_pt": "O que tem nessa garrafa?",
+    "timestamp_sent_utc": "2025-11-18T02:45:08.161981",
+    "date": "2025-11-18",
+    "response": "Com base na imagem, a garrafa contém **Melatonina** (Melatonin).\n\nO rótulo indica que é um produto da marca **Nature's Bounty** e é um **auxílio para dormir (Sleep Aid)**, 100% livre de medicamentos (\"Drug Free\").\n\nO rótulo também menciona que é de \"Maximum Strength\" (Força Máxima) e contém um ingrediente estudado clinicamente.",
+    "latency_seconds": 1.6780498027801514
+}

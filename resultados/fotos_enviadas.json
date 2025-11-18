@@ -197,5 +197,12 @@
         "data/imagens/gescom_nota_fiscal.jpg",
         "data/imagens/VizWiz_train_00000259.jpg",
         "data/imagens/VizWiz_train_00001041.jpg"
+    ],
+    "2025-11-18": [
+        "data/imagens/VizWiz_train_00000313.jpg",
+        "data/imagens/gescom_nota_fiscal.jpg",
+        "data/imagens/VizWiz_train_00000179.jpg",
+        "data/imagens/VizWiz_test_00000096.jpg",
+        "data/imagens/cupom_fiscal.jpg"
     ]
 }
